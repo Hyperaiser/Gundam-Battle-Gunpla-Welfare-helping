@@ -47,7 +47,24 @@ Rifle Mode"", "type":"Beam"},
 			{"part":"arms", "a":291, "ma":2300, "sa":291, "md":1142, "sd":291, "br":0, "pr":0, "wt":["Mobile Fighter", "Gundam Type"], "ex":{"type":"EX Skill", "name":"Rising Arrow"}},
 			{"part":"legs", "a":558, "ma":291, "sa":291, "md":1142, "sd":558, "br":428, "pr":302, "wt":["Mobile Fighter", "Long-Range"], "ex":{"type":"Part Traits", "name":"Shooting CRIT Rate boosted 17%"}},
 			{"part":"backpack", "a":558, "ma":291, "sa":291, "md":1142, "sd":558, "br":302, "pr":428, "wt":["Mobile Fighter", "Long-Range"], "ex":{"type":"EX Skill", "name":"Defense Hack (a)"}},
-			
+		]
+	}, 
+	{
+		"name":"Aile Strike",
+		"attribute":"Speed",
+		"rarity": 4,
+		"sokai": 0,
+		"parts":[
+			{"part":"head", "a":799, "ma":384, "sa":2791, "md": 799, "sd":384, "br":213, "pr":0, "wt":["Protag.", "Mid-Range"], "ex":{"type":"EX Skill", "name":"Igelstellung"}},
+			{"part":"torso", "a":1184, "ma":384, "sa":384, "md":1608, "sd":799, "br":614, "pr":0, "wt":["Protag.", "Mid-Range"], "ex":{"type":"Part Traits", "name":"Shooting CRIT rate boosted 30%"}},
+			{"part":"arms", "a":799, "ma":1982, "sa":384, "md":1184, "sd":799, "br":0, "pr":0, "wt":["Protag.", "Mid-Range"], "ex":{"type":"Part Traits", "name":"Sp. Shot Power boosted 30%"}},
+			{"part":"legs", "a":799, "ma":384, "sa":799, "md":1184, "sd":384, "br":614, "pr":420, "wt":["Protag.", "High Mobility"], "ex":{"type":"EX Skill", "name":"Rapid Thrust"}},
+			{"part":"backpack", "a":799, "ma":384, "sa":384, "md":1608, "sd":384, "br":614, "pr":420, "wt":["Protag.", "High Mobility"], "ex":{"type":"EX Skill", "name":"Strike Punisher"}},
+			{"part":"melee", "a":799, "ma":1982, "sa":0, "md":799, "sd":0, "br":614, "pr":213, "wt":["Protag.", "High Mobility"], "ex":{"type":"Traits", "name":"Out-Fighter Job Enemy Melee Power reduced 30%"}, "name":"Beam Saber", "type":"Beam"},
+			{"part":"melee", "a":799, "ma":1982, "sa":0, "md":799, "sd":0, "br":614, "pr":213, "wt":["Protag.", "High Mobility"], "ex":{"type":"EX Skill", "name":"Knight's Nail"}, "name":"Grand Slam", "type":"Physical"},
+			{"part":"range", "a":284, "ma":0, "sa":3590, "md":799, "sd":0, "br":420, "pr":213, "wt":["Protag.", "Mid-Range"], "ex":{"type":"Traits", "name":""With Speed Attribute (Self) Initial EX Skill Charge boosted 20%""}, "name":"57mm High-Energy
+Beam Rifle", "type":"Beam"},
+			{"part":"shield", "a":799, "ma":0, "sa":0, "md":1982, "sd":799, "br":812, "pr":213, "wt":["Protag.", "Mid-Range"], "ex":{"type":"Traits", "name":"With Speed attribute (self) EX Skill DMG output boosted 35 (flat)"}, "name":"Anti-Beam Shield"},
 		]
 	}, 
 	
