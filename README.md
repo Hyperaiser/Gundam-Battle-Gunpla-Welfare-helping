@@ -50,4 +50,5 @@ Rifle Mode"", "type":"Beam"},
 			
 		]
 	}, 
+	
   ]
