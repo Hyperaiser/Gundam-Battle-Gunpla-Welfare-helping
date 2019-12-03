@@ -62,10 +62,8 @@ Rifle Mode"", "type":"Beam"},
 			{"part":"backpack", "a":799, "ma":384, "sa":384, "md":1608, "sd":384, "br":614, "pr":420, "wt":["Protag.", "High Mobility"], "ex":{"type":"EX Skill", "name":"Strike Punisher"}},
 			{"part":"melee", "a":799, "ma":1982, "sa":0, "md":799, "sd":0, "br":614, "pr":213, "wt":["Protag.", "High Mobility"], "ex":{"type":"Traits", "name":"Out-Fighter Job Enemy Melee Power reduced 30%"}, "name":"Beam Saber", "type":"Beam"},
 			{"part":"melee", "a":799, "ma":1982, "sa":0, "md":799, "sd":0, "br":614, "pr":213, "wt":["Protag.", "High Mobility"], "ex":{"type":"EX Skill", "name":"Knight's Nail"}, "name":"Grand Slam", "type":"Physical"},
-			{"part":"range", "a":284, "ma":0, "sa":3590, "md":799, "sd":0, "br":420, "pr":213, "wt":["Protag.", "Mid-Range"], "ex":{"type":"Traits", "name":""With Speed Attribute (Self) Initial EX Skill Charge boosted 20%""}, "name":"57mm High-Energy
-Beam Rifle", "type":"Beam"},
+			{"part":"range", "a":284, "ma":0, "sa":3590, "md":799, "sd":0, "br":420, "pr":213, "wt":["Protag.", "Mid-Range"], "ex":{"type":"Traits", "name":""With Speed Attribute (Self) Initial EX Skill Charge boosted 20%""}, "name":"57mm High-Energy Beam Rifle", "type":"Beam"},
 			{"part":"shield", "a":799, "ma":0, "sa":0, "md":1982, "sd":799, "br":812, "pr":213, "wt":["Protag.", "Mid-Range"], "ex":{"type":"Traits", "name":"With Speed attribute (self) EX Skill DMG output boosted 35 (flat)"}, "name":"Anti-Beam Shield"},
 		]
 	}, 
-	
   ]
