@@ -104,4 +104,34 @@ Rifle Mode"", "type":"Beam"},
 			{"part":"backpack", "a":558, "ma":291, "sa":291, "md":1140, "sd":1140, "br":302, "pr":126, "wt":["High Mobility", "Mid-Range"], "ex":{"type":"Part Traits", "name":"15% chance to prevent vernier consumption when stepping"}},
 		]
 	},
+	{
+		"name":"Zeta",
+		"attribute":"Speed",
+		"rarity": 4,
+		"sokai": 1,
+		"parts":[
+			{"part":"head", "a":969, "ma":379, "sa":2391, "md": 791, "sd":791, "br":468, "pr":0, "wt":["Transformer", "Gundam Type"], "ex":{"type":"EX Skill", "name":"Head-Mounted Vulcan"}},
+			{"part":"torso", "a":1738, "ma":379, "sa":379, "md":1358, "sd":1358, "br":675, "pr":0, "wt":["Transformer", "Ace Excl."], "ex":{"type":EX Skill", "name":"Hyper Beam Saber"}},
+			{"part":"arms", "a":969, "ma":2528, "sa":379, "md":1358, "sd":1358, "br":0, "pr":0, "wt":["Transformer", "Gundam Type"], "ex":{"type":EX Skill", "name":""Arm-Mounted Grenade Launcher""}},
+			{"part":"legs", "a":969, "ma":379, "sa":379, "md":1358, "sd":1358, "br":675, "pr":468, "wt":["Transformer", "Gundam Type"], "ex":{"type":"EX Skill", "name":"Saber Boomerang"}},
+			{"part":"backpack", "a":969, "ma":379, "sa":379, "md":1358, "sd":1358, "br":675, "pr":468, "wt":["Transformer", "Ace Excl."], "ex":{"type":"Part Traits", "name":"When attacking with Beam Shooting Power boosted 30%"}},
+			{"part":"melee", "a":969, "ma":3318, "sa":0, "md":0, "sd":0, "br":675, "pr":208, "wt":["Transformer", "Close Combat"], "ex":{"type":"EX Skill", "name":"Cross Wave"}, "name":"Beam Saber", "type":"Beam"},
+			{"part":"melee", "a":969, "ma":3318, "sa":0, "md":0, "sd":0, "br":675, "pr":208, "wt":["Transformer", "Long-Range"], "ex":{"type":"Part Traits", "name":""With Speed Attribute (self) Melee DMG Output boosted 35""}, "name":"Long Beam Saber", "type":"Beam"},
+			{"part":"range", "a":969, "ma":0, "sa":3318, "md":0, "sd":0, "br":675, "pr":208, "wt":["Transformer", "Gundam Type"], "ex":{"type":"Traits", "name":"Sp. Shot DMG Output boosted 35"}, "name":"Beam Rifle", "type":"Beam"},
+			{"part":"shield", "a":969, "ma":0, "sa":0, "md":1738, "sd":1738, "br":878, "pr":208, "wt":["Transformer", "Close Combat"], "ex":{"type":"EX Skill", "name":"Missile Launcher"}, "name":"Zeta Shield"},
+		]
+	}, 
+	{
+		"name":"Qubeley",
+		"attribute":"Power",
+		"rarity": 4,
+		"sokai": 1,
+		"parts":[
+			{"part":"head", "a":968, "ma":553, "sa":2927, "md": 968, "sd":553, "br":0, "pr":284, "wt":["Commander", "High Firepower"], "ex":{"type":"EX Skill", "name":"Recovery Tool (y)"}},
+			{"part":"torso", "a":1358, "ma":553, "sa":553, "md":1737, "sd":968, "br":0, "pr":675, "wt":["Commander", "High Firepower."], "ex":{"type":Part Traits", "name":"Middle-Shooter Job Buff EX Skill Effect up 22%"}},
+			{"part":"arms", "a":968, "ma":2138, "sa":553, "md":1358, "sd":968, "br":0, "pr":0, "wt":["Commander", "High Firepower"], "ex":{"type":EX Skill", "name":"Beam Gun"}},
+			{"part":"legs", "a":968, "ma":553, "sa":968, "md":1358, "sd":553, "br":467, "pr":675, "wt":["Commander", "High Mobility"], "ex":{"type":"Part Traits", "name":"Middle-Shooter Job Mid Shot Attack raised 20%"}},
+			{"part":"backpack", "a":969, "ma":553, "sa":553, "md":1737, "sd":553, "br":467, "pr":675, "wt":["Commander", "High Mobility"], "ex":{"type":"EX Skill", "name":"Funnels"}},
+		]
+	}, 
   ]
