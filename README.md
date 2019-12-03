@@ -9,14 +9,10 @@
 			{"part":"head", "a":1181, "ma":384, "sa":796, "md": 1181, "sd":796, "br":289, "pr":289, "wt":["Protag.", "Close Combat"], "ex":{"type":"EX Skill", "name":"Igelstellung"}},
 			{"part":"torso", "a":1977, "ma":796, "sa":384, "md":796, "sd":796, "br":289, "pr":289, "wt":["Protag.", "Close Combat"], "ex":{"type":"Part Traits", "name":""In-Fighter Job EX Skill CD reduced 20%""}},
 			{"part":"arms", "a":796, "ma":2783, "sa":0, "md":1181, "sd":1181, "br":0, "pr":0, "wt":["Protag.", "Close Combat"], "ex":{"type":"EX Skill", "name":"Lightning Ball"}},
-			{"part":"legs", "a":1181, "ma":384, "sa":384, "md":1181, "sd":796, "br":476, "pr":476, "wt":["Protag.", "For Urban
-Area"], "ex":{"type":"EX Skill", "name":"Bisect"}},
-			{"part":"backpack", "a":1181, "ma":384, "sa":384, "md":1181, "sd":796, "br":479, "pr":479, "wt":["Protag.", "For Urban
-Area"], "ex":{"type":"EX Skill", "name":"Double Saber Rush"}},
-			{"part":"melee", "a":1181, "ma":0, "sa":3581, "md":0, "sd":0, "br":289, "pr":289, "wt":["Protag.", "For Urban
-Area"], "ex":{"type":"Skill", "name":"Gerbera Straight"}, "name":"Gerbera Straight", "type":"Physical"},
-			{"part":"shield", "a":1181, "ma":0, "sa":0, "md":1603, "sd":796, "br":476, "pr":476, "wt":["Protag.", "For Urban
-Area"], "ex":{"type":"Traits", "name":""In-Fighter Job Enemy Shooting Power reduced 30%""}, "name":"Anti-Beam Shield"},
+			{"part":"legs", "a":1181, "ma":384, "sa":384, "md":1181, "sd":796, "br":476, "pr":476, "wt":["Protag.", "For UrbanArea"], "ex":{"type":"EX Skill", "name":"Bisect"}},
+			{"part":"backpack", "a":1181, "ma":384, "sa":384, "md":1181, "sd":796, "br":479, "pr":479, "wt":["Protag.", "For Urban Area"], "ex":{"type":"EX Skill", "name":"Double Saber Rush"}},
+			{"part":"melee", "a":1181, "ma":0, "sa":3581, "md":0, "sd":0, "br":289, "pr":289, "wt":["Protag.", "For Urban Area"], "ex":{"type":"Skill", "name":"Gerbera Straight"}, "name":"Gerbera Straight", "type":"Physical"},
+			{"part":"shield", "a":1181, "ma":0, "sa":0, "md":1603, "sd":796, "br":476, "pr":476, "wt":["Protag.", "For Urban Area"], "ex":{"type":"Traits", "name":""In-Fighter Job Enemy Shooting Power reduced 30%""}, "name":"Anti-Beam Shield"},
 		]
 	},
 	{
@@ -34,6 +30,20 @@ Area"], "ex":{"type":"Traits", "name":""In-Fighter Job Enemy Shooting Power redu
 			{"part":"range", "a":1181, "ma":0, "sa":3177, "md":0, "sd":0, "br":611, "pr":213, "wt":["Gundam Type.", "Close Combat"], "ex":{"type":"Traits", "name":"When Armor > 40% Enemy Strong Melee Power Reduced 30%"}, "name":""GN Sword
 Rifle Mode"", "type":"Beam"},
 			{"part":"shield", "a":796, "ma":0, "sa":0, "md":2380, "sd":796, "br":476, "pr":0, "wt":["Gundam Type.", "Close Combat"], "ex":{"type":"Traits", "name":"When Armor > 40% EX Skill DMG output boosted by 35 (flat)"}, "name":"GN Shield"},
+		]
+	}, 
+	{
+		"name":"Dynames",
+		"attribute":"Techique",
+		"rarity": 4,
+		"sokai": 0,
+		"parts":[
+			{"part":"head", "a":384, "ma":384, "sa":3181, "md": 1181, "sd":1182, "br":0, "pr":0, "wt":["Gundam Type.", "Long-Range"], "ex":{"type":"EX Skill", "name":"Archer Stance (y)"}},
+			{"part":"torso", "a":1606, "ma":384, "sa":384, "md":799, "sd":1606, "br":290, "pr":290, "wt":["Long-Range.", "For Desert"], "ex":{"type":"Part Traits", "name":"Long-Shooter Job Shooting Power boosted 30%"}},
+			{"part":"arms", "a":1182, "ma":799, "sa":384, "md":384, "sd":1606, "br":290, "pr":290, "wt":["Long-Range.", "High Firepower"], "ex":{"type":"EX Skill", "name":"Double Saber Shear"}},
+			{"part":"legs", "a":799, "ma":384, "sa":384, "md":799, "sd":1606, "br":420, "pr":420, "wt":["Long-Range.", "For Desert"], "ex":{"type":"EX Skill", "name":"GN Missile"}},
+			{"part":"backpack", "a":799, "ma":384, "sa":384, "md":799, "sd":1606, "br":420, "pr":420, "wt":["Long-Range.", "For Desert"], "ex":{"type":"EX Skill", "name":"Trans-Am"}},
+			{"part":"range", "a":384, "ma":0, "sa":4004, "md":0, "sd":0, "br":290, "pr":290, "wt":["High Firepower.", "Long-Range"], "ex":{"type":"Traits", "name":""Beam ranged weapon reload speed boosted 20%""}, "name":""GN Sniper Rifle", "type":"Beam"},
 		]
 	}, 
 	{
@@ -66,4 +76,32 @@ Rifle Mode"", "type":"Beam"},
 			{"part":"shield", "a":799, "ma":0, "sa":0, "md":1982, "sd":799, "br":812, "pr":213, "wt":["Protag.", "Mid-Range"], "ex":{"type":"Traits", "name":"With Speed attribute (self) EX Skill DMG output boosted 35 (flat)"}, "name":"Anti-Beam Shield"},
 		]
 	}, 
+	{
+		"name":"X Divider",
+		"attribute":"Power",
+		"rarity": 4,
+		"sokai": 0,
+		"parts":[
+			{"part":"head", "a":1181, "ma":384, "sa":1181, "md": 1181, "sd":797, "br":418, "pr":213, "wt":["Mid-Range", "Gundam Type"], "ex":{"type":"EX Skill", "name":"Offense Up (y)"}},
+			{"part":"torso", "a":1978, "ma":384, "sa":384, "md":797, "sd":797, "br":611, "pr":0, "wt":["Mid-Range", "Gundam Type"], "ex":{"type":"Part Traits", "name":"With Blade Category equipped Strong Melee Power boosted 30%"}},
+			{"part":"arms", "a":797, "ma":1181, "sa":384, "md":1181, "sd":1181, "br":213, "pr":0, "wt":["Mid-Range", "High Firepower"], "ex":{"type":"Part Traits", "Out-Fighter Job Enemy Shooting Power reduced 30%"}},
+			{"part":"legs", "a":1181, "ma":384, "sa":799, "md":1605, "sd":384, "br":611, "pr":213, "wt":["Mid-Range", "For Desert"], "ex":{"type":"Part Traits", "name":"Out-Fighter Job EX Skill CD reduced 20%"}},
+			{"part":"backpack", "a":1181, "ma":384, "sa":384, "md":1181, "sd":797, "br":611, "pr":213, "wt":["Mid-Range", "For Desert"], "ex":{"type":"EX Skill", "name":"Twist Buster"}},
+			{"part":"range", "a":1181, "ma":0, "sa":2382, "md":797, "sd":0, "br":611, "pr":213, "wt":["Mid-Range", "For Desert"], "ex":{"type":"Traits", "name":"Out-Fighter Job Initial EX Skill Charge boosted 20%"}, "name":"Beam Machine Gun", "type":"Beam"},
+			{"part":"shield", "a":1181, "ma":0, "sa":0, "md":1978, "sd":797, "br":809, "pr":213, "wt":["Mid-Range", "High Firepower"], "ex":{"type":"EX Skill", "name":"Harmonica Cannon"}, "name":"Divider"},
+		]
+	}, 
+	{
+		"name":"Blitz",
+		"attribute":"Speed",
+		"rarity": 3,
+		"sokai": 0,
+		"parts":[
+			{"part":"head", "a":558, "ma":291, "sa":889, "md": 889, "sd":889, "br":302, "pr":0, "wt":["High Mobility", "For Urban Area"], "ex":{"type":"EX Skill", "name":"Recovery Tool (b)"}},
+			{"part":"torso", "a":1140, "ma":291, "sa":0, "md":889, "sd":889, "br":428, "pr":0, "wt":["High Mobility", "For Urban Area"], "ex":{"type":"EX Skill", "name":"Mirage Colloid"}},
+			{"part":"arms", "a":558, "ma":889, "sa":291, "md":889, "sd":889, "br":302, "pr":126, "wt":["High Mobility", "For Urban Area"], "ex":{"type":"EX Skill", "name":"Trikeros Rush"}},
+			{"part":"legs", "a":558, "ma":291, "sa":291, "md":1140, "sd":1140, "br":302, "pr":126, "wt":["High Mobility", "Mid-Range"], "ex":{"type":"Part Traits", "name":""With Speed Attribute (self), Shooting CRIT Rate boosted 17%""}},
+			{"part":"backpack", "a":558, "ma":291, "sa":291, "md":1140, "sd":1140, "br":302, "pr":126, "wt":["High Mobility", "Mid-Range"], "ex":{"type":"Part Traits", "name":"15% chance to prevent vernier consumption when stepping"}},
+		]
+	},
   ]
