@@ -37,17 +37,17 @@ Rifle Mode"", "type":"Beam"},
 		]
 	}, 
 	{
-		"name":"Dynames",
-		"attribute":"Techique",
-		"rarity": 4,
+		"name":"Rising",
+		"attribute":"Speed",
+		"rarity": 3,
 		"sokai": 0,
 		"parts":[
-			{"part":"head", "a":384, "ma":384, "sa":3181, "md": 1181, "sd":1182, "br":0, "pr":0, "wt":["Gundam Type.", "Long-Range"], "ex":{"type":"EX Skill", "name":"Archer Stance (y)"}},
-			{"part":"torso", "a":1606, "ma":384, "sa":384, "md":799, "sd":1606, "br":290, "pr":290, "wt":["Long-Range.", "For Desert"], "ex":{"type":"Part Traits", "name":"Long-Shooter Job Shooting Power boosted 30%"}},
-			{"part":"arms", "a":1182, "ma":799, "sa":384, "md":384, "sd":1606, "br":290, "pr":290, "wt":["Long-Range.", "High Firepower"], "ex":{"type":"EX Skill", "name":"Double Saber Shear"}},
-			{"part":"legs", "a":799, "ma":384, "sa":384, "md":799, "sd":1606, "br":420, "pr":420, "wt":["Long-Range.", "For Desert"], "ex":{"type":"EX Skill", "name":"GN Missile"}},
-			{"part":"backpack", "a":799, "ma":384, "sa":384, "md":799, "sd":1606, "br":420, "pr":420, "wt":["Long-Range.", "For Desert"], "ex":{"type":"EX Skill", "name":"Trans-Am"}},
-			{"part":"range", "a":384, "ma":0, "sa":4004, "md":0, "sd":0, "br":290, "pr":290, "wt":["High Firepower.", "Long-Range"], "ex":{"type":"Traits", "name":""Beam ranged weapon reload speed boosted 20%""}, "name":""GN Sniper Rifle", "type":"Beam"},
+			{"part":"head", "a":889, "ma":291, "sa":558, "md": 558, "sd":889, "br":291, "pr":126, "wt":["Mobile Fighter", "Long-Range"], "ex":{"type":"EX Skill", "name":"Head-Mounted Vulcan"}},
+			{"part":"torso", "a":1142, "ma":291, "sa":291, "md":1142, "sd":558, "br":0, "pr":428, "wt":["Mobile Fighter", "Long-Range"], "ex":{"type":"Part Traits", "name":"Strong Melee Power boosted 20%"}},
+			{"part":"arms", "a":291, "ma":2300, "sa":291, "md":1142, "sd":291, "br":0, "pr":0, "wt":["Mobile Fighter", "Gundam Type"], "ex":{"type":"EX Skill", "name":"Rising Arrow"}},
+			{"part":"legs", "a":558, "ma":291, "sa":291, "md":1142, "sd":558, "br":428, "pr":302, "wt":["Mobile Fighter", "Long-Range"], "ex":{"type":"Part Traits", "name":"Shooting CRIT Rate boosted 17%"}},
+			{"part":"backpack", "a":558, "ma":291, "sa":291, "md":1142, "sd":558, "br":302, "pr":428, "wt":["Mobile Fighter", "Long-Range"], "ex":{"type":"EX Skill", "name":"Defense Hack (a)"}},
+			
 		]
 	}, 
   ]
