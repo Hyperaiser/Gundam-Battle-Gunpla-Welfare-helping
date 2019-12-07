@@ -4,7 +4,7 @@
 		"rarity": 4,
 		"sokai": 0,
 		"parts":[
-			{"part":"head", "a":795, "ma":382, "sa":2377, "md":795, "sd":795, "br":0, "pr":416, "wt":["Protag.", "For Computers"], "ex":{"type":"EX Skill", "name":""Head-Mounted Vulcan""}},
+			{"part":"head", "a":795, "ma":382, "sa":2377, "md":795, "sd":795, "br":0, "pr":416, "wt":["Protag.", "For Computers"], "ex":{"type":"EX Skill", "name":"Head-Mounted Vulcan"}},
 			{"part":"torso", "a":1601, "ma":382, "sa":382, "md":1179, "sd":1179, "br":0, "pr":609, "wt":["Protag.", "For Computers"], "ex":{"type":"Part Traits", "name":"When Armor > 40%, Buff EX Skill Effect up 22%"}},
 			{"part":"arms", "a":795, "ma":2377, "sa":382, "md":1179, "sd":1179, "br":0, "pr":0, "wt":["Protag.", "For Computers"], "ex":{"type":"Part Traits", "name":"15% chance of attacks penetrating super armor"}},
 			{"part":"legs", "a":795, "ma":382, "sa":382, "md":1179, "sd":1179, "br":416, "pr":609, "wt":["Protag.", "Gundam Type"], "ex":{"type":"Part Traits", "name":"When attacking with Beam, Long Shot Attack raised 20%"}},
