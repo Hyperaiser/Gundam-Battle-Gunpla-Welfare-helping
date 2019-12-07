@@ -1,0 +1,16 @@
+[
+	{
+		"name":"Gundam Barbatos (6th Form)",
+		"attribute":"Speed",
+		"rarity": 4,
+		"sokai": 0,
+		"parts":[
+			{"part":"head", "a":1182, "ma":384, "sa":799, "md": 1182, "sd":384, "br":290, "pr":290, "wt":["For Urban Arena", "Ace Excl."], "ex":{"type":"Part Traits", "name":"With Blade Category equipped, EX Skill DMG Output boosted 35 (flat)"}},
+			{"part":"torso", "a":1606, "ma":384, "sa":384, "md":1606, "sd":799, "br":290, "pr":290, "wt":["For Urban Arena", "Ace Excl."], "ex":{"type":"Part Traits", "name":"Defender Job, Shooting DMG Taken reduced 35 (flat)"}},
+			{"part":"arms", "a":384, "ma":3181, "sa":384, "md":1606, "sd":384, "br":0, "pr":0, "wt":["For Urban Arena", ""Ace Excl.""], "ex":{"type":"EX Skill", "name":"170mm Autocannon"}},
+			{"part":"legs", "a":799, "ma":384, "sa":384, "md":1606, "sd":799, "br":420, "pr":290, "wt":["For Urban Arena", "Gundam Type"], "ex":{"type":"Part Traits", "name":"Defender Job, EX Skill Piercing boosted 28%"}},
+			{"part":"backpack", "a":799, "ma":384, "sa":384, "md":1606, "sd":799, "br":290, "pr":420, "wt":["For Urban Arena", "Gundam Type"], "ex":{"type":"EX Skill", "name":"Bloody Wrench"}},
+			{"part":"melee", "a":384, "ma":4004, "sa":0, "md":0, "sd":0, "br":420, "pr":420, "wt":["For Urban Arena", "Ace Excl."], "ex":{"type":EX Skill", "name":"Mace Rush"}, "name":"Wrench Mace", "type":"Physical"},
+		]
+	},
+]
