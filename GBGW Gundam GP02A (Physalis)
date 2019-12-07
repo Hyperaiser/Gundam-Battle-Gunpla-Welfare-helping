@@ -1,0 +1,16 @@
+[
+		"name":"Gundam GP02B (Physalis)",
+		"attribute":"Power",
+		"rarity": 4,
+		"sokai": 0,
+		"parts":[
+			{"part":"head", "a":1605, "ma":384, "sa":1181, "md":797, "sd":797, "br":418, "pr":0, "wt":["Zeon", "Gundam Type"], "ex":{"type":"EX Skill", "name":"Head-Mounted Vulcan"}},
+			{"part":"torso", "a":2382, "ma":384, "sa":384, "md":797, "sd":797, "br":611, "pr":0, "wt":["Zeon", "Gundam Type"], "ex":{"type":"Part Traits", "name":11% chance to survive a fatal blow}},
+			{"part":"arms", "a":1181, "ma":1181, "sa":384, "md":1181, "sd":1181, "br":213, "pr":0, "wt":["Zeon", "Gundam Type"], "ex":{"type":"Part Traits", "name":"Physical ranged weapon reload speed boosted 20%"}},
+			{"part":"legs", "a":1181, "ma":384, "sa":384, "md":1181, "sd":1181, "br":213, "pr":611, "wt":["Zeon", "For Base"], "ex":{"type":"EX Skill", "name":"Twist Buster"}},
+			{"part":"backpack", "a":1181, "ma":384, "sa":384, "md":1181, "sd":1181, "br":611, "pr":213, "wt":["Zeon", "For Base"], "ex":{"type":"Part Traits", "name":"With Bazooka Category equipped, Debuff EX Skill Effect up 22%"}},
+			{"part":"range", "a":384, "ma":0, "sa":3997, "md":0, "sd":0, "br":213, "pr":417, "wt":["Zeon", "For Base"], "ex":{"type":"EX Skill", "name":"Atomic Bazooka"}, "name":"Atomic Bazooka", "type":"Physical"},
+			{"part":"shield", "a":1181, "ma":0, "sa":0, "md":1181, "sd":1181, "br":1029, "pr":0, "wt":["Zeon", "For Base"], "ex":{"type":"Part Traits", "name":"Physical ranged weapon magazine boosted 20%"}, "name":"Shield"},
+		]
+	},
+]
