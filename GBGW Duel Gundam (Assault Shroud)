@@ -1,0 +1,15 @@
+[
+	{
+		"name":"Duel Gundam (Assault Shroud)",
+		"attribute":"Power",
+		"rarity": 4,
+		"sokai": 0,
+		"parts":[
+			{"part":"head", "a":384, "ma":384, "sa":3181, "md": 382, "sd":1182, "br":0, "pr":0, "wt":["High Firepower", "Mid-Range"], "ex":{"type":"Part Traits", "name":"Beam ranged weapon reload speed boosted 20%"}},
+			{"part":"torso", "a":1606, "ma":384, "sa":384, "md":799, "sd":1606, "br":290, "pr":290, "wt":["High Firepower", "Mid-Range"], "ex":{"type":"EX Skill", "name":"Armed Aura (b)"}},
+			{"part":"arms", "a":1182, "ma":799, "sa":384, "md":384, "sd":1606, "br":290, "pr":290, "wt":["High Firepower", "Mid-Range"], "ex":{"type":"EX Skill", "name":"Shiva & 5-Tube Missile Pod"}},
+			{"part":"legs", "a":799, "ma":384, "sa":384, "md":799, "sd":1601, "br":420, "pr":420, "wt":["High Firepower", "For Space"], "ex":{"type":"Part Traits", "name":"With Power Attribute (self),EX Skill Piercing boosted 28%"}},
+			{"part":"backpack", "a":799, "ma":384, "sa":384, "md":799, "sd":1601, "br":420, "pr":420, "wt":["High Firepower", "For Space"], "ex":{"type":"Part Traits", "name":"When Armor > 40%, Melee DMG Output boosted 35 (flat)"}},
+		]
+	},
+]
