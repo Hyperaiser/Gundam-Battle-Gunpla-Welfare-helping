@@ -1,0 +1,17 @@
+[
+	{
+		"name":"Shenlong",
+		"attribute":"Technique",
+		"rarity": 4,
+		"sokai": 0,
+		"parts":[
+			{"part":"head", "a":1605, "ma":384, "sa":1181, "md": 797, "sd":797, "br":418, "pr":0, "wt":["Close Combat", "For Forest"], "ex":{"type":"EX Skill", "name":"Head-Mounted Vulcan"}},
+			{"part":"torso", "a":2382, "ma":384, "sa":384, "md":797, "sd":797, "br":661, "pr":0, "wt":["Close Combat", "For Forest"], "ex":{"type":"Part Traits", "name":"With Technique Attribute (self), Strong Melee Power boosted 30%"}},
+			{"part":"arms", "a":1181, "ma":1181, "sa":384, "md":1181, "sd":1181, "br":213, "pr":0, "wt":["Close Combat", ""High Firepower""], "ex":{"type":"EX Skill", "name":"Dragon Fang"}},
+			{"part":"legs", "a":1181, "ma":384, "sa":384, "md":1181, "sd":1181, "br":213, "pr":611, "wt":["Close Combat", "High Firepower"], "ex":{"type":"Part Traits", "name":"With Technique Attribute (self), 20% chance to not recoil"}},
+			{"part":"backpack", "a":1181, "ma":384, "sa":384, "md":1181, "sd":1181, "br":611, "pr":213, "wt":["Close Combat", "High Firepower"], "ex":{"type":"EX Skill", "name":"Armed Aura (y)"}},
+			{"part":"melee", "a":1181, "ma":1605, "sa":0, "md":384, "sd":384, "br":611, "pr":418, "wt":["Close Combat", "For Forest"], "ex":{"type":EX Skill", "name":"Hell Jumper"}, "name":"Beam Glaive", "type":"Beam"},
+			{"part":"shield", "a":1181, "ma":0, "sa":0, "md":1181, "sd":1181, "br":1029, "pr":0, "wt":["Close Combat", "Gundam Type"], "ex":{"type":"EX Skill", "name":"Shield Throw"}, "name":"Shenlong Shield"},
+		]
+	},
+]
