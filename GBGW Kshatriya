@@ -1,0 +1,13 @@
+[
+		"name":"Kshatriya",
+		"attribute":"Power",
+		"rarity": 4,
+		"sokai": 1,
+		"parts":[
+			{"part":"head", "a":0, "ma":551, "sa":3307, "md":551, "sd":965, "br":670, "pr":0, "wt":["Zeon", "For Space"], "ex":{"type":"Part Traits", "name":"When attacking with Beam, Long Shot Attack raised 20%"}},
+			{"part":"torso", "a":1732, "ma":965, "sa":965, "md":0, "sd":1732, "br":670, "pr":0, "wt":["Zeon", "For Space"], "ex":{"type":"EX Skill", "name":"Chest Mega Particle Cannon & I-Field"}},
+			{"part":"arms", "a":2302, "ma":965, "sa":965, "md":1506, "sd":4255, "br":1543, "pr":282, "wt":["Zeon", "For Space"], "ex":{"type":"EX Skill", "name":"Funnels"}, "combo":"shield"},
+			{"part":"legs", "a":965, "ma":551, "sa":965, "md":965, "sd":1353, "br":670, "pr":282, "wt":["Zeon", "Ace Excl."], "ex":{"type":"Part Traits", "name":"Long-Shooter Job, Enemy Melee Power reduced 30%"}},
+		]
+	},
+]
