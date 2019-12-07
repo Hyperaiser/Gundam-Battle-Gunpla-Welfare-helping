@@ -1,0 +1,16 @@
+[
+		"name":"Gundam X",
+		"attribute":"Speed",
+		"rarity": 4,
+		"sokai": 0,
+		"parts":[
+			{"part":"head", "a":384, "ma":384, "sa":3181, "md":384, "sd":1182, "br":0, "pr":416, "wt":["Protag.", "High Firepower"], "ex":{"type":"EX Skill", "name":"Defense Up (y)"}},
+			{"part":"torso", "a":1606, "ma":384, "sa":384, "md":799, "sd":1606, "br":290, "pr":290, "wt":["Protag.", "High Firepower"], "ex":{"type":"Part Traits", "name":"With Speed Attribute (self), Shooting Power boosted 30%"}},
+			{"part":"arms", "a":1182, "ma":799, "sa":384, "md":384, "sd":1606, "br":290, "pr":290, "wt":["Protag.", "For Forest"], "ex":{"type":"Part Traits", "name":"15% chance of attacks penetrating super armor"}},
+			{"part":"legs", "a":799, "ma":384, "sa":384, "md":799, "sd":1606, "br":420, "pr":420, "wt":["Protag.", "For Forest"], "ex":{"type":"Part Traits", "name":"20% chance to not recoil"}},
+			{"part":"backpack", "a":799, "ma":384, "sa":384, "md":799, "sd":1606, "br":420, "pr":420, "wt":["Protag.", "High Firepower"], "ex":{"type":"EX Skill", "name":"Satellite Cannon"}},
+			{"part":"melee", "a":1182, "ma":2384, "sa":0, "md":0, "sd":0, "br":477, "pr":477, "wt":["Protag.", "High Firepower"], "ex":{"type":"Part Traits", "name":"With Speed Attribute (self), Melee DMG Taken reduced 35 (flat)"}, "name":"Large Beam Sword", "type":"Beam"},
+			{"part":"range", "a":384, "ma":0, "sa":4004, "md":0, "sd":0, "br":290, "pr":290, "wt":["Protag.", "High Firepower"], "ex":{"type":"Part Traits", "name":"With Speed Attribute (self), Initial EX Skill Charge boosted 20%"}, "name":"Shield Buster Rifle", "type":"Beam"},
+		]
+	},
+]
