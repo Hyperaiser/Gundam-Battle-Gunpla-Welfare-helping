@@ -1,0 +1,16 @@
+[
+		"name":"Gundam GP03 (Stamen)",
+		"attribute":"Technique",
+		"rarity": 4,
+		"sokai": 0,
+		"parts":[
+			{"part":"head", "a":1180, "ma":383, "sa":796, "md":1180, "sd":796, "br":212, "pr":417, "wt":["Protag.", "Federation"], "ex":{"type":"Part Traits", "name":"With Technique Attribute (self), EX Skill Piercing boosted 28%"}},
+			{"part":"torso", "a":1976, "ma":383, "sa":796, "md":796, "sd":796, "br":0, "pr":610, "wt":["Protag.", "Federation"], "ex":{"type":"EX Skill", "name":""Mega-Beam Cannon (Dendrobium)""}},
+			{"part":"arms", "a":796, "ma":2781, "sa":0, "md":796, "sd":796, "br":0, "pr":0, "wt":["Protag.", "Federation"], "ex":{"type":"Part Traits", "name":"With Technique Attribute (self), Strong Melee CRIT Rate boosted 30%"}},
+			{"part":"legs", "a":1180, "ma":383, "sa":383, "md":1180, "sd":796, "br":417, "pr":610, "wt":["Protag.", "Mid-Range"], "ex":{"type":"Part Traits", "name":"With Technique Attribute (self), Shooting CRIT Rate boosted 30%"}},
+			{"part":"backpack", "a":1180, "ma":383, "sa":383, "md":1180, "sd":796, "br":417, "pr":610, "wt":["Protag.", "Mid-Range"], "ex":{"type":"EX Skill", "name":"Rapid Thrust"}},
+			{"part":"range", "a":1181, "ma":0, "sa":3177, "md":0, "sd":0, "br":213, "pr":661, "wt":["Protag.", "Mid-Range"], "ex":{"type":"EX Skill", "name":"Dual Cascade"}, "name":"Folding Bazooka", "type":"Physical"},
+			{"part":"shield", "a":1181, "ma":0, "sa":0, "md":796, "sd":1602, "br":213, "pr":806, "wt":["Protag.", "Federation"], "ex":{"type":"Part Traits", "name":"With Technique Attribute (self), Shooting DMG Taken reduced 35"}, "name":"Folding Shield"},
+		]
+	},
+]
