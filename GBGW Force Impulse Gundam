@@ -6,7 +6,7 @@
 		"parts":[
 			{"part":"head", "a":795, "ma":382, "sa":2377, "md":795, "sd":795, "br":0, "pr":416, "wt":["Gundam Type", "For Tundra."], "ex":{"type":"Part Traits", "name":"When Armor > 40%, Shooting CRIT Rate boosted 30%"}},
 			{"part":"torso", "a":1601, "ma":382, "sa":382, "md":1179, "sd":1179, "br":0, "pr":609, "wt":["Gundam Type", "For Tundra."], "ex":{"type":"EX Skill", "name":"CIWS"}},
-			{"part":"arms", "a":795, "ma":2377, "sa":382, "md":1179, "sd":1179, "br":0, "pr":0, "wt":["Gundam Type", "Mid-Range"], "ex":{"type":"Part Traits", "name":"With Power Attribute (self), Strong Melee CRIT Rate boosted 30%"}, "combo":"shield"},
+			{"part":"arms", "a":795, "ma":2377, "sa":382, "md":1179, "sd":1179, "br":0, "pr":0, "wt":["Gundam Type", "Mid-Range"], "ex":{"type":"Part Traits", "name":"With Power Attribute (self), Strong Melee CRIT Rate boosted 30%"}},
 			{"part":"legs", "a":795, "ma":382, "sa":382, "md":1179, "sd":1179, "br":416, "pr":609, "wt":["Gundam Type", "Mid-Range"], "ex":{"type":"EX Skill", "name":"Rapid Thrust"}},
 			{"part":"backpack", "a":795, "ma":382, "sa":382, "md":1179, "sd":1179, "br":416, "pr":609, "wt":["Gundam Type", "Mid-Range"], "ex":{"type":"EX Skill", "name":"Excalibur"}},
 			{"part":"melee", "a":795, "ma":3173, "sa":0, "md":0, "sd":0, "br":201, "pr":609, "wt":["Gundam Type.", "For Tundra"], "ex":{"type":"Part Traits", "name":"With Rifle Category equipped, Initial EX Skill Charge boosted 20%"}, "name":"Vajra Beam Saber", "type":"Beam"},
