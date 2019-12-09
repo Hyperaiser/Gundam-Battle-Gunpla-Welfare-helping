@@ -1,0 +1,15 @@
+[
+		"name":"Gundam Rose",
+		"attribute":"Technique",
+		"rarity": 1,
+		"sokai": 0,
+		"parts":[
+			{"part":"head", "a":559, "ma":292, "sa":1436, "md":292, "sd":891, "br":303, "pr":127, "wt":["Mobile Fighter", "For Urban Arena"], "ex":{"type":"EX Skill", "name":"Head-Mounted Vulcan"}},
+			{"part":"torso", "a":891, "ma":559, "sa":292, "md":559, "sd":1144, "br":430, "pr":0, "wt":["Mobile Fighter", "For Urban Arena"], "ex":{"type":"Part Traits", "name":"With Technique Attribute (Self), EX Skill CD reduced 15%"}},
+			{"part":"arms", "a":1144, "ma":1994, "sa":292, "md":1144, "sd":2304, "br":592, "pr":127, "wt":["Mobile Fighter", "For Urban Arena"], "ex":{"type":"EX Skill", "name":"Rose Screamer"}, "combo":"shield"},
+			{"part":"legs", "a":559, "ma":292, "sa":292, "md":292, "sd":891, "br":430, "pr":303, "wt":["Mobile Fighter", "Long-Range"], "ex":{"type":"EX Skill", "name":"Chevalier Saber"}},
+			{"part":"backpack", "a":559, "ma":292, "sa":292, "md":292, "sd":891, "br":430, "pr":303, "wt":["Mobile Fighter", "Long-Range"], "ex":{"type":"Part Traits", "name":"With Saber Category equipped Buff EX Skill Time up 15%"}},
+			{"part":"melee", "a":292, "ma":2594, "sa":0, "md":0, "sd":559, "br":303, "pr":127, "wt":["Mobile Fighter", "Long-Range"], "ex":{"type":"Part Traits", "name":"Job Gauge Increase boosted 13%"}, "name":"Chevalier Saber", "type":"Physical"},
+		]
+	},
+]
