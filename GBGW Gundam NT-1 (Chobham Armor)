@@ -1,0 +1,14 @@
+[
+		"name":"Gundam NT-1 (Chobham Armor)",
+		"attribute":"Technique",
+		"rarity": 3,
+		"sokai": 0,
+		"parts":[
+			{"part":"head", "a":889, "ma":292, "sa":891, "md":891, "sd":558, "br":127, "pr":302, "wt":["Heavy Armor", "For Base"], "ex":{"type":"EX Skill", "name":"Head-Mounted Vulcan}},
+			{"part":"torso", "a":1435, "ma":292, "sa":292, "md":558, "sd":558, "br":0, "pr":430, "wt":["Heavy Armor", "Federation"], "ex":{"type":"EX Skill", "name":"Recovery Tool (b)"}},
+			{"part":"arms", "a":558, "ma":891, "sa":292, "md":891, "sd":891, "br":0, "pr":127, "wt":["Heavy Armor", "Federation"], "ex":{"type":"Part Traits", "name":"Middle-Shooter Job, Enemy Sp. Shot Power reduced 25%"}},
+			{"part":"legs", "a":889, "ma":292, "sa":292, "md":1144, "sd":292, "br":127, "pr":430, "wt":["Heavy Armor", "For Base"], "ex":{"type":"Part Traits", "name":"With Technique Attribute (self), Enemy Melee Power reduced 25%"}},
+			{"part":"backpack", "a":889, "ma":292, "sa":292, "md":1144, "sd":292, "br":127, "pr":430, "wt":["Heavy Armor", "For Base"], "ex":{"type":"Part Traits", "name":"When Armor > 60%, 13% chance to not recoil"}},
+		]
+	},
+]
