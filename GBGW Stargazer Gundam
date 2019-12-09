@@ -1,0 +1,14 @@
+[
+		"name":"Stargazer Gundam",
+		"attribute":"Speed",
+		"rarity": 3,
+		"sokai": 0,
+		"parts":[
+			{"part":"head", "a":558, "ma":291, "sa":1142, "md":558, "sd":558, "br":302, "pr":126, "wt":["For Space", "Support Type"], "ex":{"type":"Part Traits", "name":"With Speed Attribute (self), Shot Guidance boosted 14%"}},
+			{"part":"torso", "a":1140, "ma":291, "sa":0, "md":889, "sd":889, "br":428, "pr":0, "wt":["For Space", "Support Type"], "ex":{"type":"Part Traits", "name":"With Speed Attribute (self), Enemy Strong Melee Power reduced 30%"}},
+			{"part":"arms", "a":558, "ma":889, "sa":291, "md":2297, "sd":2297, "br":874, "pr":302, "wt":["For Space", "Support Type"], "ex":{"type":"Beam ranged weapon reload speed boosted 15%"}, "combo":"shield"},
+			{"part":"legs", "a":889, "ma":291, "sa":291, "md":1140, "sd":1140, "br":126, "pr":302, "wt":["For Space", "Protag."], "ex":{"type":"Part Traits", "With Speed Attribute (self), EX Skill DMG Taken reduced 25 (flat)"}},
+			{"part":"backpack", "a":889, "ma":291, "sa":291, "md":1140, "sd":1140, "br":302, "pr":126, "wt":["For Space", "Protag."], "ex":{"type":"EX Skill", "name":"Voiture Lumiere"}},
+		]
+	},
+]
