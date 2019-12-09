@@ -1,0 +1,17 @@
+[
+		"name":"Gundam Nadleeh",
+		"attribute":"Speed",
+		"rarity": 3,
+		"sokai": 0,
+		"parts":[
+			{"part":"head", "a":558, "ma":291, "sa":1698, "md":558, "sd":558, "br":0, "pr":302, "wt":["For Space", "For Computers"], "ex":{"type":"Part Traits", "name":"Middle-Shooter Job, Shooting CRIT Rate boosted 17%"}},
+			{"part":"torso", "a":1140, "ma":291, "sa":291, "md":889, "sd":889, "br":0, "pr":428, "wt":["For Space", "For Computers"], "ex":{"type":"EX Skill", "name":"Trial System"}},
+			{"part":"arms", "a":558, "ma":1698, "sa":291, "md":889, "sd":889, "br":0, "pr":0, "wt":["For Space", "For Computers"], "ex":{"type":"Part Traits", "name":"With Speed Attribute (self), Melee Power boosted 25%"}},
+			{"part":"legs", "a":558, "ma":291, "sa":291, "md":889, "sd":889, "br":302, "pr":428, "wt":["For Space", "Gundam Type"], "ex":{"type":"Part Traits", "name":"When Armor > 40%, Shot Spread reduced 15%"}},
+			{"part":"backpack", "a":558, "ma":291, "sa":291, "md":889, "sd":889, "br":302, "pr":428, "wt":["For Space", "Gundam Type"], "ex":{"type":"Part Traits", "name":"With Speed Attribute (self), Shooting Power boosted 25%"}},
+			{"part":"melee", "a":558, "ma":2297, "sa":0, "md":0, "sd":0, "br":126, "pr":426, "wt":["For Space", "For Computers"], "ex":{"type":"Part Traits", "name":"With Speed Attribute (self), Enemy Melee Power reduced 25%"}, "name":"GN Beam Saber", "type":"Beam"},
+			{"part":"range", "a":558, "ma":0, "sa":2297, "md":0, "sd":0, "br":126, "pr":426, "wt":["For Space", "For Computers"], "ex":{"type":"Part Traits", "name":"Middle-Shooter Job, Shooting DMG Output boosted 20 (flat)"}, "name":"GN Beam Rifle", "type":"Beam"},
+			{"part":"shield", "a":558, "ma":0, "sa":0, "md":1140, "sd":1140, "br":126, "pr":588, "wt":["For Space", "For Computers"], "ex":{"type":"Part Traits", "name":"Middle-Shooter Job, Debuff EX Skill Time up 16%"}, "name":"GN Shield"},
+		]
+	},
+]
