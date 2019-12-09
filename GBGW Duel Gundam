@@ -10,6 +10,7 @@
 			{"part":"legs", "a":889, "ma":291, "sa":291, "md":558, "sd":889, "br":428, "pr":302, "wt":["Mid-Range", "Gundam Type"], "ex":{"type":"Part Traits", "name":"When Armor < 40%, 13% chance to not recoil"}},
 			{"part":"backpack", "a":889, "ma":291, "sa":291, "md":558, "sd":889, "br":428, "pr":302, "wt":["Mid-Range", "For Urban Arena"], "ex":{"type":"EX Skill", "name":"Combat Hack (b)"}},
 			{"part":"range", "a":889, "ma":0, "sa":2300, "md":0, "sd":0, "br":428, "pr":126, "wt":["Mid-Range", "For Urban Arena"], "ex":{"type":"Part Traits", "name":"With Speed Attribute (Self), EX Skill Power boosted 25%"}, "name":"57mm High-Energy Beam Rifle", "type":"Beam"},
+			{"part":"range", "a":889, "ma":0, "sa":2300, "md":0, "sd":0, "br":428, "pr":126, "wt":["Mid-Range", "For Urban Arena"], "ex":{"type":"Part Traits", "name":"When Armor < 40%, Enemy Shooting Power reduced 25%"}, "name":"Gae Bulg", "type":"Physical"},
 			{"part":"shield", "a":889, "ma":0, "sa":0, "md":558, "sd":1142, "br":590, "pr":126, "wt":["Mid-Range", "For Forest"], "ex":{"type":"EX Skill", "name":"Combat Hack (a)"}, "name":"Anti-Beam Shield"},
 		]
 	},
