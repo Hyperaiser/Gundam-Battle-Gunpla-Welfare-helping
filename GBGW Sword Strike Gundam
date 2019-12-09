@@ -1,0 +1,15 @@
+[
+		"name":"Sword Strike Gundam",
+		"attribute":"Technique",
+		"rarity": 3,
+		"sokai": 0,
+		"parts":[
+			{"part":"head", "a":558, "ma":292, "sa":1993, "md":292, "sd":292, "br":302, "pr":127, "wt":["High Firepower", "Close Combat"], "ex":{"type":"EX Skill", "name":"Protection Hack (b)"}},
+			{"part":"torso", "a":1144, "ma":558, "sa":558, "md":558, "sd":558, "br":430, "pr":0, "wt":["High Firepower", "Close Combat"], "ex":{"type":"Part Traits", "name":"Against a large enemy, Enemy Strong Melee Power reduced 25%"}},
+			{"part":"arms", "a":1144, "ma":2593, "sa":1144, "md":891, "sd":891, "br":718, "pr":0, "wt":["High Firepower", "Close Combat"], "ex":{"type":"EX Skill", "name":"Block Stance (y)"}, "combo":"shield"},
+			{"part":"legs", "a":558, "ma":558, "sa":292, "md":558, "sd":558, "br":302, "pr":430, "wt":["High Firepower", "Gundam Type"], "ex":{"type":"Part Traits", "name":"Against a large enemy, Melee CRIT Rate boosted 17%"}},
+			{"part":"backpack", "a":558, "ma":558, "sa":292, "md":558, "sd":558, "br":430, "pr":302, "wt":["High Firepower", "Gundam Type"], "ex":{"type":"EX Skill", "name":"Schwert Gewehr"}},
+			{"part":"melee", "a":292, "ma":2593, "sa":0, "md":0, "sd":0, "br":430, "pr":302, "wt":["High Firepower", "Close Combat"], "ex":{"type":"EX Skill", "name":"Maelstrom"}, "name":"Gae Bulg", "type":"Physical"},
+		]
+	},
+]
