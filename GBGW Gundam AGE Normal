@@ -1,0 +1,16 @@
+[
+		"name":"Gundam AGE Normal",
+		"attribute":"Power",
+		"rarity": 3,
+		"sokai": 0,
+		"parts":[
+			{"part":"head", "a":559, "ma":294, "sa":893, "md":559, "sd":559, "br":303, "pr":303, "wt":["Mid-Range", "Gundam Type"], "ex":{"type":"EX Skill", "name":"Combat Stance (a)"}},
+			{"part":"torso", "a":559, "ma":294, "sa":294, "md":559, "sd":559, "br":432, "pr":432, "wt":["Mid-Range", "Gundam Type"], "ex":{"type":"Part Traits", "name":"With ""For Computers"" enemy, Strong Melee Power boosted 25%"}},
+			{"part":"arms", "a":294, "ma":893, "sa":294, "md":559, "sd":559, "br":432, "pr":432, "wt":["Mid-Range", "Gundam Type"], "ex":{"type":"Part Traits", "name":"When Armor < 40%, Melee DMG Output boosted 20 (flat)"}},
+			{"part":"legs", "a":294, "ma":294, "sa":294, "md":893, "sd":893, "br":432, "pr":432, "wt":["Mid-Range", "Protag."], "ex":{"type":"EX Skill", "name":"Beam Dagger Bites"}},
+			{"part":"backpack", "a":294, "ma":294, "sa":294, "md":893, "sd":893, "br":432, "pr":432, "wt":["Mid-Range", "Protag."], "ex":{"type":"Part Traits", "name":""When Armor > 60%, Shooting DMG Output boosted 20 (flat)""}},
+			{"part":"range", "a":559, "ma":0, "sa":1146, "md":0, "sd":0, "br":432, "pr":432, "wt":["Mid-Range", "Protag."], "ex":{"type":"Part Traits", "name":"With Power Attribute (self), Initial EX Skill Charge boosted 12%"}, "name":"DODS Rifle", "type":"Beam"},
+			{"part":"shield", "a":294, "ma":0, "sa":0, "md":893, "sd":893, "br":594, "pr":594, "wt":["Mid-Range", "Gundam Type"], "ex":{"type":"Part Traits", "name":"With Power Attribute (self), Buff EX Skill Effect up 15%"}, "name":"Shield"},
+		]
+	},
+]
