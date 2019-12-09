@@ -1,0 +1,13 @@
+[
+		"name":"Beargguy",
+		"attribute":"Power",
+		"rarity": 3,
+		"sokai": 0,
+		"parts":[
+			{"part":"head", "a":1144, "ma":294, "sa":891, "md":558, "sd":558, "br":302, "pr":0, "wt":["Amphib.", "For Computers"], "ex":{"type":"EX Skill", "name":"Head-Mounted Mega Particle Cannon"}},
+			{"part":"torso", "a":2593, "ma":558, "sa":558, "md":1435, "sd":1435, "br":592, "pr":430, "wt":["Amphib.", ""For Urban Area""], "ex":{"type":"Part Traits", "name":"With Module Category equipped Buff EX Skill Effect up 15%"}, "combo":"legs"},
+			{"part":"arms", "a":891, "ma":891, "sa":292, "md":891, "sd":891, "br":127, "pr":0, "wt":["Amphib.", ""For Urban Area""], "ex":{"type":"EX Skill", "name":"Arm-Mounted Mega Particle Cannon"}},
+			{"part":"backpack", "a":891, "ma":292, "sa":292, "md":891, "sd":891, "br":430, "pr":217, "wt":["Amphib.", "For Computers"], "ex":{"type":"EX Skill", "name":"Beam Recorder"}},
+		]
+	},
+]
