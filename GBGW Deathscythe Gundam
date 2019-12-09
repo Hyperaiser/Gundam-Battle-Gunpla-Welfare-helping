@@ -5,7 +5,7 @@
 		"rarity": 4,
 		"sokai": 0,
 		"parts":[
-			{"part":"head", "a":795, "ma":382, "sa":1179, "md": 1179, "sd":1179, "br":0, "pr":416, "wt":["High Mobility", "For Forest"], "ex":{"type":"EX Skill", "name":"Head-Mounted Vulcan"}},
+			{"part":"head", "a":795, "ma":382, "sa":1179, "md":1179, "sd":1179, "br":0, "pr":416, "wt":["High Mobility", "For Forest"], "ex":{"type":"EX Skill", "name":"Head-Mounted Vulcan"}},
 			{"part":"torso", "a":1601, "ma":382, "sa":0, "md":1179, "sd":1179, "br":0, "pr":609, "wt":["High Mobility", "For Forest"], "ex":{"type":"EX Skill", "name":"Machine Cannon"}},
 			{"part":"arms", "a":795, "ma":1179, "sa":382, "md":1179, "sd":1179, "br":211, "pr":416, "wt":["High Mobility", ""For Forest""], "ex":{"type":"Part Traits", "name":"With Axe Category equipped, Mid Shot Attack raised 20%"}},
 			{"part":"legs", "a":795, "ma":382, "sa":382, "md":1601, "sd":1601, "br":416, "pr":211, "wt":["High Mobility", "For Base"], "ex":{"type":"Part Traits", "name":"With Axe Category equipped, EX Skill CD reduced 20%"}},
