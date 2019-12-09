@@ -1,0 +1,15 @@
+[
+		"name":"Gundam Heavyarms",
+		"attribute":"Technique",
+		"rarity": 3,
+		"sokai": 0,
+		"parts":[
+			{"part":"head", "a":891, "ma":292, "sa":1702, "md":292, "sd":292, "br":213, "pr":213, "wt":["High Firepower", "For Tundra"], "ex":{"type":"Part Traits", "name":"Beam ranged weapon magazine boosted 20%"}},
+			{"part":"torso", "a":1435, "ma":292, "sa":558, "md":558, "sd":558, "br":213, "pr":213, "wt":["High Firepower", "For Tundra"], "ex":{"type":"EX Skill", "name":"Chest-Mounted Gatling & Machine Cannons"}},
+			{"part":"arms", "a":891, "ma":558, "sa":558, "md":891, "sd":891, "br":0, "pr":0, "wt":["High Firepower", "For Tundra"], "ex":{"type":"EX Skill", "name":"Aerial Spin"}},
+			{"part":"legs", "a":891, "ma":292, "sa":292, "md":558, "sd":891, "br":351, "pr":351, "wt":["High Firepower", "For Base"], "ex":{"type":"Part Traits", "name":"With Technique Attribute (self), Long Shot Attack raised 14%"}},
+			{"part":"backpack", "a":891, "ma":292, "sa":292, "md":558, "sd":891, "br":351, "pr":351, "wt":["High Firepower", "For Base"], "ex":{"type":"EX Skill", "name":"Beam Gatling Gun"}},
+			{"part":"range", "a":1702, "ma":0, "sa":2302, "md":558, "sd":1144, "br":624, "pr":624, "wt":["High Firepower", "For Tundra"], "ex":{"type":"Part Traits", "name":"Beam ranged weapon magazine boosted 20%"}, "name":"Gae Bulg", "type":"Physical", "combo":"shield"},
+		]
+	},
+]
