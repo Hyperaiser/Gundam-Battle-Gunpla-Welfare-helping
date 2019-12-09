@@ -1,0 +1,14 @@
+[
+		"name":"Kampfer (Alternative)",
+		"attribute":"Power",
+		"rarity": 1,
+		"sokai": 0,
+		"parts":[
+			{"part":"head", "a":291, "ma":291, "sa":2300, "md":291, "sd":889, "br":0, "pr":0, "wt":["High Firepower", "Mid-Range"], "ex":{"type":"Part Traits", "name":"With Power Attribute (self),  Shooting CRIT Rate boosted 17%"}},
+			{"part":"torso", "a":1142, "ma":291, "sa":291, "md":558, "sd":1142, "br":428, "pr":0, "wt":["High Firepower", "Mid-Range"], "ex":{"type":"Part Traits", "name":"With Power Attribute (self), Buff EX Skill Time up 15%"}},
+			{"part":"arms", "a":889, "ma":558, "sa":291, "md":291, "sd":1142, "br":302, "pr":426, "wt":["High Firepower", "Zeon"], "ex":{"type":"Part Traits", "name":"With Power Attribute (self), Shooting CRIT Rate boosted 17%"}},
+			{"part":"legs", "a":558, "ma":291, "sa":291, "md":558, "sd":1142, "br":428, "pr":302, "wt":["High Firepower", "For Computers"], "ex":{"type":"EX Skill", "name":"Rapid Thrust"}},
+			{"part":"backpack", "a":558, "ma":291, "sa":291, "md":558, "sd":1142, "br":302, "pr":428, "wt":["High Firepower", "For Computers"], "ex":{"type":"EX Skill", "name":"Combat Stance (a)"}},
+		]
+	},
+]
