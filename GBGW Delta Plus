@@ -1,0 +1,17 @@
+[
+		"name":"Delta Plus",
+		"attribute":"Power",
+		"rarity": 3,
+		"sokai": 0,
+		"parts":[
+			{"part":"head", "a":889, "ma":291, "sa":558, "md":889, "sd":558, "br":213, "pr":213, "wt":["Transformer", "Federation"], "ex":{"type":"EX Skill", "name":"Head-Mounted Vulcan"}},
+			{"part":"torso", "a":1434, "ma":558, "sa":291, "md":558, "sd":558, "br":213, "pr":213, "wt":["Transformer", "Federation"], "ex":{"type":"Part Traits", "name":"With Power Attribute (self), EX Skill DMG Output boosted 20 (flat)"}},
+			{"part":"arms", "a":558, "ma":1992, "sa":0, "md":889, "sd":889, "br":0, "pr":0, "wt":["Transformer", "Federation"], "ex":{"type":"Part Traits", "name":"With Rifle Category equipped, Sp. Shot DMG Taken reduced 20 (flat)"}},
+			{"part":"legs", "a":889, "ma":291, "sa":291, "md":889, "sd":558, "br":350, "pr":350, "wt":["Transformer", "Mid-Range"], "ex":{"type":"Part Traits", "name":"When Armor > 60%, Sp. Shot Power boosted 25%"}},
+			{"part":"backpack", "a":889, "ma":291, "sa":291, "md":889, "sd":558, "br":350, "pr":350, "wt":["Transformer", "Mid-Range"], "ex":{"type":"Part Traits", "name":"With Power Attribute (self), Buff EX Skill Effect up 15%"}},
+			{"part":"melee", "a":889, "ma":2591, "sa":0, "md":0, "sd":0, "br":213, "pr":213, "wt":["Transformer", "Federation"], "ex":{"type":"Part Traits", "name":"When Armor > 60%, Strong Melee Power boosted 20%"}, "name":"Beam Saer", "type":"Beam"},
+			{"part":"range", "a":889, "ma":0, "sa":1702, "md":0, "sd":0, "br":302, "pr":302, "wt":["Transformer", "Federation"], "ex":{"type":"Part Traits", "name":"When attacking with Beam, Sp. Shot Power boosted 25%"}, "name":"Gae Bulg", "type":"Physical"},
+			{"part":"shield", "a":889, "ma":0, "sa":0, "md":1142, "sd":558, "br":350, "pr":350, "wt":["Transformer", "Federation"], "ex":{"type":"EX Skill", "name":"Grenade Launcher"}, "name":"Shield"},
+		]
+	},
+]
