@@ -1,0 +1,16 @@
+[
+		"name":"Gundam Artemis",
+		"attribute":"Power",
+		"rarity": 2,
+		"sokai": 0,
+		"parts":[
+			{"part":"head", "a":796, "ma":383, "sa":2378, "md":796, "sd":796, "br":417, "pr":0, "wt":["Protag.", "High Firepower"], "ex":{"type":"EX Skill", "name":"CIWS}},
+			{"part":"torso", "a":1601, "ma":383, "sa":383, "md":1180, "sd":1180, "br":610, "pr":0, "wt":["Protag.", "High Firepower"], "ex":{"type":"EX Skill", "name":"Breast Beam Vulcan"}},
+			{"part":"arms", "a":1601, "ma":2378, "sa":383, "md":2781, "sd":2781, "br":417, "pr":417, "wt":["Protag.", "High Firepower"], "ex":{"type":"EX Skill", "name":"Palma Fiocina Beam Cannon"}, "combo":"shield"},
+			{"part":"legs", "a":796, "ma":383, "sa":383, "md":1180, "sd":1180, "br":610, "pr":417, "wt":["Protag.", "For Computers"], "ex":{"type":"Part Traits", "name":"11% chance to not recoil"}},
+			{"part":"backpack", "a":796, "ma":383, "sa":383, "md":1180, "sd":1180, "br":610, "pr":417, "wt":["Protag.", "For Computers"], "ex":{"type":"Part Traits", "name":"Buff EX Skill Effect up 12%"}},
+			{"part":"melee", "a":796, "ma":3175, "sa":0, "md":0, "sd":0, "br":610, "pr":212, "wt":["Protag.", "High Firepower"], "ex":{"type":"Part Traits", "name":"Melee DMG Output boosted 15 (flat)"}, "name":"Arondight", "type":"Beam"},
+			{"part":"range", "a":796, "ma":0, "sa":3175, "md":0, "sd":0, "br":610, "pr":212, "wt":["Protag.", "High Firepower"], "ex":{"type":"Part Traits", "name":"Shooting DMG Output boosted 15"}, "name":"Beam Rifle", "type":"Beam"},
+		]
+	},
+]
