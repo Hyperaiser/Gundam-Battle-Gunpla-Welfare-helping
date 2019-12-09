@@ -1,0 +1,15 @@
+[
+		"name":"Buster Gundam",
+		"attribute":"Power",
+		"rarity": 3,
+		"sokai": 0,
+		"parts":[
+			{"part":"head", "a":291, "ma":291, "sa":2300, "md":291, "sd":889, "br":0, "pr":0, "wt":["Long-Range", "For Desert"], "ex":{"type":"Part Traits", "name":"With Power Attribute (self), Shooting Power boosted 25%"}},
+			{"part":"torso", "a":1142, "ma":291, "sa":291, "md":558, "sd":1142, "br":0, "pr":428, "wt":["Long-Range", "For Desert"], "ex":{"type":"EX Skill", "name":"Offense Up (b)"}},
+			{"part":"arms", "a":889, "ma":558, "sa":291, "md":291, "sd":1142, "br":126, "pr":302, "wt":["Long-Range", "For Desert"], "ex":{"type":"EX Skill", "name":"Archer Stance (y)"}},
+			{"part":"legs", "a":558, "ma":291, "sa":291, "md":558, "sd":1142, "br":428, "pr":302, "wt":["Long-Range", "Gundam Type"], "ex":{"type":"EX Skill", "name":"Anti-Armor Shotgun"}},
+			{"part":"backpack", "a":558, "ma":291, "sa":291, "md":558, "sd":1142, "br":302, "pr":428, "wt":["Long-Range", "Gundam Type"], "ex":{"type":"Part Traits", "name":"With Power Attribute (self), Shooting Power boosted 25%"}},
+			{"part":"range", "a":291, "ma":0, "sa":2867, "md":0, "sd":0, "br":126, "pr":302, "wt":["Long-Range", "Gundam Type"], "ex":{"type":"EX Skill", "name":"Nix Snipe"}, "name":"Hyper Impulse Long-Range Sniper Rifle", "type":"Beam"},
+		]
+	},
+]
