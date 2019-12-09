@@ -1,0 +1,14 @@
+[
+		"name":"Tallgeese II",
+		"attribute":"Technique",
+		"rarity": 3,
+		"sokai": 0,
+		"parts":[
+			{"part":"head", "a":558, "ma":291, "sa":1700, "md":558, "sd":558, "br":126, "pr":126, "wt":["Commander", "Long-Range"], "ex":{"type":"EX Skill", "name":"Offense Up a"}},
+			{"part":"torso", "a":1142, "ma":291, "sa":291, "md":889, "sd":889, "br":213, "pr":213, "wt":["Mobile Fighter", "Long-Range"], "ex":{"type":"Part Traits", "name":"With ""For Space"" enemy, EX Skill Percing boosted 22%"}},
+			{"part":"arms", "a":1142, "ma":1700, "sa":291, "md":1991, "sd":1991, "br":302, "pr":302, "wt":["Mobile Fighter", "Long-Range"], "ex":{"type":"EX Skill", "name":"Dober Gun"}, "combo":"shield"},
+			{"part":"legs", "a":558, "ma":291, "sa":291, "md":889, "sd":889, "br":349, "pr":375, "wt":["Mobile Fighter", "High Mobility"], "ex":{"type":"Part Traits", "name":"With ""For Space"" enemy, Mid Shot Attack raised 14%"}},
+			{"part":"backpack", "a":558, "ma":291, "sa":291, "md":889, "sd":889, "br":375, "pr":349, "wt":["Mobile Fighter", "High Mobility"], "ex":{"type":"Part Traits", "name":"With ""For Space"" enemy, Shooting Power boosted 25%"}},
+		]
+	},
+]
