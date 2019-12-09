@@ -1,0 +1,17 @@
+[
+		"name":"Jagd Doga (Quess Custom)",
+		"attribute":"Technique",
+		"rarity": 3,
+		"sokai": 0,
+		"parts":[
+			{"part":"head", "a":559, "ma":294, "sa":2000, "md":559, "sd":294, "br":53, "pr":53, "wt":["For Space", "Zeon"], "ex":{"type":"Part Traits", "name":"When Armor > 60%, Mid Shot Attack raised 14%"}},
+			{"part":"torso", "a":893, "ma":294, "sa":294, "md":1147, "sd":559, "br":215, "pr":215, "wt":["For Space", "Zeon"], "ex":{"type":"Part Traits", "name":"With Technique Attribute (self), Strong Melee Power boosted 20%"}},
+			{"part":"arms", "a":559, "ma":1440, "sa":294, "md":893, "sd":559, "br":0, "pr":0, "wt":["For Space", "Zeon."], "ex":{"type":"EX Skill", "name":"Funnels"}},
+			{"part":"legs", "a":559, "ma":294, "sa":559, "md":893, "sd":294, "br":352, "pr":352, "wt":["For Space", "Long-Range"], "ex":{"type":"EX Skill", "name":"Beam Saber Combo"}},
+			{"part":"backpack", "a":559, "ma":294, "sa":559, "md":893, "sd":294, "br":352, "pr":352, "wt":["For Space", "Long-Range"], "ex":{"type":"Part Traits", "name":"With Gatling Gun Category equipped, Mid Shot Attacked raised 14%"}},
+			{"part":"melee", "a":559, "ma":1440, "sa":0, "md":559, "sd":0, "br":303, "pr":303, "wt":["For Space", "Zeon"], "ex":{"type":"Part Traits", "name":"When Attacking with Beam, Melee DMG Output boosted 20 (flat)"}, "name":"Beam Saber with Heat Knife", "type":"Beam"},
+			{"part":"range", "a":294, "ma":0, "sa":2600, "md":559, "sd":0, "br":215, "pr":215, "wt":["For Space", "Zeon"], "ex":{"type":"EX Skill", "name":"Dual Beam Shredder"}, "name":"Mega Gatling Gun", "type":"Beam"},
+			{"part":"shield", "a":559, "ma":0, "sa":0, "md":1440, "sd":559, "br":352, "pr":352, "wt":["For Space", "Zeon"], "ex":{"type":"EX Skill", "name":"Quadruple-Barrel Mega Particle Cannon"}, "name":"Shield"},
+		]
+	},
+]
