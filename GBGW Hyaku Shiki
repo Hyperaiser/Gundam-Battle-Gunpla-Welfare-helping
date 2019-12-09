@@ -1,0 +1,17 @@
+[
+		"name":"Hyaku Shiki",
+		"attribute":"Speed",
+		"rarity": 3,
+		"sokai": 0,
+		"parts":[
+			{"part":"head", "a":559, "ma":294, "sa":1999, "md":559, "sd":294, "br":0, "pr":129, "wt":["Commander", "High Mobility"], "ex":{"type":"EX Skill", "name":"Head-Mounted Vulcan"}},
+			{"part":"torso", "a":893, "ma":294, "sa":294, "md":1146, "sd":559, "br":0, "pr":432, "wt":["Commander", "High Mobility"], "ex":{"type":"Part Traits", "name":"With Bazooka Category equipped, Shot Spread reduced 15%"}},
+			{"part":"arms", "a":559, "ma":1438, "sa":294, "md":893, "sd":559, "br":0, "pr":0, "wt":["Commander", "Ace Excl."], "ex":{"type":"EX Skill", "name":"Beam Saber Combo"}},
+			{"part":"legs", "a":559, "ma":294, "sa":559, "md":893, "sd":294, "br":303, "pr":432, "wt":["Commander", "Ace Excl."], "ex":{"type":"Part Traits", "name":"With Bazooka Category equipped, Shot Spread reduced 15%"}},
+			{"part":"backpack", "a":559, "ma":294, "sa":559, "md":893, "sd":294, "br":303, "pr":432, "wt":["Commander", "For Space"], "ex":{"type":"Part Traits", "name":"With ""Ace Excl."" enemy, Shooting Power boosted 25%"}},
+			{"part":"melee", "a":559, "ma":1438, "sa":0, "md":559, "sd":0, "br":129, "pr":432, "wt":["Commander", "For Space"], "ex":{"type":"EX Skill", "name":"Royal Heart"}, "name":"Beam Saber", "type":"Beam"},
+			{"part":"range", "a":294, "ma":0, "sa":2598, "md":559, "sd":0, "br":129, "pr":303, "wt":["Commander", "Mid-Range"], "ex":{"type":"EX Skill", "name":"Dual Wave"}, "name":"Clay Bazooka", "type":"Physical"},
+			{"part":"range", "a":294, "ma":0, "sa":2598, "md":559, "sd":0, "br":129, "pr":303, "wt":["Commander", "Mid-Range"], "ex":{"type":"Part Traits", "name":"When attacking with Beam, EX Skill Power boosted 25%"}, "name":"Beam Rifle", "type":"Beam"},
+		]
+	},
+]
