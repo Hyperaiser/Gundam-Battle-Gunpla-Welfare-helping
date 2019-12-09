@@ -1,0 +1,15 @@
+[
+		"name":"Justice Gundam",
+		"attribute":"Speed",
+		"rarity": 4,
+		"sokai": 1,
+		"parts":[
+			{"part":"head", "a":1356, "ma":553, "sa":966, "md":1356, "sd":553, "br":465, "pr":284, "wt":["Ace Excl.", "High Mobility"], "ex":{"type":"EX Skill", "name":"Sagittus"}},
+			{"part":"torso", "a":1734, "ma":553, "sa":553, "md":1734, "sd":966, "br":673, "pr":0, "wt":["Ace Excl.", "High Mobility"], "ex":{"type":"Part Traits", "name":"When Armor < 40%, Strong Melee Power boosted 30%"}},
+			{"part":"arms", "a":553, "ma":3312, "sa":553, "md":1734, "sd":553, "br":0, "pr":0, "wt":["Ace Excl.", "High Mobility"], "ex":{"type":"EX Skill", "name":"Bassel Beam Boomerang"}},
+			{"part":"legs", "a":966, "ma":553, "sa":553, "md":1734, "sd":966, "br":465, "pr":673, "wt":["Ace Excl.", "Close Combat"], "ex":{"type":"EX Skill", "name":"Double Saber Shear"}},
+			{"part":"backpack", "a":966, "ma":553, "sa":553, "md":1734, "sd":966, "br":673, "pr":465, "wt":["Ace Excl.", "Close Combat"], "ex":{"type":"EX Skill", "name":"Fatum-00"}},
+      {"part":"shield", "a":966, "ma":0, "sa":0, "md":2523, "sd":966, "br":1082, "pr":0, "wt":["Ace Excl.", "High Mobility"], "ex":{"type":"Part Traits", "name":"Shield Bash"}, "name":"Laminated Anti-Beam Shield"},
+		]
+	},
+]
