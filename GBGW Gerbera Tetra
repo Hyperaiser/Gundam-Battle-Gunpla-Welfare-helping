@@ -1,0 +1,15 @@
+[
+		"name":"Gerbera Tetra",
+		"attribute":"Speed",
+		"rarity": 3,
+		"sokai": 0,
+		"parts":[
+			{"part":"head", "a":889, "ma":291, "sa":1701, "md":291, "sd":291, "br":302, "pr":126, "wt":["Ace Excl.", "Zeon"], "ex":{"type":"Part Traits", "name":"With ""Gundam Type"" enemy, Shooting Power boosted 25%"}},
+			{"part":"torso", "a":1433, "ma":291, "sa":558, "md":558, "sd":558, "br":428, "pr":0, "wt":["Ace Excl.", "Zeon"], "ex":{"type":"Part Traits", "name":"With ""Gundam Type"" enemy, EX Skill DMG Output boosted 20"}},
+			{"part":"arms", "a":889, "ma":558, "sa":558, "md":889, "sd":889, "br":0, "pr":0, "wt":["Ace Excl.", "Mid-Range"], "ex":{"type":"EX Skill", "name":"110mm Autocannon"}},
+			{"part":"legs", "a":889, "ma":291, "sa":291, "md":558, "sd":889, "br":428, "pr":302, "wt":["Ace Excl.", "Mid-Range"], "ex":{"type":"EX Skill", "name":"Beam Saber Combo"}},
+			{"part":"backpack", "a":889, "ma":291, "sa":291, "md":558, "sd":889, "br":428, "pr":302, "wt":["Ace Excl.", "High Mobility"], "ex":{"type":"Part Traits", "name":"When Armor > 60%, Buff EX Skill Effect up 15%"}},
+			{"part":"range", "a":889, "ma":0, "sa":2300, "md":0, "sd":0, "br":428, "pr":126, "wt":["Ace Excl.", "Mid-Range"], "ex":{"type":"EX Skill", "name":"Panic Maker"}, "name":"Beam Machine Gun", "type":"Beam"},
+		]
+	},
+]
