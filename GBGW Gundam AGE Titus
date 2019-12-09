@@ -1,0 +1,14 @@
+[
+		"name":"Gundam AGE Titus",
+		"attribute":"Power",
+		"rarity": 3,
+		"sokai": 0,
+		"parts":[
+			{"part":"head", "a":559, "ma":292, "sa":891, "md":891, "sd":891, "br":127, "pr":127, "wt":["High Firepower", "Gundam Type"], "ex":{"type":"EX Skill", "name":"Protection (b)"}},
+			{"part":"torso", "a":1145, "ma":292, "sa":0, "md":891, "sd":891, "br":214, "pr":214, "wt":["High Firepower", "Gundam Type"], "ex":{"type":"Part Traits", "name":"When attack with Physical, Strong Melee Power boosted 25%"}},
+			{"part":"arms", "a":559, "ma":891, "sa":292, "md":891, "sd":891, "br":127, "pr":127, "wt":["High Firepower", "Close Combat"], "ex":{"type":"EX Skill", "name":"Beam Lariat"}},
+			{"part":"legs", "a":559, "ma":292, "sa":292, "md":1145, "sd":1145, "br":214, "pr":214, "wt":["High Firepower", "Close Combat"], "ex":{"type":"EX Skill", "name":"Archer Hack (b)"}},
+			{"part":"backpack", "a":559, "ma":292, "sa":292, "md":1145, "sd":1145, "br":214, "pr":214, "wt":["High Firepower", "Close Combat"], "ex":{"type":"Part Traits", "name":"When attacking with Physical, Melee Power boosted 25%"}},
+		]
+	},
+]
