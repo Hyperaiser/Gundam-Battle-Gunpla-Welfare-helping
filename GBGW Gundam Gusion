@@ -1,0 +1,16 @@
+[
+		"name":"Gundam Gusion",
+		"attribute":"Power",
+		"rarity": 3,
+		"sokai": 0,
+		"parts":[
+			{"part":"head", "a":1144, "ma":292, "sa":891, "md":558, "sd":558, "br":0, "pr":302, "wt":["Heavy Armor", "For Space"], "ex":{"type":"EX Skill", "name":"Head-Mounted Vulcan"}},
+			{"part":"torso", "a":1702, "ma":292, "sa":292, "md":558, "sd":558, "br":0, "pr":430, "wt":["Heavy Armor", "For Space"], "ex":{"type":"EX Skill", "name":"Buster Anchor"}},
+			{"part":"arms", "a":891, "ma":891, "sa":292, "md":891, "sd":891, "br":0, "pr":127, "wt":["Heavy Armor", "Mid-Range"], "ex":{"type":"EX Skill", "name":"Gemini Satellite"}},
+			{"part":"legs", "a":891, "ma":292, "sa":292, "md":891, "sd":891, "br":430, "pr":127, "wt":["Heavy Armor", "High Firepower"], "ex":{"type":"EX Skill", "name":"Hand Grenade"}},
+			{"part":"backpack", "a":891, "ma":292, "sa":292, "md":891, "sd":891, "br":127, "pr":430, "wt":["Heavy Armor", "High Firepower"], "ex":{"type":"EX Skill", "name":"Gusion Hammer"}},
+			{"part":"melee", "a":891, "ma":1144, "sa":0, "md":292, "sd":292, "br":302, "pr":430, "wt":["Heavy Armor", "High Firepower"], "ex":{"type":"EX Skill", "name":"Spinning Rave"}, "name":"Gusion Hammer", "type":"Physical"},
+			{"part":"range", "a":891, "ma":0, "sa":1144, "md":292, "sd":292, "br":302, "pr":430, "wt":["Heavy Armor", "Mid-Range"], "ex":{"type":"Part Traits", "name":""Defender Job, Enemy Shooting Power reduced 25%""}, "name":"Submachine Gun", "type":"Physical"},
+		]
+	},
+]
