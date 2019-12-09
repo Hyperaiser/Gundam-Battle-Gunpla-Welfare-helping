@@ -1,0 +1,14 @@
+[
+		"name":"Zaku II (Char Aznable)",
+		"attribute":"Speed",
+		"rarity": 3,
+		"sokai": 0,
+		"parts":[
+			{"part":"head", "a":558, "ma":291, "sa":1698, "md":558, "sd":558, "br":0, "pr":302, "wt":["Ace Excl.", "For Space"], "ex":{"type":"EX Skill", "name":"Beam Coat (b)"}},
+			{"part":"torso", "a":1140, "ma":291, "sa":291, "md":889, "sd":889, "br":0, "pr":428, "wt":["Ace Excl.", "For Space"], "ex":{"type":"Part Traits", "name":"When attack with Physical, Strong Melee Power boosted 25%"}},
+			{"part":"arms", "a":558, "ma":1698, "sa":291, "md":889, "sd":889, "br":0, "pr":0, "wt":["Ace Excl.", "For Space"], "ex":{"type":"EX Skill", "name":"Fearless Charge"}},
+			{"part":"legs", "a":559, "ma":291, "sa":291, "md":889, "sd":889, "br":302, "pr":428, "wt":["Ace Excl.", "High Mobility"], "ex":{"type":"Part Traits", "name":"With Speed Attribute (self), Sp. Shot Power boosted 25%"}},
+			{"part":"backpack", "a":559, "ma":291, "sa":291, "md":889, "sd":889, "br":302, "pr":428, "wt":["Ace Excl.", "High Mobility"], "ex":{"type":"Part Traits", "name":"With Speed Attribute (self), EX Skill Piercing Boosted 22%"}},
+		]
+	},
+]
