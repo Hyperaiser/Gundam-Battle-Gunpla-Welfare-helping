@@ -4,7 +4,7 @@
 		"rarity": 3,
 		"sokai": 0,
 		"parts":[
-			{"part":"head", "a":889, "ma":291, "sa":1701, "md":291, "sd":291, "br":302, "pr":126, "wt":["Mid-Range", "For Urban Arena"], "ex":{"type":"EX Skill", "name":"Igelstellung}},
+			{"part":"head", "a":889, "ma":291, "sa":1701, "md":291, "sd":291, "br":302, "pr":126, "wt":["Mid-Range", "For Urban Arena"], "ex":{"type":"EX Skill", "name":"Igelstellung"}},
 			{"part":"torso", "a":1433, "ma":291, "sa":558, "md":558, "sd":558, "br":428, "pr":0, "wt":["Mid-Range", "Mid-Range"], "ex":{"type":"Part Traits", "name":"With Bazooka Category equipped Sp. Shot Power boosted 25%"}},
 			{"part":"arms", "a":889, "ma":558, "sa":558, "md":889, "sd":889, "br":0, "pr":0, "wt":["Mid-Range", "Mid-Range"], "ex":{"type":"EX Skill", "name":"Barrier Hack (b)"}},
 			{"part":"legs", "a":889, "ma":291, "sa":291, "md":558, "sd":889, "br":428, "pr":302, "wt":["Mid-Range", "Gundam Type"], "ex":{"type":"Part Traits", "name":"When Armor < 40%, 13% chance to not recoil"}},
