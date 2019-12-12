@@ -1,0 +1,18 @@
+
+[
+		"name":"Gundam TR-1 (Advanced Hazel with Optical Sensor Unit)",
+		"attribute":"Technique",
+		"rarity": 3,
+		"sokai": 0,
+		"parts":[
+			{"part":"head", "a":1144, "ma":292, "sa":891, "md":558, "sd":558, "br":302, "pr":0, "wt":["Long-Range", "High Mobility"], "ex":{"type":"Part Traits", "name":"With Technique Attribute (self), Shot Spread reduced 15%"}},
+			{"part":"torso", "a":1702, "ma":292, "sa":292, "md":558, "sd":558, "br":430, "pr":0, "wt":["Long-Range", "High Mobility"], "ex":{"type":"EX Skill", "name":"Shoulder Grenade Launcher"}},
+			{"part":"arms", "a":891, "ma":891, "sa":292, "md":891, "sd":891, "br":127, "pr":0, "wt":["Long-Range", "High Mobility"], "ex":{"type":"Part Traits", "name":"With Technique Attribute (self), Melee CRIT Rate boosted 17%"}},
+			{"part":"legs", "a":891, "ma":292, "sa":292, "md":891, "sd":891, "br":127, "pr":430, "wt":["Long-Range", "Federation"], "ex":{"type":"Part Traits", "name":"Sub-Arm Unit"}},
+			{"part":"backpack", "a":891, "ma":292, "sa":292, "md":891, "sd":891, "br":430, "pr":127, "wt":["Long-Range", "Federation"], "ex":{"type":"EX Skill", "name":"Shield Booster"}},
+			{"part":"range", "a":891, "ma":0, "sa":1144, "md":292, "sd":292, "br":430, "pr":302, "wt":["Long-Range", "Federation"], "ex":{"type":"Part Traits", "name":"Middle-Shooter Job, Sp. Shot DMG Output boosted 20 (flat)"}, "name":"Beam Rifle", "type":"Beam"},
+      {"part":"shield", "a":891, "ma":0, "sa":0, "md":891, "sd":891, "br":718, "pr":0, "wt":["Long-Range", "Federation"], "ex":{"type":"EX Skill", "name":"Scattering Beam Cannon"}, "name":"Enhanced Shield Booster"},
+      {"part":"shield", "a":891, "ma":0, "sa":0, "md":891, "sd":891, "br":718, "pr":0, "wt":["Long-Range", "High Mobility"], "ex":{"type":"Part Traits", "name":"With Technique Attribute (self), Buff EX Skill Effect 15%"}, "name":"Shield Booster"},
+		]
+	},
+]
