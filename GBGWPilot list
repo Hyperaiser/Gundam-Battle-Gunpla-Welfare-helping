@@ -52,4 +52,7 @@
   {"name":"Yzak Joule", "jl":"Middle-Shooter", "attribute":"Power", "rarity": 3, "a":1145, "ma":292, "sa":292, "md":559, "sd":559, "br":430, "pr":430, "wt":["Heavy Armor", "High Firepower"], "ex":{"type":"Part Traits", "name":"With Power Attribute (self), Buff EX Skill Effect up 15%"}},
   {"name":"Carozzo Ronah", "jl":"Defender", "attribute":"Power", "rarity": 4, "a":799, "ma":384, "sa":384, "md":799, "sd":799, "br":614, "pr":614, "wt":["High Firepower", "For Computers"], "ex":{"type":"Part Traits", "name":"With Power Attribute (self), Debuff EX Skill Effect up 15%"}},
   {"name":"Chloe Croce", "jl":"Out-Fighter", "attribute":"Speed", "rarity": 3, "a":559, "ma":1144, "sa":292, "md":559, "sd":559, "br":303, "pr":303, "wt":["High Mobility", "For Forest"], "ex":{"type":"Part Traits", "name":"With Speed Attribute (self), Vernier Consumption reduced 15%"}},
+  {"name":"Gaelio Bauduin", "jl":"Defender", "attribute":"Technique", "rarity": 4, "a":796, "ma":1602, "sa":384, "md":796, "sd":796, "br":417, "pr":213, "wt":["Heavy Armor", "For Space"], "ex":{"type":"Part Traits", "name":"When Armor is 60% or more, All power boosted 30%"}},
+  {"name":"Lila Milla Rira", "jl":"Middle-Shooter", "attribute":"Power", "rarity": 3, "a":292, "ma":891, "sa":891, "md":559, "sd":559, "br":303, "pr":303, "wt":["Federation", "For Space"], "ex":{"type":"Part Traits", "name":"With Speed Power Attribute (self), Projectile speed boosted 14%"}},
+
 ]
