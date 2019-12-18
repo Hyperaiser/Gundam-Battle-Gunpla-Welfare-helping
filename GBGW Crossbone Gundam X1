@@ -4,7 +4,7 @@
 		"rarity": 3,
 		"sokai": 0,
 		"parts":[
-			{"part":"head", "a":889, "ma":291, "sa":558, "md":889, "sd":889, "br":302, "pr":126, "wt":["Protag.", "Close Combat"], "ex":{"type":"EX Skill", "name":"Head-Mounted Vulcan"}},
+			{"part":"head", "a":889, "ma":291, "sa":558, "md":889, "sd":558, "br":302, "pr":126, "wt":["Protag.", "Close Combat"], "ex":{"type":"EX Skill", "name":"Head-Mounted Vulcan"}},
 			{"part":"torso", "a":1433, "ma":558, "sa":291, "md":558, "sd":558, "br":428, "pr":0, "wt":["Protag.", "Close Combat"], "ex":{"type":"EX Skill", "name":"Beam Gun"}},
 			{"part":"arms", "a":558, "ma":1991, "sa":0, "md":889, "sd":889, "br":0, "pr":0, "wt":["Protag.", "Close Combat"], "ex":{"type":"Part Traits", "name":"12% chance of attacks penetrating super armor"}},
 			{"part":"legs", "a":589, "ma":291, "sa":291, "md":889, "sd":558, "br":428, "pr":302, "wt":["Protag.", "For Space"], "ex":{"type":"EX Skill", "name":"Heat Dagger"}},
