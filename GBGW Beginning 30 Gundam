@@ -1,0 +1,16 @@
+[
+		"name":"Beginning 30 Gundam",
+		"attribute":"Technique",
+		"rarity": 4,
+		"sokai": 0,
+		"parts":[
+			{"part":"head", "a":799, "ma":384, "sa":1979, "md":384, "sd":1132, "br":420, "pr":213, "wt":["Gundam Type", "For Computer"], "ex":{"type":"EX Skill", "name":"Beam Vulcan"}},
+			{"part":"torso", "a":1182, "ma":799, "sa":384, "md":799, "sd":1606, "br":612, "pr":0, "wt":["Gundam Type", "For Computer"], "ex":{"type":"Part Traits", "name":"When Armor is 60% or more, EX Skill CD reduced 20%"}},
+			{"part":"arms", "a":1506, "ma":2786, "sa":384, "md":1606, "sd":3181, "br":810, "pr":213, "wt":["Gundam Type", "For Computer"], "ex":{"type":"Part Traits", "name":"Out-fighter Job Melee power boosted 30%"}, "combo":"shield"},
+			{"part":"legs", "a":799, "ma":384, "sa":384, "md":384, "sd":1182, "br":612, "pr":420, "wt":["Gundam Type", "For Computer"], "ex":{"type":"EX Skill", "name":"IFS Unit Barrier"}},
+			{"part":"backpack", "a":799, "ma":384, "sa":384, "md":384, "sd":1182, "br":612, "pr":420, "wt":["Gundam Type", "High Firepower"], "ex":{"type":"EX Skill", "name":"IFS Unit Combo"}},
+			{"part":"melee", "a":384, "ma":3586, "sa":0, "md":0, "sd":799, "br":420, "pr":213, "wt":["Gundam Type", "High Firepower"], "ex":{"type":"Part Traits", "name":"15% chance of attacks penetrating super armor"}, "name":"Beam Saber", "type":"Beam"},
+			{"part":"range", "a":799, "ma":0, "sa":1979, "md":0, "sd":799, "br":612, "pr":213, "wt":["Gundam Type", "High Firepower"], "ex":{"type":"Part Traits", "name":"Intitial EX Skill charge boosted 20%"}, "name":"Beam Rifle", "type":"Beam"},
+		]
+	},
+]
