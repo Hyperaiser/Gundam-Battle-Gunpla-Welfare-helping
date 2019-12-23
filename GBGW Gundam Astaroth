@@ -11,7 +11,7 @@
 			{"part":"legs", "a":800, "ma":385, "sa":385, "md":385, "sd":1185, "br":479, "pr":479, "wt":["Protag.", "For Computer"], "ex":{"type":"EX Skill", "name":"Knife Attack"}},
       {"part":"backpack", "a":800, "ma":385, "sa":385, "md":385, "sd":1185, "br":479, "pr":479, "wt":["Protag.", "For Tundra"], "ex":{"type":"EX Skill", "name":"Demolition Knife"}},
 			{"part":"melee", "a":385, "ma":3594, "sa":0, "md":0, "sd":800, "br":292, "pr":292, "wt":["Protag.", "Close Combat"], "ex":{"type":Part Traits", "name":"With Power attribute (self), Strong Melee CRIT rate boosted 30%"}, "name":"Demolition Knife", "type":"Physical"},
-			{"part":"range", "a":800, "ma":0, "sa":1985, "md":0, "sd":800, "br":292, "pr":292, "wt":["Protag", "Close Combat"], "ex":{"type":"Part Traits", "name":"With Blade category equipped, Shooting DMG taken reduced by 35"}, "name":"Rifle", "type":"Physical"},
+			{"part":"range", "a":800, "ma":0, "sa":1985, "md":0, "sd":800, "br":292, "pr":292, "wt":["Protag.", "Close Combat"], "ex":{"type":"Part Traits", "name":"With Blade category equipped, Shooting DMG taken reduced by 35"}, "name":"Rifle", "type":"Physical"},
       {"part":"range", "a":800, "ma":0, "sa":1985, "md":0, "sd":800, "br":292, "pr":292, "wt":["For Computer", "High Firepower"], "ex":{"type":"Part Traits", "name":"When attacking with Physical, Sp. Shot CRIT rate boosted 30%"}, "name":"Anti-Material Rifle", "type":"Physical"},
 		]
 	},
