@@ -117,6 +117,7 @@ Rifle Mode"", "type":"Beam"},
 			{"part":"backpack", "a":969, "ma":379, "sa":379, "md":1358, "sd":1358, "br":675, "pr":468, "wt":["Transformer", "Ace Excl."], "ex":{"type":"Part Traits", "name":"When attacking with Beam Shooting Power boosted 30%"}},
 			{"part":"melee", "a":969, "ma":3318, "sa":0, "md":0, "sd":0, "br":675, "pr":208, "wt":["Transformer", "Close Combat"], "ex":{"type":"EX Skill", "name":"Cross Wave"}, "name":"Beam Saber", "type":"Beam"},
 			{"part":"melee", "a":969, "ma":3318, "sa":0, "md":0, "sd":0, "br":675, "pr":208, "wt":["Transformer", "Long-Range"], "ex":{"type":"Part Traits", "name":""With Speed Attribute (self) Melee DMG Output boosted 35""}, "name":"Long Beam Saber", "type":"Beam"},
+			{"part":"range", "a":969, "ma":0, "sa":3318, "md":0, "sd":0, "br":675, "pr":208, "wt":["Transformer", "High Firepower"], "ex":{"type":"Traits", "name":""With Speed Attribute (self), Enemy Shooting Power reduced 30%""}, "name":"Hyper Mega Launcher", "type":"Beam"},
 			{"part":"range", "a":969, "ma":0, "sa":3318, "md":0, "sd":0, "br":675, "pr":208, "wt":["Transformer", "Gundam Type"], "ex":{"type":"Traits", "name":"Sp. Shot DMG Output boosted 35"}, "name":"Beam Rifle", "type":"Beam"},
 			{"part":"shield", "a":969, "ma":0, "sa":0, "md":1738, "sd":1738, "br":878, "pr":208, "wt":["Transformer", "Close Combat"], "ex":{"type":"EX Skill", "name":"Missile Launcher"}, "name":"Zeta Shield"},
 		]
