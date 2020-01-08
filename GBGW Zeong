@@ -1,0 +1,14 @@
+[
+	{
+		"name":"Zeong",
+		"attribute":"Speed",
+		"rarity": 4,
+		"sokai": 0,
+		"parts":[
+			{"part":"head", "a":384, "ma":384, "sa":3181, "md": 382, "sd":1182, "br":0, "pr":0, "wt":["Zeon", "For Space"], "ex":{"type":"EX Skill", "name":"Point-Blank Shot"}},
+			{"part":"torso", "a":1606, "ma":384, "sa":384, "md":799, "sd":1606, "br":290, "pr":290, "wt":["Zeon", "For Space"], "ex":{"type":"Part Traits", "name":"With Speed attribute (self), EX Skill CD reduced 20%"}},
+			{"part":"arms", "a":1182, "ma":799, "sa":384, "md":384, "sd":1606, "br":290, "pr":290, "wt":["Zeon", "For Space"], "ex":{"type":"EX Skill", "name":"5-Barrel Mega Particle Cannon"}},
+			{"part":"legs", "a":799, "ma":384, "sa":384, "md":799, "sd":1601, "br":420, "pr":420, "wt":["Zeon", "Long-Range"], "ex":{"type":"EX Skill", "name":"Torso Mega Particle Cannon"}},
+		]
+	},
+]
