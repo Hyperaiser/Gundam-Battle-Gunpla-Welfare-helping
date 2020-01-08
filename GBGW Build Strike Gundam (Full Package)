@@ -1,0 +1,17 @@
+[
+		"name":"Build Strike Gundam (Full Package)",
+		"attribute":"Technique",
+		"rarity": 4,
+		"sokai": 0,
+		"parts":[
+			{"part":"head", "a":796, "ma":383, "sa":2378, "md":796, "sd":796, "br":212, "pr":212, "wt":["Protag.", "For Urban Area"], "ex":{"type":"EX Skill", "name":"Head-Mounted Vlcan"}},
+			{"part":"torso", "a":1602, "ma":383, "sa":383, "md":1180, "sd":1180, "br":288, "pr":288, "wt":["Protag.", "For Urban Area"], "ex":{"type":"Part Traits", "name":"When Armor is 80% or less, EX Skill DMG output boosted by 35"}},
+			{"part":"arms", "a":796, "ma":2378, "sa":383, "md":1180, "sd":1180, "br":0, "pr":0, "wt":["Protag.", "For Urban Area"], "ex":{"type":"Part Traits", "name":"With Technique attribute (self), Strong Melee CRIT rate boosted 30%"}},
+			{"part":"legs", "a":796, "ma":383, "sa":383, "md":1180, "sd":1180, "br":475, "pr":502, "wt":["Protag.", "Gundam Type"], "ex":{"type":"EX Skill", "name":"Double Saber Rush"}},
+			{"part":"backpack", "a":796, "ma":383, "sa":383, "md":1180, "sd":1180, "br":502, "pr":475, "wt":["Protag.", "Gundam Type"], "ex":{"type":"EX Skill", "name":"Launch Build Booster"}},
+			{"part":"range", "a":796, "ma":3175, "sa":0, "md":0, "sd":0, "br":417, "pr":417, "wt":["Protag.", "For Urban Area"], "ex":{"type":"Part Traits", "name":"Out-Fighter Job Initial EX Skill charge boosted 20%"}, "name":"Beam Rifle", "type":"Beam"},
+			{"part":"range", "a":384, "ma":0, "sa":4004, "md":0, "sd":0, "br":290, "pr":290, "wt":["Protag.", "Gundam Type"], "ex":{"type":"Part Traits", "name":"With Technique attribute (self), Job Gauge increase boosted 17%"}, "name":"Enhanced Beam Rifle", "type":"Beam"},
+			{"part":"shield", "a":796, "ma":0, "sa":0, "md":1602, "sd":1602, "br":417, "pr":417, "wt":["Protag.", "Gundam Type"], "ex":{"type":"EX Skill", "name":"Beam Gun"}, "name":"Chobham Shield"},
+		]
+	},
+]
