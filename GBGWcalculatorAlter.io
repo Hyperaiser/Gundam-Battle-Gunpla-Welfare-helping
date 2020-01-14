@@ -512,6 +512,7 @@
 				{"part":"arms", "a":1356, "ma":966, "sa":966, "md":1356, "sd":1356, "br":0, "pr":0, "wt":["Protag.", "Gundam Type"], "ex":{"type":"Part Traits", "name":"With Power attribute (self) Sp. Shot power boosted 30%"}},
 				{"part":"legs", "a":1356, "ma":553, "sa":553, "md":966, "sd":1356, "br":555, "pr":555, "wt":["Protag.", "High Mobility"], "ex":{"type":"EX Skill", "name":"Xiphias Rail Cannon"}},
 				{"part":"backpack", "a":1356, "ma":553, "sa":553, "md":966, "sd":1356, "br":555, "pr":555, "wt":["Protag.", "High Mobility"], "ex":{"type":"EX Skill", "name":"Balaena Plasma Beam Cannon"}},
+				{"part":"melee", "a":1356, "ma":2523, "sa":0, "md":0, "sd":553, "br":383, "pr":383, "wt":["Protag.", "Gundam Type"], "ex":{"type":"Part Traits", "name":"Strong Melee DMG Output boosted 35"}, "name":"Lacerta Beam Saber", "type":"Beam"},
 				{"part":"range", "a":1356, "ma":0, "sa":3312, "md":0, "sd":0, "br":465, "pr":465, "wt":["Protag.", "Gundam Type"], "ex":{"type":"Part Traits", "name":"With Power attribute (self) Job Gauge increase boosted 17%"}, "name":"Lupus Beam Rifle", "type":"Beam"},
 				{"part":"shield", "a":1356, "ma":0, "sa":0, "md":965, "sd":1734, "br":555, "pr":555, "wt":["Protag.", "Gundam Type"], "ex":{"type":"EX Skill", "name":"Shield Bash"}, "name":"Laminated Anti-Beam Shield"},
 			]
