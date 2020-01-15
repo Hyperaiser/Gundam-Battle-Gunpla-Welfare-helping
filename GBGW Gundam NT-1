@@ -1,0 +1,17 @@
+    
+[
+		"name":"Gundam NT-1",
+		"attribute":"Power",
+		"rarity": 4,
+		"sokai": 0,
+		"parts":[
+			{"part":"head", "a":1180, "ma":383, "sa":796, "md":1180, "sd":796, "br":417, "pr":212, "wt":["Close Combat", "Federation"], "ex":{"type":"EX Skill", "name":"Head-Mounted Vulcan"}},
+			{"part":"torso", "a":1976, "ma":796, "sa":383, "md":796, "sd":796, "br":610, "pr":0, "wt":["Close Combat", "Federation"], "ex":{"type":"EX Skill", "name":"Defense Up (b)"}},
+			{"part":"arms", "a":796, "ma":2781, "sa":0, "md":1180, "sd":1180, "br":0, "pr":0, "wt":["Close Combat", "For Urban Arena"], "ex":{"type":"EX Skill", "name":"90mm Gatling Cannon"}},
+			{"part":"legs", "a":1180, "ma":383, "sa":383, "md":1180, "sd":796, "br":610, "pr":417, "wt":["Close Combat", "For Urban Arena"], "ex":{"type":"Part Traits", "name":"When Armor is 40% or more, Melee DMG taken reduced by 35"}},
+			{"part":"backpack", "a":1180, "ma":383, "sa":383, "md":1180, "sd":796, "br":610, "pr":417, "wt":["Close Combat", "For Urban Arena"], "ex":{"type":"EX Skill", "name":"Rapid Thrust"}},
+			{"part":"range", "a":1180, "ma":0, "sa":2378, "md":0, "sd":0, "br":610, "pr":212, "wt":["Close Combat", "Federation"], "ex":{"type":"EX Skill", "name":"Seventh Tri-Shot"}, "name":"Beam Rifle", "type":"Beam"},
+			{"part":"shield", "a":1180, "ma":0, "sa":0, "md":1601, "sd":796, "br":805, "pr":212, "wt":["Close Combat", "Federation"], "ex":{"type":"EX Skill", "name":"Defense Up (a)"}, "name":"Shield"},
+		]
+	},
+]
