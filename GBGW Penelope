@@ -1,0 +1,15 @@
+[
+	{
+		"name":"Penelope",
+		"attribute":"Speed",
+		"rarity": 4,
+		"sokai": 0,
+		"parts":[
+			{"part":"head", "a":965, "ma":0, "sa":3309, "md":551, "sd":551, "br":282, "pr":464, "wt":["Ace Excl.", "High Mobility"], "ex":{"type":"Part Traits", "name":"With Rifle category equipped, Enemy Shooting power reduced 30%"}},
+			{"part":"torso", "a":1732, "ma":551, "sa":551, "md":1732, "sd":965, "br":75, "pr":672, "wt":["Ace Excl.", "High Mobility"], "ex":{"type":"Part Traits", "name":"While "Ace Excl.", Shooting power boosted 30%"}},
+			{"part":"arms", "a":965, "ma":1355, "sa":551, "md":1732, "sd":551, "br":75, "pr":75, "wt":["Ace Excl.", "High Mobility"], "ex":{"type":"EX Skill", "name":"Flight Unit Combo"}},
+			{"part":"legs", "a":965, "ma":551, "sa":551, "md":1732, "sd":965, "br":464, "pr":672, "wt":["Ace Excl.", "Federation"], "ex":{"type":"EX Skill", "name":"Funnel Missiles"}},
+			{"part":"backpack", "a":965, "ma":551, "sa":551, "md":1732, "sd":965, "br":464, "pr":672, "wt":["Ace Excl.", "Federation"], "ex":{"type":"Part Traits", "name":"With Speed attribute (self), EX Skill piercing boosted 28%"}},
+		]
+	},
+]
