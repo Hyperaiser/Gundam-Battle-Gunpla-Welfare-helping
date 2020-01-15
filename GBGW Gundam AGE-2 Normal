@@ -1,0 +1,16 @@
+[
+		"name":"Gundam AGE-2 Normal",
+		"attribute":"Technique",
+		"rarity": 3,
+		"sokai": 0,
+		"parts":[
+				{"part":"head", "a":561, "ma":294, "sa":1440, "md":294, "sd":893, "br":215, "pr":215, "wt":["Transformer", "For Computers"], "ex":{"type":"Part Traits", "name":"With Technique attribute (self), Shooting DMG taken reduced by 20"}},
+				{"part":"torso", "a":893, "ma":561, "sa":294, "md":561, "sd":1147, "br":215, "pr":215, "wt":["Transformer", "For Computers"], "ex":{"type":"Part Traits", "name":"While "Transformer", EX Skill CD ruduced 15%"}},
+				{"part":"arms", "a":561, "ma":2000, "sa":294, "md":561, "sd":893, "br":0, "pr":0, "wt":["Transformer", "For Computers"], "ex":{"type":"Part Traits", "name":"Beam ranged weapon reload speed boosted 15%"}},
+				{"part":"legs", "a":561, "ma":294, "sa":294, "md":294, "sd":893, "br":352, "pr":352, "wt":["Transformer", "Protag."], "ex":{"type":"EX Skill", "name":"Stream Slash"}},
+				{"part":"backpack", "a":561, "ma":294, "sa":294, "md":294, "sd":893, "br":352, "pr":352, "wt":["Transformer", "Protag."], "ex":{"type":"Part Traits", "name":"When Armor is 80% or less, Close Shot Attack raised 14%"}},
+				{"part":"range", "a":561, "ma":0, "sa":1440, "md":0, "sd":561, "br":215, "pr":215, "wt":["Transformer", "Protag."], "ex":{"type":"Part Traits", "name":"While "Transformer", Initial EX Skill charge boosted 12%"}, "name":"Hyper DODS Rifle", "type":"Beam"},
+				{"part":"shield", "a":561, "ma":0, "sa":0, "md":561, "sd":1440, "br":352, "pr":352, "wt":["Transformer", "For Tundra"], "ex":{"type":"Part Traits", "name":"Middle-Shooter Job Sp. Shot CRIT rate boosted 21%"}, "name":"Shield"}
+		]
+	},
+]
