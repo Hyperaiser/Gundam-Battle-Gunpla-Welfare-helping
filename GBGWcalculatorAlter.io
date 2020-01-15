@@ -1479,6 +1479,92 @@
 				{"part":"backpack", "a":558, "ma":291, "sa":291, "md":558, "sd":1142, "br":302, "pr":428, "wt":["High Firepower", "For Computers"], "ex":{"type":"EX Skill", "name":"Combat Stance (a)"}},
 			]
 		},
+				{	
+			"name":"Build Strike Gundam (Full Package)",	
+			"attribute":"Technique",	
+			"rarity": 4,	
+			"sokai": 0,	
+			"parts":[	
+				{"part":"head", "a":796, "ma":383, "sa":2378, "md":796, "sd":796, "br":212, "pr":212, "wt":["Protag.", "For Urban Area"], "ex":{"type":"EX Skill", "name":"Head-Mounted Vlcan"}},	
+				{"part":"torso", "a":1602, "ma":383, "sa":383, "md":1180, "sd":1180, "br":288, "pr":288, "wt":["Protag.", "For Urban Area"], "ex":{"type":"Part Traits", "name":"When Armor is 80% or less, EX Skill DMG output boosted by 35"}},	
+				{"part":"arms", "a":796, "ma":2378, "sa":383, "md":1180, "sd":1180, "br":0, "pr":0, "wt":["Protag.", "For Urban Area"], "ex":{"type":"Part Traits", "name":"With Technique attribute (self), Strong Melee CRIT rate boosted 30%"}},	
+				{"part":"legs", "a":796, "ma":383, "sa":383, "md":1180, "sd":1180, "br":475, "pr":502, "wt":["Protag.", "Gundam Type"], "ex":{"type":"EX Skill", "name":"Double Saber Rush"}},	
+				{"part":"backpack", "a":796, "ma":383, "sa":383, "md":1180, "sd":1180, "br":502, "pr":475, "wt":["Protag.", "Gundam Type"], "ex":{"type":"EX Skill", "name":"Launch Build Booster"}},	
+				{"part":"range", "a":796, "ma":3175, "sa":0, "md":0, "sd":0, "br":417, "pr":417, "wt":["Protag.", "For Urban Area"], "ex":{"type":"Part Traits", "name":"Out-Fighter Job Initial EX Skill charge boosted 20%"}, "name":"Beam Rifle", "type":"Beam"},	
+				{"part":"range", "a":384, "ma":0, "sa":4004, "md":0, "sd":0, "br":290, "pr":290, "wt":["Protag.", "Gundam Type"], "ex":{"type":"Part Traits", "name":"With Technique attribute (self), Job Gauge increase boosted 17%"}, "name":"Enhanced Beam Rifle", "type":"Beam"},	
+				{"part":"shield", "a":796, "ma":0, "sa":0, "md":1602, "sd":1602, "br":417, "pr":417, "wt":["Protag.", "Gundam Type"], "ex":{"type":"EX Skill", "name":"Beam Gun"}, "name":"Chobham Shield"},	
+			]	
+		},	
+		{	
+			"name":"Zeong",	
+			"attribute":"Speed",	
+			"rarity": 4,	
+			"sokai": 0,	
+			"parts":[	
+				{"part":"head", "a":384, "ma":384, "sa":3181, "md": 382, "sd":1182, "br":0, "pr":0, "wt":["Zeon", "For Space"], "ex":{"type":"EX Skill", "name":"Point-Blank Shot"}},	
+				{"part":"torso", "a":1606, "ma":384, "sa":384, "md":799, "sd":1606, "br":290, "pr":290, "wt":["Zeon", "For Space"], "ex":{"type":"Part Traits", "name":"With Speed attribute (self), EX Skill CD reduced 20%"}},	
+				{"part":"arms", "a":1182, "ma":799, "sa":384, "md":384, "sd":1606, "br":290, "pr":290, "wt":["Zeon", "For Space"], "ex":{"type":"EX Skill", "name":"5-Barrel Mega Particle Cannon"}},	
+				{"part":"legs", "a":799, "ma":384, "sa":384, "md":799, "sd":1601, "br":420, "pr":420, "wt":["Zeon", "Long-Range"], "ex":{"type":"EX Skill", "name":"Torso Mega Particle Cannon"}},	
+			]	
+		},	
+		{	
+			"name":"Kabakali",	
+			"attribute":"Technique",	
+			"rarity": 3,	
+			"sokai": 0,	
+			"parts":[	
+				{"part":"head", "a":558, "ma":291, "sa":1698, "md":558, "sd":558, "br":302, "pr":0, "wt":["Mid-Range", "For Computers"], "ex":{"type":"Part Traits", "name":"With Technique Attribute (self), Enemy Shooting Power reduced 25%"}},	
+				{"part":"torso", "a":1140, "ma":291, "sa":291, "md":889, "sd":889, "br":428, "pr":0, "wt":["Mid-Range", "For Computers"], "ex":{"type":"EX Skill", "name":"Photon Laser Connon"}},	
+				{"part":"arms", "a":558, "ma":1698, "sa":291, "md":889, "sd":889, "br":0, "pr":0, "wt":["Mid-Range", "For Computers"], "ex":{"type":"EX Skill", "name":"Beam Saber"}},	
+				{"part":"legs", "a":558, "ma":291, "sa":291, "md":889, "sd":889, "br":428, "pr":302, "wt":["Mid-Range", "High Mobility"], "ex":{"type":"Part Traits", "name":"With Whip category equipped Mid Shot Attack raised 14%"}},	
+				{"part":"backpack", "a":558, "ma":291, "sa":291, "md":889, "sd":889, "br":428, "pr":302, "wt":["Mid-Range", "High Mobility"], "ex":{"type":"EX Skill", "name":"Beam Ring"}},	
+				{"part":"melee", "a":558, "ma":2297, "sa":0, "md":0, "sd":0, "br":428, "pr":126, "wt":["Mid-Range", "For Computers"], "ex":{"type":"Part Traits", "name":"Out-Fighter Job, Strong Melee CRIT rate boosted 17%"}, "name":"Beam Ring", "type":"Beam"},	
+				{"part":"range", "a":558, "ma":0, "sa":2297, "md":0, "sd":0, "br":428, "pr":126, "wt":["Mid-Range", "High Mobility"], "ex":{"type":"Part Traits", "name":"Beam Shotgun"}, "name":"Beam Shotgun", "type":"Beam"},	
+			]	
+		},	
+		{	
+			"name":"Penelope",	
+			"attribute":"Speed",	
+			"rarity": 4,	
+			"sokai": 0,	
+			"parts":[	
+				{"part":"head", "a":965, "ma":0, "sa":3309, "md":551, "sd":551, "br":282, "pr":464, "wt":["Ace Excl.", "High Mobility"], "ex":{"type":"Part Traits", "name":"With Rifle category equipped, Enemy Shooting power reduced 30%"}},	
+				{"part":"torso", "a":1732, "ma":551, "sa":551, "md":1732, "sd":965, "br":75, "pr":672, "wt":["Ace Excl.", "High Mobility"], "ex":{"type":"Part Traits", "name":"While "Ace Excl.", Shooting power boosted 30%"}},	
+				{"part":"arms", "a":965, "ma":1355, "sa":551, "md":1732, "sd":551, "br":75, "pr":75, "wt":["Ace Excl.", "High Mobility"], "ex":{"type":"EX Skill", "name":"Flight Unit Combo"}},	
+				{"part":"legs", "a":965, "ma":551, "sa":551, "md":1732, "sd":965, "br":464, "pr":672, "wt":["Ace Excl.", "Federation"], "ex":{"type":"EX Skill", "name":"Funnel Missiles"}},	
+				{"part":"backpack", "a":965, "ma":551, "sa":551, "md":1732, "sd":965, "br":464, "pr":672, "wt":["Ace Excl.", "Federation"], "ex":{"type":"Part Traits", "name":"With Speed attribute (self), EX Skill piercing boosted 28%"}},	
+			]	
+		},	
+		{	
+			"name":"Gundam NT-1",	
+			"attribute":"Power",	
+			"rarity": 4,	
+			"sokai": 0,	
+			"parts":[	
+				{"part":"head", "a":1180, "ma":383, "sa":796, "md":1180, "sd":796, "br":417, "pr":212, "wt":["Close Combat", "Federation"], "ex":{"type":"EX Skill", "name":"Head-Mounted Vulcan"}},	
+				{"part":"torso", "a":1976, "ma":796, "sa":383, "md":796, "sd":796, "br":610, "pr":0, "wt":["Close Combat", "Federation"], "ex":{"type":"EX Skill", "name":"Defense Up (b)"}},	
+				{"part":"arms", "a":796, "ma":2781, "sa":0, "md":1180, "sd":1180, "br":0, "pr":0, "wt":["Close Combat", "For Urban Arena"], "ex":{"type":"EX Skill", "name":"90mm Gatling Cannon"}},	
+				{"part":"legs", "a":1180, "ma":383, "sa":383, "md":1180, "sd":796, "br":610, "pr":417, "wt":["Close Combat", "For Urban Arena"], "ex":{"type":"Part Traits", "name":"When Armor is 40% or more, Melee DMG taken reduced by 35"}},	
+				{"part":"backpack", "a":1180, "ma":383, "sa":383, "md":1180, "sd":796, "br":610, "pr":417, "wt":["Close Combat", "For Urban Arena"], "ex":{"type":"EX Skill", "name":"Rapid Thrust"}},	
+				{"part":"range", "a":1180, "ma":0, "sa":2378, "md":0, "sd":0, "br":610, "pr":212, "wt":["Close Combat", "Federation"], "ex":{"type":"EX Skill", "name":"Seventh Tri-Shot"}, "name":"Beam Rifle", "type":"Beam"},	
+				{"part":"shield", "a":1180, "ma":0, "sa":0, "md":1601, "sd":796, "br":805, "pr":212, "wt":["Close Combat", "Federation"], "ex":{"type":"EX Skill", "name":"Defense Up (a)"}, "name":"Shield"},	
+			]	
+		},	
+		{	
+			"name":"Gundam AGE-2 Normal",	
+			"attribute":"Technique",	
+			"rarity": 3,	
+			"sokai": 0,	
+			"parts":[	
+				{"part":"head", "a":561, "ma":294, "sa":1440, "md":294, "sd":893, "br":215, "pr":215, "wt":["Transformer", "For Computers"], "ex":{"type":"Part Traits", "name":"With Technique attribute (self), Shooting DMG taken reduced by 20"}},	
+				{"part":"torso", "a":893, "ma":561, "sa":294, "md":561, "sd":1147, "br":215, "pr":215, "wt":["Transformer", "For Computers"], "ex":{"type":"Part Traits", "name":"While "Transformer", EX Skill CD ruduced 15%"}},	
+				{"part":"arms", "a":561, "ma":2000, "sa":294, "md":561, "sd":893, "br":0, "pr":0, "wt":["Transformer", "For Computers"], "ex":{"type":"Part Traits", "name":"Beam ranged weapon reload speed boosted 15%"}},	
+				{"part":"legs", "a":561, "ma":294, "sa":294, "md":294, "sd":893, "br":352, "pr":352, "wt":["Transformer", "Protag."], "ex":{"type":"EX Skill", "name":"Stream Slash"}},	
+				{"part":"backpack", "a":561, "ma":294, "sa":294, "md":294, "sd":893, "br":352, "pr":352, "wt":["Transformer", "Protag."], "ex":{"type":"Part Traits", "name":"When Armor is 80% or less, Close Shot Attack raised 14%"}},	
+				{"part":"range", "a":561, "ma":0, "sa":1440, "md":0, "sd":561, "br":215, "pr":215, "wt":["Transformer", "Protag."], "ex":{"type":"Part Traits", "name":"While "Transformer", Initial EX Skill charge boosted 12%"}, "name":"Hyper DODS Rifle", "type":"Beam"},	
+				{"part":"shield", "a":561, "ma":0, "sa":0, "md":561, "sd":1440, "br":352, "pr":352, "wt":["Transformer", "For Tundra"], "ex":{"type":"Part Traits", "name":"Middle-Shooter Job Sp. Shot CRIT rate boosted 21%"}, "name":"Shield"}	
+			]	
+		},
 	];
 	
 	const pilots = [
