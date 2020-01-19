@@ -1,0 +1,13 @@
+		{
+			"name":"Byarlant Custom",
+			"attribute":"Power",
+			"rarity": 2,
+			"sokai": 0,
+			"parts":[
+				{"part":"head", "a":187, "ma":187, "sa":1480, "md":187, "sd":570, "br":0, "pr":0, "wt":["Long-Range", "High Mobility"], "ex":{"type":"EX Skill", "name":"Energy Satellite"}},
+				{"part":"torso", "a":754, "ma":187, "sa":187, "md":364, "sd":574, "br":0, "pr":281, "wt":["Long-Range", "For Base"], "ex":{"type":"Part Traits", "name":"With Module Category equipped Buff EX Skill Effect up 12%"}},
+				{"part":"arms", "a":570, "ma":364, "sa":187, "md":187, "sd":754, "br":81, "pr":201, "wt":["Long-Range", "High Mobility"], "ex":{"type":"EX Skill", "name":"Arm-Mounted Mega Particle Cannon"}},
+				{"part":"legs", "a":364, "ma":187, "sa":187, "md":364, "sd":754, "br":281, "pr":201, "wt":["Long-Range", "High Mobility"], "ex":{"type":"EX Skill", "name":"Claw Kick"}},
+				{"part":"backpack", "a":364, "ma":187, "sa":187, "md":754, "sd":364, "br":201, "pr":281, "wt":["Long-Range", "Federation"], "ex":{"type":"EX Skill", "name":"Vernier Up (a)"}},
+			]	
+		},
