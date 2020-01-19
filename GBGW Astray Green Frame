@@ -1,0 +1,16 @@
+	{
+		"name":"Astray Green Frame",
+		"attribute":"Power",
+		"rarity": 2,
+		"sokai": 0,
+		"parts":[
+			{"part":"head", "a":570, "ma":187, "sa":364, "md":570, "sd":187, "br":201, "pr":81, "wt":["High Mobility", "For Computers"], "ex":{"type":"EX Skill", "name":"Igelstellung"}},
+			{"part":"torso", "a":754, "ma":187, "sa":187, "md":754, "sd":365, "br":281, "pr":0, "wt":["High Mobility", "For Computers"], "ex":{"type":"Part Traits", "name":"With Power Attribute (self), Debuff EX Skill Effect up 12%"}},
+			{"part":"arms", "a":187, "ma":1480, "sa":187, "md":754, "sd":187, "br":0, "pr":0, "wt":["High Mobility", "For Computers"], "ex":{"type":"Part Traits", "name":"With Power Attribute (self), Strong Melee CRIT Rate boosted 14%"}},
+			{"part":"legs", "a":364, "ma":187, "sa":187, "md":754, "sd":364, "br":281, "pr":281, "wt":["High Mobility", "For Forest"], "ex":{"type":"EX Skill", "name":"Twin Sword Rifle"}},
+			{"part":"backpack", "a":364, "ma":187, "sa":187, "md":754, "sd":364, "br":201, "pr":201, "wt":["High Mobility", "For Forest"], "ex":{"type":"EX Skill", "name":"Double Saber Rush"}},
+			{"part":"melee", "a":187, "ma":1864, "sa":0, "md":0, "sd":0, "br":201, "pr":81, "wt":["High Mobility", "Close Combat"], "ex":{"type":"Skill", "name":"Sky Jumper"}, "name":"Twin Sword Rifle", "type":"Beam"},
+      {"part":"range", "a":570, "ma":0, "sa":1089, "md":0, "sd":0, "br":281, "pr":201, "wt":["High Mobility", "Close Combat"], "ex":{"type":"Part Traits", "name":"With Power Attribute (self), Sp. Shot Power boosted 18%"}, "name":"Twin Sword Rifle", "type":"Beam"},
+			{"part":"shield", "a":364, "ma":0, "sa":0, "md":1089, "sd":364, "br":462, "pr":0, "wt":["High Mobility", "For Forest"], "ex":{"type":"Traits", "name":"With Power Attribute (Self), Strong Melee DMG Taken reduced 15 (flat)"}, "name":"Anti-Beam Shield"},
+		]
+	},
