@@ -1,0 +1,15 @@
+		{
+			"name":"Den'an Zon",
+			"attribute":"Technique",
+			"rarity": 2,
+			"sokai": 0,
+			"parts":[
+				{"part":"head", "a":570, "ma":187, "sa":1089, "md":187, "sd":187, "br":201, "pr":81, "wt":["Mass P.", "Close Combat"], "ex":{"type":"Part Traits", "name":"When Armor < 30%, Shooting DMG Output boosted 15"}},
+				{"part":"torso", "a":942, "ma":187, "sa":364, "md":364, "sd":364, "br":281, "pr":0, "wt":["Mass P.", "Close Combat"], "ex":{"type":"EX Skill", "name":"Armed Aura (a)"}},
+				{"part":"arms", "a":1089, "ma":364, "sa":364, "md":942, "sd":1075, "br":371, "pr":81, "wt":["Mass P.", "Close Combat"], "ex":{"type":"EX Skill", "name":"Dual Beam Guns"}, "combo":"shield"},
+				{"part":"legs", "a":570, "ma":187, "sa":187, "md":364, "sd":570, "br":281, "pr":201, "wt":["Mass P.", "Mid-Range"], "ex":{"type":"EX Skill", "name":"Middle-Shooter Job, Long Shot Attack Raised 10%"}},
+				{"part":"backpack", "a":570, "ma":187, "sa":187, "md":364, "sd":570, "br":201, "pr":281, "wt":["Mass P.", "Mid-Range"], "ex":{"type":"EX Skill", "name":"Offense Hack (a)"}},
+				{"part":"melee", "a":570, "ma":1089, "sa":0, "md":0, "sd":187, "br":201, "pr":81, "wt":["Mass P.", "Close Combat"], "ex":{"type":"Part Traits", "name":"Out-Fighter Job, Initial EX Skill charge boosted 11%"}, "name":"Shot Lancer", "type":"Physical"},
+				{"part":"range", "a":570, "ma":0, "sa":1480, "md":0, "sd":0, "br":281, "pr":81, "wt":["Mass P.", "Close Combat"], "ex":{"type":"Part Traits", "name":"When Armor > 30%, Shooting DMG Output boosted 15"}, "name":""Shot Lancer (Heavy Machine Gun)"", "type":"Physical"},
+			]	
+		},
