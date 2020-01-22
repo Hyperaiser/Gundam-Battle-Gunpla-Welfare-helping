@@ -1,0 +1,14 @@
+		{
+			"name":"Gundam Full Armor [Thunderbolt Ver.]",
+			"attribute":"Speed",
+			"rarity": 4,
+			"sokai": 0,
+			"parts":[
+				{"part":"head", "a":796, "ma":383, "sa":2378, "md":796, "sd":796, "br":417, "pr":0, "wt":["Protag.", "Federation"], "ex":{"type":"EX Skill", "name":"Head-Mounted Cannon"}},
+				{"part":"torso", "a":1601, "ma":383, "sa":383, "md":1180, "sd":1180, "br":610, "pr":0, "wt":["Protag.", "Federation"], "ex":{"type":"EX Skill", "name":"7-Barrel Missle Launcher"}},
+				{"part":"arms", "a":1601, "ma":2378, "sa":383, "md":2781, "sd":2781, "br":417, "pr":417, "wt":["Protag.", "Federation"], "ex":{"type":"EX Skill", "name":"Twin Beam Rifle & Rocket Launcher"}, "combo":"shield"},
+				{"part":"legs", "a":796, "ma":383, "sa":383, "md":1180, "sd":1180, "br":610, "pr":417, "wt":["Protag.", "For Space"], "ex":{"type":"EX Skill", "name":"6-Barrel Missile Launcher"}},
+				{"part":"backpack", "a":796, "ma":383, "sa":383, "md":1180, "sd":1180, "br":610, "pr":417, "wt":["Protag.", "For Space"], "ex":{"type":"EX Skill", "name":"Free Improvisation"}},
+			]	
+		},
+]
