@@ -1,0 +1,15 @@
+[
+		"name":"Efreet Custom",
+		"attribute":"Speed",
+		"rarity": 3,
+		"sokai": 0,
+		"parts":[
+				{"part":"head", "a":561, "ma":294, "sa":1440, "md":294, "sd":893, "br":215, "pr":215, "wt":["Zeon", "For Desert"], "ex":{"type":"EX Skill", "name":"EXAM System"}},
+				{"part":"torso", "a":893, "ma":561, "sa":294, "md":561, "sd":1147, "br":215, "pr":215, "wt":["Zeon", "For Desert"], "ex":{"type":"Part Traits", "name":"In-Fighter Job Buff EX Skill effect up 15%"}},
+				{"part":"arms", "a":561, "ma":2000, "sa":294, "md":561, "sd":893, "br":0, "pr":0, "wt":["Zeon", "For Desert"], "ex":{"type":"EX Skill", "name":"Arm Grenade Launcher"}},
+				{"part":"legs", "a":561, "ma":294, "sa":294, "md":294, "sd":893, "br":352, "pr":352, "wt":["Zeon", "Close Combat"], "ex":{"type":"EX Skill", "name":"Leg Missile Pod"}},
+				{"part":"backpack", "a":561, "ma":294, "sa":294, "md":294, "sd":893, "br":352, "pr":352, "wt":["Zeon", "Close Combat"], "ex":{"type":"EX Skill", "name":"Heat Rush"}},
+				{"part":"melee", "a":294, "ma":0, "sa":2601, "md":0, "sd":561, "br":215, "pr":215, "wt":["Zeon", "Close Combat"], "ex":{"type":"Part Traits", "name":"While "Zeon", Strong Melee CRIT rate boosted 17%"}, "name":"Heat Saber", "type":"Physical"},
+		]
+	},
+]
