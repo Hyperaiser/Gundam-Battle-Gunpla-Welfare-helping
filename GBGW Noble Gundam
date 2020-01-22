@@ -1,0 +1,13 @@
+	{
+		"name":"Noble Gundam",
+		"attribute":"Technique",
+		"rarity": 4,
+		"sokai": 0,
+		"parts":[
+			{"part":"head", "a":1182, "ma":384, "sa":799, "md":1182, "sd":384, "br":290, "pr":290, "wt":["Mobile Fighter.", "Close Combat"], "ex":{"type":"EX Skill", "name":"Head-Mounted Vulcan"}},
+			{"part":"torso", "a":1606, "ma":384, "sa":384, "md":1606, "sd":799, "br":290, "pr":290, "wt":["Mobile Fighter", "Close Combat"], "ex":{"type":"EX Skill", "name":"Berkserker System"}},
+			{"part":"arms", "a":384, "ma":3181, "sa":384, "md":1606, "sd":384, "br":0, "pr":0, "wt":["Mobile Fighter", "Close Combat"], "ex":{"type":"EX Skill", "name":"Burnning Finger"}},
+			{"part":"legs", "a":799, "ma":384, "sa":384, "md":1606, "sd":799, "br":420, "pr":290, "wt":["Mobile Fighter", "For Urban Arena"], "ex":{"type":"EX Skill", "name":"Beam Hoop"}},
+			{"part":"melee", "a":384, "ma":4004, "sa":0, "md":0, "sd":0, "br":420, "pr":420, "wt":["Mobile Fighter", "For Urban Arena"], "ex":{"type":"EX Skill", "name":"Beam Ribbon"}, "name":"Beam Ribbon", "type":"Beam"},
+		]
+	}, 
