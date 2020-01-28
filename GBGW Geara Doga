@@ -1,0 +1,15 @@
+		{
+			"name":"Geara Doga",
+			"attribute":"Technique",
+			"rarity": 2,
+			"sokai": 0,
+			"parts":[
+				{"part":"head", "a":570, "ma":187, "sa":364, "md":570, "sd":187, "br":201, "pr":81, "wt":["Mass P.", "Zaku Type"], "ex":{"type":"EX Skill", "name":"Shock Bringer (b)"}},
+				{"part":"torso", "a":754, "ma":187, "sa":187, "md":754, "sd":364, "br":281, "pr":0, "wt":["Mass P.", "Mid-Range"], "ex":{"type":"Part Traits", "name":"When Armor < 30%, Buff EX Skill Effect up 12%"}},
+				{"part":"arms", "a":187, "ma":1480, "sa":187, "md":754, "sd":187, "br":0, "pr":0, "wt":["Mass P.", "Mid-Range"], "ex":{"type":"Part Traits", "name":"When attacking with Beam, EX Skill Power Boosted 15 (flat)"}},
+				{"part":"legs", "a":364, "ma":187, "sa":187, "md":754, "sd":364, "br":201, "pr":281, "wt":["Mass P.", "For Space"], "ex":{"type":"EX Skill", "name":"Brave Axe Combo"}},
+				{"part":"backpack", "a":364, "ma":187, "sa":187, "md":754, "sd":364, "br":281, "pr":201, "wt":["Mass P.", "For Space"], "ex":{"type":"EX Skill", "name":"Defense Hack (a)"}},
+				{"part":"range", "a":570, "ma":0, "sa":1089, "md":0, "sd":0, "br":281, "pr":201, "wt":["Mass P.", "Zaku Type"], "ex":{"type":"EX Skill", "name":"Panic Maker"}, "name":"Beam Machine Gun", "type":"Beam"},
+				{"part":"shield", "a":364, "ma":0, "sa":0, "md":1089, "sd":364, "br":462, "pr":0, "wt":["Mass P.", "For Space"], "ex":{"type":"EX Skill", "name":"Sturm Faust"}, "name":"Shield"},
+			]	
+		},
