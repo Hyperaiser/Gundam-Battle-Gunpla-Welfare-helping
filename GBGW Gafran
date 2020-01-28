@@ -1,0 +1,14 @@
+    
+		{
+			"name":"Gafran",
+			"attribute":"Power",
+			"rarity": 2,
+			"sokai": 0,
+			"parts":[
+				{"part":"head", "a":364, "ma":187, "sa":187, "md":570, "sd":570, "br":201, "pr":201, "wt":["Mass P.", "Close Combat"], "ex":{"type":"Part Traits", "name":"With Module Category equipped Close Shot Attack raised 10%"}},
+				{"part":"torso", "a":757, "ma":187, "sa":0, "md":570, "sd":570, "br":139, "pr":139, "wt":["Mass P.", "Mid-Range"], "ex":{"type":"EX Skill", "name":"Scattering Beam Cannon"}},
+				{"part":"arms", "a":364, "ma":570, "sa":187, "md":570, "sd":570, "br":81, "pr":81, "wt":["Mass P.", "Mid-Range"], "ex":{"type":"EX Skill", "name":"Double Saber Rush"}},
+				{"part":"legs", "a":364, "ma":187, "sa":187, "md":757, "sd":757, "br":139, "pr":139, "wt":["Mass P.", "Mid-Range"], "ex":{"type":"Part Traits", "name":"With Module Category equipped EX Skill Recovery boosted 18%"}},
+				{"part":"backpack", "a":364, "ma":187, "sa":187, "md":757, "sd":757, "br":139, "pr":139, "wt":["Mass P.", "Close Combat"], "ex":{"type":"EX Skill", "name":"Tail Beam Rifle"}},
+			]	
+		},
