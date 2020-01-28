@@ -6,8 +6,8 @@
 			"sokai": 0,
 			"parts":[
 				{"part":"head", "a":363, "ma":186, "sa":1088, "md":363, "sd":363, "br":0, "pr":200, "wt":["High Firepower", "Mass P."], "ex":{"type":"EX Skill", "name":"Head-Mounted Vulcan"}},
-				{"part":"torso", "a":754, "ma":186, "sa":186, "md":569, "sd":569, "br":0, "pr":0, "wt":["High Firepower", "Long-Range"], "ex":{"type":"EX Skill", "name":"Mega Particle Cannon"}},
-				{"part":"arms", "a":363, "ma":1088, "sa":186, "md":755694, "sd":569, "br":0, "pr":0, "wt":["High Firepower", "Mass P."], "ex":{"type":"Part Traits", "name":"When attacking with Beam, Sp. Shot DMG Output boosted 15"}},
+				{"part":"torso", "a":754, "ma":186, "sa":186, "md":569, "sd":569, "br":0, "pr":280, "wt":["High Firepower", "Long-Range"], "ex":{"type":"EX Skill", "name":"Mega Particle Cannon"}},
+				{"part":"arms", "a":363, "ma":1088, "sa":186, "md":569, "sd":569, "br":0, "pr":0, "wt":["High Firepower", "Mass P."], "ex":{"type":"Part Traits", "name":"When attacking with Beam, Sp. Shot DMG Output boosted 15"}},
 				{"part":"legs", "a":363, "ma":186, "sa":186, "md":569, "sd":569, "br":200, "pr":280, "wt":["High Firepower", "Long-Range"], "ex":{"type":"Part Traits", "name":"When attacking with Beam, Mid Shot Attack raised 10%"}},
 				{"part":"backpack", "a":363, "ma":186, "sa":186, "md":569, "sd":569, "br":200, "pr":280, "wt":["High Firepower", "Mass P."], "ex":{"type":"EX Skill", "name":"Incom"}},
 				{"part":"range", "a":363, "ma":0, "sa":1479, "md":0, "sd":0, "br":80, "pr":280, "wt":["High Firepower", "Long-Range"], "ex":{"type":"EX Skill", "name":"Seventh Ray Shot"}, "name":"Beam Rifle", "type":"Beam"},
