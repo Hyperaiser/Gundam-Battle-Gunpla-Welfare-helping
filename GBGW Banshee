@@ -6,7 +6,7 @@
 			"parts":[
 				{"part":"head", "a":966, "ma":379, "sa":3313, "md":0, "sd":553, "br":284, "pr":465, "wt":["Gundam Type", "Close Combat"], "ex":{"type":"EX Skill", "name":"Head-Mounted Vulcan"}},
 				{"part":"torso", "a":1736, "ma":789, "sa":1098, "md":966, "sd":966, "br":0, "pr":674, "wt":["Gundam Type", "Close Combat"], "ex":{"type":"EX Skill", "name":"NT-D"}},
-				{"part":"arms", "a":1888, "ma":3692, "sa":2026, "md":1508, "sd":1508, "br":0, "pr":1083, "wt":["Gundam Type", "Close Combat"], "ex":{"type":"EX Skill", "name":"Armed Armor"}, },
+				{"part":"arms", "a":1888, "ma":3692, "sa":2026, "md":1508, "sd":1508, "br":0, "pr":1083, "wt":["Gundam Type", "Close Combat"], "ex":{"type":"EX Skill", "name":"Armed Armor"}, "combo":"shield"},
 				{"part":"legs", "a":966, "ma":789, "sa":720, "md":966, "sd":966, "br":674, "pr":465, "wt":["Gundam Type", "High Firepower"], "ex":{"type":"Part Traits", "name":"With Power Attribute (self), EX Skill CD reduced 20%"}},
 				{"part":"backpack", "a":966, "ma":789, "sa":720, "md":966, "sd":966, "br":465, "pr":674, "wt":["Gundam Type", "High Firepower"], "ex":{"type":"EX Skill", "name":"Double Saber Rush"}},
 			]	
