@@ -1,0 +1,14 @@
+		{
+			"name":"Susanowo",
+			"attribute":"Power",
+			"rarity": 3,
+			"sokai": 0,
+			"parts":[
+				{"part":"head", "a":889, "ma":291, "sa":558, "md":889, "sd":291, "br":126, "pr":302, "wt":["Close Combat", "For Space"], "ex":{"type":"EX Skill", "name":"Beam Chakram"}},
+				{"part":"torso", "a":1142, "ma":291, "sa":291, "md":1142, "sd":558, "br":0, "pr":428, "wt":["Close Combat", "For Space"], "ex":{"type":"Part Traits", "name":"GN Vulcan"}},
+				{"part":"arms", "a":291, "ma":2300, "sa":291, "md":1142, "sd":291, "br":0, "pr":0, "wt":["Close Combat", "For Space"], "ex":{"type":"Part Traits", "name":"With Dual Sabers Category equipped, Melee Power boosted 25%"}},
+				{"part":"legs", "a":558, "ma":291, "sa":291, "md":1142, "sd":558, "br":428, "pr":302, "wt":["Close Combat", "For Computers"], "ex":{"type":"EX Skill", "name":"Trans-Am Raid"}},
+				{"part":"backpack", "a":558, "ma":291, "sa":291, "md":1142, "sd":558, "br":302, "pr":428, "wt":["Close Combat", "For Computers"], "ex":{"type":"Part Traits", "name":"15% chance to prevent vernier consumption when stepping"}},
+				{"part":"melee", "a":291, "ma":2867, "sa":0, "md":0, "sd":0, "br":126, "pr":302, "wt":["Close Combat", "For Computers"], "ex":{"type":"Part Traits", "name":"In-Fighter Job, Initial EX Skill Charge boosted 12%"}, "name":"Shiranui/Unryu", "type":"Physical"},
+			]	
+		},
