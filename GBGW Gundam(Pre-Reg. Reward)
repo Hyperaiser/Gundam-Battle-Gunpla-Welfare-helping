@@ -1,0 +1,18 @@
+		{
+			"name":"Gundam(Pre-Reg. Reward)",
+			"attribute":"Power",
+			"rarity":2,
+			"sokai": 0,
+			"parts":[
+				{"part":"head", "a":364, "ma":187, "sa":570, "md":570, "sd":570, "br":81, "pr":81, "wt":["Protag.", "Gundam Type"], "ex":{"type":"EX Skill", "name":"Head-Mounted Vulcan"}},
+				{"part":"torso", "a":757, "ma":187, "sa":0, "md":570, "sd":570, "br":138, "pr":138, "wt":["Protag.", "Gundam Type"], "ex":{"type":"Part Traits", "name":"Buff EX Skill Effect up 15%"}},
+				{"part":"arms", "a":364, "ma":570, "sa":187, "md":570, "sd":570, "br":81, "pr":81, "wt":["Protag.", "Close Combat"], "ex":{"type":"Part Traits", "name":"Beam ranged weapon reload speed boosted 15%"}},
+				{"part":"legs", "a":364, "ma":187, "sa":187, "md":757, "sd":757, "br":139, "pr":139, "wt":["Protag.", "Close Combat"], "ex":{"type":"Part Traits", "name":"With Power Attribute (self), Mid Shot Attack raised 14%"}},
+				{"part":"backpack", "a":364, "ma":187, "sa":187, "md":757, "sd":757, "br":139, "pr":139, "wt":["Protag.", "Gundam Type"], "ex":{"type":"Part Traits", "name":"All-Rounder Job, Vernier Recovery Rate boosted 15%"}},
+				{"part":"melee", "a":364, "ma":757, "sa":0, "md":364, "sd":364, "br":201, "pr":201, "wt":["Protag.", "Close Combat"], "ex":{"type":"Part Traits", "name":"Job Gauge Increase boosted 13%"}, "name":"Beam Javelin", "type":"Beam"},
+				{"part":"melee", "a":364, "ma":757, "sa":0, "md":364, "sd":364, "br":201, "pr":201, "wt":["Protag.", "Close Combat"], "ex":{"type":"Part Traits", "name":"Job Gauge Increase boosted 13%"}, "name":"Beam Saber", "type":"Beam"},
+				{"part":"range", "a":364, "ma":0, "sa":757, "md":364, "sd":364, "br":201, "pr":201, "wt":["Protag.", "Mid-Range"], "ex":{"type":"EX Skill", "name":"Enemy Shooting Power reduced 25%"}, "name":"Beam Rifle", "type":"Beam"},
+				{"part":"range", "a":364, "ma":0, "sa":757, "md":364, "sd":364, "br":201, "pr":201, "wt":["Protag.", "Mid-Range"], "ex":{"type":"Part Traits", "name":"With Power Attribute (self), Job Gauge Increase boosted 13%"}, "name":"Hyper Bazooka", "type":"Physical"},
+				{"part":"shield", "a":0, "ma":0, "sa":0, "md":942, "sd":942, "br":201, "pr":201, "wt":["Protag.", "Close Combat"], "ex":{"type":"Part Traits", "name":"With Rifle Category equipped Debuff EX Skill Effect up 15%"}, "name":"Shield"},
+			]
+		},
