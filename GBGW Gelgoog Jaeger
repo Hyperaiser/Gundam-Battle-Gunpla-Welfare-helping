@@ -1,0 +1,14 @@
+		{
+			"name":"Gelgoog Jaeger",
+			"attribute":"Speed",
+			"rarity": 2,
+			"sokai": 0,
+			"parts":[
+				{"part":"head", "a":365, "ma":187, "sa":1278, "md":365, "sd":187, "br":0, "pr":81, "wt":["Mid-Range", "Zeon"], "ex":{"type":"EX Skill", "name":"Head-Mounted Vulcan"}},
+				{"part":"torso", "a":754, "ma":571, "sa":187, "md":187, "sd":757, "br":365, "pr":0, "wt":["Mid-Range", "Zeon"], "ex":{"type":"Part Traits", "name":"Support Job, Buff EX Skill Time up 12%"}},
+				{"part":"arms", "a":365, "ma":943, "sa":187, "md":571, "sd":365, "br":0, "pr":0, "wt":["Mid-Range", "Commander"], "ex":{"type":"EX Skill", "name":"Beam Spot Gun"}},
+				{"part":"legs", "a":365, "ma":187, "sa":365, "md":571, "sd":187, "br":202, "pr":282, "wt":["Mid-Range", "Commander"], "ex":{"type":"Part Traits", "name":"With Machine Gun Category equipped Sp. Shot Power boosted 18%"}},
+				{"part":"backpack", "a":365, "ma":187, "sa":365, "md":571, "sd":187, "br":202, "pr":282, "wt":["Mid-Range", "Commander"], "ex":{"type":"Part Traits", "name":"Middle-Shooter Job, Vernier Recovery Rate boosted 12%"}},
+				{"part":"range", "a":187, "ma":0, "sa":1663, "md":365, "sd":0, "br":81, "pr":202, "wt":["Mid-Range", "Zeon"], "ex":{"type":"Part Traits", "name":"With Machine Gun Category equipped, Sp. Shot Power boosted 18%"}, "name":"Large Beam Machine Gun", "type":"Beam"},
+			]	
+		},
