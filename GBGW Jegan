@@ -1,0 +1,14 @@
+		{
+			"name":"Jegan",
+			"attribute":"Technique",
+			"rarity": 2,
+			"sokai": 0,
+			"parts":[
+				{"part":"head", "a":755, "ma":187, "sa":570, "md":364, "sd":364, "br":201, "pr":0, "wt":["Mid-Range", "For Base"], "ex":{"type":"EX Skill", "name":"Vulcan Pod"}},
+				{"part":"torso", "a":1090, "ma":187, "sa":187, "md":364, "sd":364, "br":281, "pr":0, "wt":["Mid-Range", "For Base"], "ex":{"type":"Part Traits", "name":"Support Job, EX Skill Piercing boosted 16%"}},
+				{"part":"arms", "a":570, "ma":570, "sa":187, "md":570, "sd":570, "br":81, "pr":0, "wt":["Mid-Range", "For Base"], "ex":{"type":"Part Traits", "name":"With Bazooka Category equipped Sp. Shot DMG Output boosted 15"}},
+				{"part":"legs", "a":570, "ma":187, "sa":187, "md":570, "sd":570, "br":81, "pr":281, "wt":["Mid-Range", "GM Type"], "ex":{"type":"EX Skill", "name":"Hand Grenade"}},
+				{"part":"backpack", "a":570, "ma":187, "sa":187, "md":570, "sd":570, "br":281, "pr":81, "wt":["Mid-Range", "GM Type"], "ex":{"type":"EX Skill", "name":"Beam ranged weapon magazine boosted 14%"}},
+				{"part":"shield", "a":570, "ma":0, "sa":0, "md":570, "sd":570, "br":462, "pr":0, "wt":["High Mobility", "GM Type"], "ex":{"type":"Traits", "name":"Missile Launcher"}, "name":"Shield"},
+			]	
+		},
