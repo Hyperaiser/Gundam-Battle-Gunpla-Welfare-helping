@@ -1,0 +1,13 @@
+		{
+			"name":"Jesta",
+			"attribute":"Technique",
+			"rarity": 2,
+			"sokai": 0,
+			"parts":[
+				{"part":"head", "a":364, "ma":186, "sa":1089, "md":364, "sd":364, "br":80, "pr":80, "wt":["Mass P.", "GM Type"], "ex":{"type":"EX Skill", "name":"Vulcan Pod"}},
+				{"part":"torso", "a":754, "ma":186, "sa":186, "md":569, "sd":569, "br":138, "pr":138, "wt":["Mass P.", "GM Type"], "ex":{"type":"Part Traits", "name":"With Technique Attribute (self), EX Skill Piercing boosted 16%"}},
+				{"part":"arms", "a":364, "ma":1089, "sa":186, "md":569, "sd":569, "br":0, "pr":0, "wt":["Mass P.", "GM Type"], "ex":{"type":"Part Traits", "name":"When Armor > 70%, Melee DMG Taken reduced 15"}},
+				{"part":"legs", "a":364, "ma":186, "sa":186, "md":569, "sd":364, "br":208, "pr":252, "wt":["Mass P.", "Support Type"], "ex":{"type":"EX Skill", "name":"Hand Grenade"}},
+				{"part":"backpack", "a":364, "ma":186, "sa":186, "md":569, "sd":364, "br":252, "pr":208, "wt":["Mass P.", "Support Type"], "ex":{"type":"EX Skill", "name":"2-Tube Missile Launcher"}},
+			]	
+		},
