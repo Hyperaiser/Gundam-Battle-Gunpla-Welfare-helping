@@ -1,0 +1,14 @@
+		{
+			"name":"Jesta Cannon",
+			"attribute":"Power",
+			"rarity": 2,
+			"sokai": 0,
+			"parts":[
+				{"part":"head", "a":187, "ma":187, "sa":1480, "md":187, "sd":570, "br":0, "pr":0, "wt":["Long-Range", "Support Type"], "ex":{"type":"Part Traits", "name":"When Armor > 70%, Close Shot Attacked raised 10%"}},
+				{"part":"torso", "a":754, "ma":187, "sa":187, "md":364, "sd":754, "br":281, "pr":0, "wt":["Long-Range", "Support Type"], "ex":{"type":"Part Traits", "name":"With Power Attribute (self), Enemy Strong Melee Power Reduced 18%"}},
+				{"part":"arms", "a":570, "ma":364, "sa":187, "md":187, "sd":754, "br":201, "pr":81, "wt":["Long-Range", "GM Type"], "ex":{"type":"Part Traits", "name":"Middle-Shooter Job, Sp. Shot Power boosted 18%"}},
+				{"part":"legs", "a":364, "ma":187, "sa":187, "md":364, "sd":754, "br":201, "pr":281, "wt":["Long-Range", "GM Type"], "ex":{"type":"EX Skill", "name":"Hand Grenade"}},
+				{"part":"backpack", "a":364, "ma":187, "sa":187, "md":364, "sd":754, "br":281, "pr":201, "wt":["Long-Range", "GM Type"], "ex":{"type":"EX Skill", "name":"4-Tube Multi- Launcher"}},
+				{"part":"range", "a":187, "ma":0, "sa":1864, "md":0, "sd":0, "br":201, "pr":81, "wt":["Long-Range", "Support Type"], "ex":{"type":"Part Traits", "name":"With Machine Gun Category equipped, Sp. Shot DMG Output boosted 15"}, "name":"Beam Rifle", "type":"Beam"},
+			]	
+		},
