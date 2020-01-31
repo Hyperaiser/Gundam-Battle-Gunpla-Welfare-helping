@@ -1,0 +1,12 @@
+		{
+			"name":"Hy-Gogg",
+			"attribute":"Speed",
+			"rarity": 2,
+			"sokai": 0,
+			"parts":[
+				{"part":"torso", "a":1088, "ma":363, "sa":569, "md":1088, "sd":1088, "br":460, "pr":0, "wt":["Amphib.", "Zeon"], "ex":{"type":"EX Skill", "name":"Torpedo"}, "combo":"head"},
+				{"part":"arms", "a":363, "ma":569, "sa":186, "md":569, "sd":569, "br":200, "pr":80, "wt":["Amphib.", "For Tundra"], "ex":{"type":"EX Skill", "name":"Beam Cannon"}},
+				{"part":"legs", "a":363, "ma":186, "sa":186, "md":754, "sd":754, "br":80, "pr":200, "wt":["Amphib.", "For Tundra"], "ex":{"type":"Part Traits", "name":"With Mass P. Enemy, Close Shot Attack raised 10%"}},
+				{"part":"backpack", "a":363, "ma":186, "sa":186, "md":754, "sd":754, "br":200, "pr":80, "wt":["Amphib.", "For Tundra"], "ex":{"type":"Part Traits", "name":"With Ace Excl. enemy, Enemy Sp. Shot Power reduced 18%"}},
+			]	
+		},
