@@ -1,0 +1,20 @@
+		{
+			"name":"GN-XIII",
+			"attribute":"Speed",
+			"rarity": 2,
+			"sokai": 0,
+			"parts":[
+				{"part":"head", "a":570, "ma":187, "sa":1089, "md":187, "sd":187, "br":81, "pr":201, "wt":["Mass P.", "For Tundra"], "ex":{"type":"EX Skill", "name":"Gun Vulcan"}},
+				{"part":"torso", "a":942, "ma":187, "sa":364, "md":364, "sd":364, "br":0, "pr":281, "wt":["Mass P.", "Close Combat"], "ex":{"type":"Part Traits", "name":"With Speed Attribute (self), Buff EX Skill Time up 12%"}},
+				{"part":"arms", "a":570, "ma":364, "sa":364, "md":570, "sd":570, "br":0, "pr":0, "wt":["Mass P.", "For Tundra"], "ex":{"type":"Part Traits", "name":"Screw Fang"}},
+				{"part":"legs", "a":570, "ma":187, "sa":187, "md":364, "sd":570, "br":201, "pr":281, "wt":["Mass P.", "Long-Range"], "ex":{"type":"EX Skill", "name":"Saber Boomerang"}},
+				{"part":"backpack", "a":570, "ma":187, "sa":187, "md":364, "sd":570, "br":201, "pr":281, "wt":["Mass P.", "Long-Range"], "ex":{"type":"EX Skill", "name":"Beam ranged weapon magazine boosted 14%"}},
+				{"part":"melee", "a":570, "ma":1089, "sa":0, "md":0, "sd":187, "br":81, "pr":201, "wt":["Mass P.", "Close Combat"], "ex":{"type":"Skill", "name":"Valiant Heart"}, "name":"GN Beam Saber", "type":"Beam"},
+				{"part":"melee", "a":570, "ma":1089, "sa":0, "md":0, "sd":187, "br":81, "pr":201, "wt":["Mass P.", "Close Combat"], "ex":{"type":"Skill", "name":"Bright Stinger"}, "name":"GN Lance", "type":"Physical"},
+				{"part":"range", "a":570, "ma":0, "sa":1480, "md":0, "sd":0, "br":81, "pr":281, "wt":["Mass P.", "Close Combat"], "ex":{"type":"Part Traits", "With Speed Attribute (self), Strong Melee DMG Taken reduced 15"}, "name":"GN Lance(Rifle Mode)", "type":"Beam"},
+				{"part":"range", "a":570, "ma":0, "sa":1480, "md":0, "sd":0, "br":81, "pr":281, "wt":["Mass P.", "For Tundra"], "ex":{"type":"Part Traits", "name":"In-Fighter Job, Shooting DMG Taken reduced 15"}, "name":"GN Beam Rifle", "type":"Beam"},
+				{"part":"range", "a":570, "ma":0, "sa":1480, "md":0, "sd":0, "br":81, "pr":281, "wt":["Mass P.", "For Tundra"], "ex":{"type":"EX Skill", "name":"Myriad Snipe"}, "name":"GN Beam Rifle(Long Barrel)", "type":"Beam"},
+				{"part":"range", "a":570, "ma":0, "sa":1480, "md":0, "sd":0, "br":81, "pr":281, "wt":["Mass P.", "For Tundra"], "ex":{"type":"Part Traits", "name":"When attacking with Beam, Sp. Shot DMG Output boosted 15"}, "name":"GN Bazooka", "type":"Beam"},
+				{"part":"shield", "a":570, "ma":0, "sa":0, "md":364, "sd":754, "br":81, "pr":371, "wt":["Mass P.", "For Tundra"], "ex":{"type":"Traits", "name":"Offense Hack (a)"}, "name":"GN Shield"},
+			]	
+		},
