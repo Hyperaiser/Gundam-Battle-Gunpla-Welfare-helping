@@ -1,0 +1,17 @@
+		{
+			"name":"GN-X",
+			"attribute":"Technique",
+			"rarity": 2,
+			"sokai": 0,
+			"parts":[
+				{"part":"head", "a":363, "ma":186, "sa":569, "md":569, "sd":569, "br":0, "pr":200, "wt":["Ace Excl.", "Mid-Range"], "ex":{"type":"EX Skill", "name":"GN Vulcan"}},
+				{"part":"torso", "a":754, "ma":186, "sa":0, "md":569, "sd":569, "br":0, "pr":280, "wt":["Ace Excl.", "Mass P."], "ex":{"type":"Part Traits", "name":"With Technique Attribute (self), Buff EX Skill Effect up 12%"}},
+				{"part":"arms", "a":363, "ma":569, "sa":186, "md":569, "sd":569, "br":80, "pr":200, "wt":["Ace Excl.", "Mass P."], "ex":{"type":"EX Skill", "name":"GN Claw"}},
+				{"part":"legs", "a":363, "ma":186, "sa":186, "md":754, "sd":754, "br":200, "pr":80, "wt":["Ace Excl.", "Mid-Range"], "ex":{"type":"EX Skill", "name":"Saber Boomerang"}},
+				{"part":"backpack", "a":363, "ma":186, "sa":186, "md":754, "sd":754, "br":80, "pr":200, "wt":["Ace Excl.", "For Computers"], "ex":{"type":"Part Traits", "name":"Beam ranged weapon magazine boosted 14%"}},
+				{"part":"melee", "a":363, "ma":754, "sa":0, "md":363, "sd":363, "br":200, "pr":280, "wt":["Ace Excl.", "For Computers"], "ex":{"type":"Part Traits", "name":"10% chance of attacks penetrating super armor"}, "name":"GN Beam Saber", "type":"Beam"},
+				{"part":"range", "a":363, "ma":0, "sa":754, "md":363, "sd":363, "br":200, "pr":280, "wt":["Ace Excl.", "For Desert"], "ex":{"type":"EX Skill", "name":"Seventh Ray Shot"}, "name":"GN Beam Rifle", "type":"Beam"},
+				{"part":"range", "a":363, "ma":0, "sa":754, "md":363, "sd":363, "br":200, "pr":280, "wt":["Ace Excl.", "For Computers"], "ex":{"type":"EX Skill", "name":"Myriad Snipe"}, "name":"GN Beam Rifle(Long Barrel)", "type":"Beam"},
+				{"part":"shield", "a":0, "ma":0, "sa":0, "md":940, "sd":940, "br":80, "pr":371, "wt":["Ace Excl.", "For Computers"], "ex":{"type":"Traits", "name":"Barrier Hack (a)"}, "name":"GN Shield"},
+			]	
+		},
