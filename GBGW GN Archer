@@ -1,0 +1,13 @@
+		{
+			"name":"GN Archer",
+			"attribute":"Speed",
+			"rarity": 2,
+			"sokai": 0,
+			"parts":[
+				{"part":"head", "a":365, "ma":187, "sa":1278, "md":365, "sd":187, "br":81, "pr":0, "wt":["Transformer", "Mid-Range"], "ex":{"type":"EX Skill", "name":"Recovery Tool (a)"}},
+				{"part":"torso", "a":591, "ma":187, "sa":187, "md":757, "sd":365, "br":282, "pr":0, "wt":["Transformer", "Mid-Range"], "ex":{"type":"Part Traits", "name":"Support Job, Debuff EX Skill Effect up 12%"}},
+				{"part":"arms", "a":365, "ma":943, "sa":187, "md":571, "sd":365, "br":0, "pr":0, "wt":["Transformer", "Support Type"], "ex":{"type":"EX Skill", "name":"Barrier Stance (b)"}},
+				{"part":"legs", "a":365, "ma":187, "sa":365, "md":571, "sd":187, "br":282, "pr":202, "wt":["Transformer", "Support Type"], "ex":{"type":"EX Skill", "name":"Saber Boomerang"}},
+				{"part":"backpack", "a":365, "ma":187, "sa":365, "md":571, "sd":187, "br":282, "pr":202, "wt":["Transformer", "Support Type"], "ex":{"type":"EX Skill", "name":"GN Missile"}},
+			]	
+		},
