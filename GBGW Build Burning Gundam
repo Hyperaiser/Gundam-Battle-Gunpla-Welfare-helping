@@ -1,0 +1,13 @@
+	{
+		"name":"Build Burning Gundam",
+		"attribute":"Speed",
+		"rarity": 4,
+		"sokai": 0,
+		"parts":[
+			{"part":"head", "a":1181, "ma":384, "sa":796, "md": 1181, "sd":384, "br":417, "pr":213, "wt":["Protag.", "Close Combat"], "ex":{"type":"Part Traits", "name":"With Speed attribute (self) Buff EX Skill time up 22%"}},
+			{"part":"torso", "a":1602, "ma":384, "sa":384, "md":1602, "sd":796, "br":611, "pr":0, "wt":["Protag.", "Close Combat"], "ex":{"type":"EX Skill", "name":"Jigen Haoh Style Gokui"}},
+			{"part":"arms", "a":384, "ma":3177, "sa":384, "md":1602, "sd":384, "br":0, "pr":0, "wt":["Protag.", "Close Combat"], "ex":{"type":"EX Skill", "name":"Jigen Haoh Style Shippu-Zuki"}},
+			{"part":"legs", "a":796, "ma":384, "sa":384, "md":1602, "sd":796, "br":417, "pr":611, "wt":["Protag.", "Gundam Type"], "ex":{"type":"EX Skill", "name":"Jigen Haoh Style Seiso-Geri"}},
+			{"part":"backpack", "a":796, "ma":384, "sa":384, "md":1602, "sd":796, "br":611, "pr":417, "wt":["Protag.", "Gundam Type"], "ex":{"type":"EX Skill", "name":"Houou Haoh-Ken"}},
+		]
+	}, 
