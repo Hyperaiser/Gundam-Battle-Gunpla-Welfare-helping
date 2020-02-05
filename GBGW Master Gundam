@@ -1,0 +1,14 @@
+	{
+		"name":"Master Gundam",
+		"attribute":"Power",
+		"rarity": 4,
+		"sokai": 0,
+		"parts":[
+			{"part":"head", "a":1181, "ma":384, "sa":796, "md": 1181, "sd":384, "br":213, "pr":417, "wt":["Mobile Fighter", "High Firepower"], "ex":{"type":"EX Skill", "name":"Choukyuu Haou Den'eidan0"}},
+			{"part":"torso", "a":1602, "ma":384, "sa":384, "md":1602, "sd":796, "br":0, "pr":611, "wt":["Mobile Fighter", "High Firepower"], "ex":{"type":"EX Skill", "name":"Hyper Mode"}},
+			{"part":"arms", "a":384, "ma":3177, "sa":384, "md":1602, "sd":384, "br":0, "pr":0, "wt":["Mobile Fighter", "High Firepower"], "ex":{"type":"EX Skill", "name":"Sekiha Tenkyouken"}},
+			{"part":"legs", "a":796, "ma":384, "sa":384, "md":1602, "sd":796, "br":611, "pr":417, "wt":["Mobile Fighter", "Close Combat"], "ex":{"type":"Part Traits", "name":"With Power attribute (self) EX Skill piercing boosted 28%"}},
+			{"part":"backpack", "a":796, "ma":384, "sa":384, "md":1602, "sd":796, "br":417, "pr":611, "wt":["Mobile Fighter", "Close Combat"], "ex":{"type":"EX Skill", "name":"Juuni Ouhoupai Daishahei"}},
+			{"part":"melee", "a":384, "ma":3997, "sa":0, "md":0, "sd":0, "br":213, "pr":417, "wt":["Mobile Fighter", "Close Combat"], "ex":{"type":"Part Traits", "name":"In-fighter Job Strong Melee CRIT rate boosted 30%"}, "name":"Master Cloth", "type":"Beam"},
+		]
+	}, 
