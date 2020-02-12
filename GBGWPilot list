@@ -67,6 +67,8 @@
   {"name":"Mr. Bushido", "jl":"In-Fighter", "attribute":"Power", "rarity": 3, "a":558, "ma":1142, "sa":291, "md":558, "sd":558, "br":126, "pr":302, "wt":["Close Combat", "High Mobility"], "ex":{"type":"Part Traits":""With Power Attribute (self), EX Skill CD reduced 15%""}}
 		{"name":"Setsuna F.Seiei", "jl":"In-Fighter", "attribute":"Speed", "rarity":4, "a":796, "ma":1602, "sa":384, "md":796, "sd":796, "br":417, "pr":213, "wt":["Protag.", "Gundam Type"], "ex":{"type":"Part Traits", "name":"While Gundam Type, Buff EX Skill effect up 22%"}},
 		{"name":"Auel Neider", "jl":"Defender", "attribute":"Technique", "rarity": 3, "a":889, "ma":291, "sa":889, "md":558, "sd":558, "br":126, "pr":428, "wt":["Amphib.", "Mid-Range"], "ex":{"type":"Part Traits", "name":"With Technique Attribute (self), Debuff EX Skill effect up 15%"}},
+		{"name":"Lalah Sune", "jl":"Support", "attribute":"Technique", "rarity":4, "a":799, "ma":384, "sa":1184, "md":1184, "sd":799, "br":614, "pr":213, "wt":["Long-Range", "Ace Excl."], "ex":{"type":"Part Traits", "name":"With Technique Attribute (self), Debuff EX Skill effect up 22%"}},
+		{"name":"Louise Halevy", "jl":"Defender", "attribute":"Power", "rarity": 3, "a":1144, "ma":292, "sa":292, "md":558, "sd":558, "br":430, "pr":127, "wt":["Support Type", "For Space"], "ex":{"type":"Part Traits", "name":"With Power Attribute (self), Enemy All power reduced 13%"}},
 
 
 ]
