@@ -1,0 +1,18 @@
+		{
+			"name":"00 Qan[T] Full Saber",
+			"attribute":"Power",
+			"rarity": 4,
+			"sokai": 1,
+			"parts":[
+				{"part":"head", "a":1363, "ma":972, "sa":1363, "md":555, "sd":1363, "br":680, "pr":0, "wt":["Protag.", "Close Combat"], "ex":{"type":"EX Skill", "name":"Recovery Tool (y)"}},
+				{"part":"torso", "a":1745, "ma":555, "sa":972, "md":0, "sd":2146, "br":680, "pr":0, "wt":["Protag.", "Close Combat"], "ex":{"type":"EX Skill", "name":"Defense Hack (b)"}},
+				{"part":"arms", "a":0, "ma":2770, "sa":555, "md":555, "sd":1363, "br":471, "pr":286, "wt":["Protag.", "Gundam Type"], "ex":{"type":"Part Traits", "name":"With Power attribute (self) Melee power boosted 30%"}},
+				{"part":"legs", "a":972, "ma":972, "sa":555, "md":972, "sd":1363, "br":680, "pr":286, "wt":["Protag.", "For Space"], "ex":{"type":"Part Traits", "name":"In-Fighter Job EX Skill CD reduced 20%"}},
+				{"part":"backpack", "a":972, "ma":972, "sa":555, "md":972, "sd":1363, "br":680, "pr":471, "wt":["Protag.", "For Space"], "ex":{"type":"EX Skill", "name":"Full Saber Attack"}},
+				{"part":"melee", "a":384, "ma":3582, "sa":0, "md":0, "sd":0, "br":611, "pr":418, "wt":["Protag.", "For Space"], "ex":{"type":"Part Traits", "name":"When Armor is 80% or less EX Skill power boosted 30%"}, "name":"GN Sword IV [Katar Mode]", "type":"Physical"},
+				{"part":"melee", "a":1363, "ma":3713, "sa":0, "md":0, "sd":0, "br":680, "pr":286, "wt":["Protag.", "Gundam Type"], "ex":{"type":"Part Traits", "name":"When attacking with Physical, Strong Melee CRIT rate boosted 30%"}, "name":"GN Sword IV [Saber Mode]", "type":"Physical"},
+				{"part":"melee", "a":1363, "ma":3713, "sa":0, "md":0, "sd":0, "br":680, "pr":286, "wt":["Protag.", "Gundam Type"], "ex":{"type":"Part Traits", "name":"In-Fighter Job Enemy Shooting power reduced 30%"}, "name":"GN Gun Blade [Blade Mode]", "type":"Physical"},
+				{"part":"melee", "a":384, "ma":4004, "sa":0, "md":0, "sd":0, "br":420, "pr":420, "wt":["Protag.", "Close Combat"], "ex":{"type":"Part Traits", "name":"While Close Combat Initial EX Skill charge boosted 20%"}, "name":"GN Sword IV Full Saber", "type":"Physical"},
+				{"part":"range", "a":555, "ma":154, "sa":3331, "md":0, "sd":972, "br":471, "pr":286, "wt":["Protag.", "Gundam Type"], "ex":{"type":"EX Skill", "name":"Wide Cutter Particle Beam"}, "name":"GN Sword IV [Rifle Mode]", "type":"Beam"},
+			]	
+		},
