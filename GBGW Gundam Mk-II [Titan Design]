@@ -1,0 +1,14 @@
+		{
+			"name":"Gundam Mk-II [Titan Design]",
+			"attribute":"Speed",
+			"rarity": 2,
+			"sokai": 0,
+			"parts":[
+				{"part":"head", "a":364, "ma":187, "sa":942, "md":187, "sd":570, "br":201, "pr":81, "wt":["Gundam Type", "Federation"], "ex":{"type":"EX Skill", "name":"Protection Hack (a)"}},
+				{"part":"torso", "a":570, "ma":365, "sa":187, "md":364, "sd":757, "br":281, "pr":0, "wt":["Gundam Type", "Federation"], "ex":{"type":"Part Traits", "name":"With Speed Attribute (self), Buff EX Skill Effect up 12%"}},
+				{"part":"arms", "a":364, "ma":1277, "sa":187, "md":364, "sd":570, "br":0, "pr":0, "wt":["Gundam Type", "For Base"], "ex":{"type":"EX Skill", "name":"With Speed Attribute (self), Strong Melee CRIT Rate boosted 14%"}},
+				{"part":"legs", "a":364, "ma":187, "sa":187, "md":188, "sd":570, "br":581, "pr":201, "wt":["Gundam Type", "Mid-Range"], "ex":{"type":"EX Skill", "name":"Hate Down"}},
+				{"part":"backpack", "a":364, "ma":187, "sa":187, "md":188, "sd":570, "br":581, "pr":201, "wt":["Gundam Type", "Mid-Range"], "ex":{"type":"EX Skill", "name":"Double Saber Rush"}},
+				{"part":"shield", "a":364, "ma":0, "sa":0, "md":364, "sd":942, "br":374, "pr":81, "wt":["Gundam Type", "For Base"], "ex":{"type":"EX Skill", "name":"Missile Launcher"}, "name":"Shield"},
+			]	
+		},
