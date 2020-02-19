@@ -1,0 +1,14 @@
+[
+		"name":"Astray Gold Frame Amatsu",
+		"attribute":"Technique",
+		"rarity": 4,
+		"sokai": 0,
+		"parts":[
+			{"part":"head", "a":795, "ma":382, "sa":2377, "md":795, "sd":795, "br":416, "pr":0, "wt":["High Mobility", "Ace Excl."], "ex":{"type":"Part Traits", "name":"When Armor is 70% or less, Enemy Shooting power reduced 30%"}},
+			{"part":"torso", "a":1601, "ma":382, "sa":382, "md":1179, "sd":1179, "br":609, "pr":0, "wt":["High Mobility", "Ace Excl."], "ex":{"type":"EX Skill", "name":"Mirage Colloid"}},
+			{"part":"arms", "a":795, "ma":2377, "sa":382, "md":1179, "sd":1179, "br":0, "pr":0, "wt":["High Mobility", "Ace Excl."], "ex":{"type":"EX Skill", "name":"Trikeros Rush"}},
+			{"part":"legs", "a":795, "ma":382, "sa":382, "md":1179, "sd":1179, "br":609, "pr":416, "wt":["High Mobility", "For Space"], "ex":{"type":"Part Traits", "name":"With Technique attribute (self), EX Skill CD reduced 20%"}},
+			{"part":"backpack", "a":795, "ma":382, "sa":382, "md":1179, "sd":1179, "br":609, "pr":416, "wt":["High Mobility", "For Space"], "ex":{"type":"EX Skill", "name":"Maga no Ikutachi"}},
+		]
+	},
+]
