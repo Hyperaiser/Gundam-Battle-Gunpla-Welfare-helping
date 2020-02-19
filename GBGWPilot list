@@ -69,6 +69,8 @@
 		{"name":"Auel Neider", "jl":"Defender", "attribute":"Technique", "rarity": 3, "a":889, "ma":291, "sa":889, "md":558, "sd":558, "br":126, "pr":428, "wt":["Amphib.", "Mid-Range"], "ex":{"type":"Part Traits", "name":"With Technique Attribute (self), Debuff EX Skill effect up 15%"}},
 		{"name":"Lalah Sune", "jl":"Support", "attribute":"Technique", "rarity":4, "a":799, "ma":384, "sa":1184, "md":1184, "sd":799, "br":614, "pr":213, "wt":["Long-Range", "Ace Excl."], "ex":{"type":"Part Traits", "name":"With Technique Attribute (self), Debuff EX Skill effect up 22%"}},
 		{"name":"Louise Halevy", "jl":"Defender", "attribute":"Power", "rarity": 3, "a":1144, "ma":292, "sa":292, "md":558, "sd":558, "br":430, "pr":127, "wt":["Support Type", "For Space"], "ex":{"type":"Part Traits", "name":"With Power Attribute (self), Enemy All power reduced 13%"}},
+		{"name":"Lockon Stratos, "jl":"Long-Shooter", "attribute":"Technique", "rarity": 4, "a":799, "ma":384, "sa":1606, "md":799, "sd":799, "br":420, "pr":420, "wt":["High Firepower", "Long-Range"], "ex":{"type":"Part Traits", "name":With Technique Attibute (self), Long Shot Attack raised 20%"}},
+		{"name":"Stella Loussier", "jl":"Out-Fighter", "attribute":"Speed", "rarity": 3, "a":558, "ma":891, "sa":891, "md":558, "sd":558, "br":127, "pr":302, "wt":["Transformer", "Close Combat"], "ex":{"type":"Part Traits", "name":"With Speed Attribute (self), Job Gauge increase boosted 13%"}},
 
 
 ]
