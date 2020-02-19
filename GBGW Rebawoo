@@ -1,0 +1,16 @@
+[
+		"name":"Rebawoo",
+		"attribute":"Technique",
+		"rarity": 3,
+		"sokai": 0,
+		"parts":[
+			{"part":"head", "a":889, "ma":291, "sa":558, "md":889, "sd":291, "br":126, "pr":302, "wt":["Zeon", "Commander"], "ex":{"type":"Part Traits", "name":"With Technique Attribute (self), Projectile speed boosted 14%"}},
+			{"part":"torso", "a":1142, "ma":291, "sa":291, "md":1142, "sd":558, "br":0, "pr":428, "wt":["Zeon", "Commander"], "ex":{"type":"EX Skill", "name":"Beam Vulcan"}},
+			{"part":"arms", "a":291, "ma":2300, "sa":291, "md":1142, "sd":291, "br":0, "pr":0, "wt":["Zeon", "Commander"], "ex":{"type":"EX Skill", "name":"Arm-Mounted Grenade Launcher"}},
+			{"part":"legs", "a":558, "ma":291, "sa":291, "md":1142, "sd":558, "br":428, "pr":302, "wt":["Zeon", "For Computers"], "ex":{"type":"EX Skill", "name":"Flexible Beam Gun"}},
+			{"part":"backpack", "a":558, "ma":291, "sa":291, "md":1142, "sd":558, "br":302, "pr":428, "wt":["Zeon", "For Computers"], "ex":{"type":"Part Traits", "name":"While Zeon, Melee power boosted 25%"}},
+			{"part":"range", "a":889, "ma":0, "sa":1701, "md":0, "sd":0, "br":302, "pr":428, "wt":["Zeon", "Commander"], "ex":{"type":"Part Traits", "name":"While Commander, Initial EX Skill charge boosted 12%"}, "name":"Beam Rifle", "type":"Beam"},
+			{"part":"shield", "a":558, "ma":0, "sa":0, "md":1701, "sd":558, "br":0, "pr":716, "wt":["Zeon", "Commander"], "ex":{"type":"EX Skill", "name":"Grenade Launcher"}, "name":"Shield"},
+		]
+	},
+]
