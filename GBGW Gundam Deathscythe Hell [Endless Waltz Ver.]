@@ -1,0 +1,15 @@
+[
+		"name":"Gundam Deathscythe Hell [Endless Waltz Ver.]",
+		"attribute":"Speed",
+		"rarity": 4,
+		"sokai": 0,
+		"parts":[
+			{"part":"head", "a":1180, "ma":383, "sa":796, "md":1180, "sd":796, "br":417, "pr":212, "wt":["Gundam Type", "Close Combat"], "ex":{"type":"EX Skill", "name":"Head-Mounted Vulcan"}},
+			{"part":"torso", "a":1976, "ma":796, "sa":383, "md":796, "sd":796, "br":610, "pr":0, "wt":["Gundam Type", "Close Combat"], "ex":{"type":"EX Skill", "name":"Self-Destruct"}},
+			{"part":"arms", "a":796, "ma":2781, "sa":0, "md":1180, "sd":1180, "br":0, "pr":0, "wt":["Gundam Type", "High Mobility"], "ex":{"type":"EX Skill", "name":"Hyper Jammer"}},
+			{"part":"legs", "a":1180, "ma":383, "sa":383, "md":1180, "sd":796, "br":610, "pr":417, "wt":["Gundam Type", "High Mobility"], "ex":{"type":"Part Traits", "name":"With Axe category equipped, Melee CRIT rate boosted 30%"}},
+			{"part":"backpack", "a":1180, "ma":383, "sa":383, "md":1180, "sd":796, "br":610, "pr":417, "wt":["Gundam Type", "High Mobility"], "ex":{"type":"Part Traits", "name":"In-Fighter Job, EX Skill piercing boosted 28%"}},
+			{"part":"melee", "a":1180, "ma":3577, "sa":0, "md":0, "sd":0, "br":417, "pr":212, "wt":["Gundam Type", "Close Combat"], "ex":{"type":"Part Traits", "name":"Deadly Circle"}, "name":"Beam Scissors", "type":"Beam"},
+		]
+	},
+]
