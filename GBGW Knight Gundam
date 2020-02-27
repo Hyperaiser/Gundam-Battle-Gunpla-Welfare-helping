@@ -1,0 +1,16 @@
+		{
+			"name":"Knight Gundam",
+			"attribute":"Power",
+			"rarity": 4,
+			"sokai": 1,
+			"parts":[
+				{"part":"head", "a":1352, "ma":551, "sa":964, "md":1352, "sd":964, "br":282, "pr":463, "wt":["Gundam Type", "For Computers"], "ex":{"type":"Part Traits", "name":"With Power Attribute (self), EX Skill Power boosted 30%"}},
+				{"part":"torso", "a":2128, "ma":964, "sa":551, "md":964, "sd":964, "br":0, "pr":669, "wt":["Gundam Type", "For Computers"], "ex":{"type":"EX Skill", "name":"SD Tackle"}},
+				{"part":"arms", "a":964, "ma":2913, "sa":0, "md":1352, "sd":1352, "br":0, "pr":0, "wt":["Gundam Type", "For Computers"], "ex":{"type":"Part Traits", "name":"In-Fighter Job, Melee CRIT Rate boosted 30%"}},
+				{"part":"legs", "a":1352, "ma":551, "sa":551, "md":1352, "sd":964, "br":669, "pr":463, "wt":["Gundam Type", "Close Combat"], "ex":{"type":"Part Traits", "name":"While Gundam Type, EX Skill CD reduced 20%"}},
+				{"part":"backpack", "a":1352, "ma":551, "sa":551, "md":1352, "sd":964, "br":669, "pr":463, "wt":["Gundam Type", "Close Combat"], "ex":{"type":"EX Skill", "name":"Super Electrospear"}},
+				{"part":"melee", "a":1352, "ma":3681, "sa":0, "md":0, "sd":0, "br":282, "pr":463, "wt":["Gundam Type", "Close Combat"], "ex":{"type":"EX Skill", "name":"Comet Sword"}, "name":"Knight Sword", "type":"Physical"},
+				{"part":"melee", "a":1352, "ma":3681, "sa":0, "md":0, "sd":0, "br":282, "pr":463, "wt":["Gundam Type", "For Computers"], "ex":{"type":"EX Skill", "name":"SD Attack"}, "name":"Electrospear", "type":"Physical"},
+				{"part":"shield", "a":1352, "ma":0, "sa":0, "md":1730, "sd":964, "br":282, "pr":890, "wt":["Gundam Type", "Close Combat"], "ex":{"type":"Part Traits", "name":"With Power Attribute (self), Shooting DMG taken reduced 35 (flat)"}, "name":"Knight Shield"},
+			]	
+		},
