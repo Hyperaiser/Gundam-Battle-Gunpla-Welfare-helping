@@ -1,0 +1,15 @@
+[
+		"name":"Sazabi",
+		"attribute":"Technique",
+		"rarity": 4,
+		"sokai": 1,
+		"parts":[
+			{"part":"head", "a":1356, "ma":553, "sa":966, "md":1356, "sd":553, "br":284, "pr":465, "wt":["High Firepower", "Close Combat"], "ex":{"type":"Part Traits", "name":"Out-Fighter Job, Enemy Shooting Power reduced 30%"}},
+			{"part":"torso", "a":1734, "ma":553, "sa":553, "md":1734, "sd":966, "br":0, "pr":673, "wt":["High Firepower", "Close Combat"], "ex":{"type":"EX Skill", "name":"Mega Particle Scatter Cannon"}},
+			{"part":"arms", "a":553, "ma":3312, "sa":553, "md":1734, "sd":553, "br":0, "pr":0, "wt":["High Firepower", "Close Combat"], "ex":{"type":"Part Traits", "name":"When Armor < 70%, Melee Power boosted 30%"}},
+			{"part":"legs", "a":966, "ma":553, "sa":553, "md":1734, "sd":966, "br":673, "pr":465, "wt":["High Firepower", "Zeon"], "ex":{"type":"Part Traits", "name":"With Technique Attribute (self), EX Skill CD reduced 20%"}},
+			{"part":"backpack", "a":966, "ma":553, "sa":553, "md":1734, "sd":966, "pr":465, "br":673, "wt":["High Firepower", "Ace Excl."], "ex":{"type":"EX Skill", "name":"Funnel Combination"}},
+      {"part":"shield", "a":966, "ma":0, "sa":0, "md":2523, "sd":966, "br":0, "pr":1082, "wt":["High Firepower", "Ace Excl."], "ex":{"type":"Part Traits", "name":"Small Missiles"}, "name":"Shield"},
+		]
+	},
+]
