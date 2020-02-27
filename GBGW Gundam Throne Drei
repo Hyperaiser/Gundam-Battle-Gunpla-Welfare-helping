@@ -1,0 +1,15 @@
+[
+		"name":"Gundam Throne Drei",
+		"attribute":"Speed",
+		"rarity": 3,
+		"sokai": 0,
+		"parts":[
+			{"part":"head", "a":889, "ma":291, "sa":1701, "md":291, "sd":291, "br":302, "pr":126, "wt":["Support Type", "Gundam Type"], "ex":{"type":"Part Traits", "name":"With Speed Attribute (self), Mid Shot Attack raised 14%"}},
+			{"part":"torso", "a":1433, "ma":291, "sa":558, "md":558, "sd":558, "br":428, "pr":0, "wt":["Support Type", "Gundam Type"], "ex":{"type":"Part Traits", "name":"While Support Type, EX Skill DMG Taken reduced 25 (flat)"}},
+			{"part":"arms", "a":1701, "ma":558, "sa":558, "md":1433, "sd":1992, "br":590, "pr":126, "wt":["Support Type", "Gundam Type"], "ex":{"type":"EX Skill", "name":"GN Shield Pod"}, "combo":"shield"},
+			{"part":"legs", "a":889, "ma":291, "sa":291, "md":558, "sd":889, "br":428, "pr":302, "wt":["Support Type", "For Urban Arena"], "ex":{"type":"Part Traits", "name":"Supporter Job, EX Skill CD reduced 15%"}},
+			{"part":"backpack", "a":889, "ma":291, "sa":291, "md":558, "sd":889, "br":428, "pr":302, "wt":["Support Type", "For Urban Arena"], "ex":{"type":"EX Skill", "name":"GN Stealth Field"}},
+			{"part":"melee", "a":889, "ma":0, "sa":2300, "md":0, "sd":0, "br":428, "pr":126, "wt":["Support Type", "Gundam Type"], "ex":{"type":"Part Traits", "name":"Supporter Job, Melee DMG Output boosted 20 (flat)"}, "name":"GN Beam Saber", "type":"Beam"},
+		]
+	},
+]
