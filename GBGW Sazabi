@@ -9,7 +9,10 @@
 			{"part":"arms", "a":553, "ma":3312, "sa":553, "md":1734, "sd":553, "br":0, "pr":0, "wt":["High Firepower", "Close Combat"], "ex":{"type":"Part Traits", "name":"When Armor < 70%, Melee Power boosted 30%"}},
 			{"part":"legs", "a":966, "ma":553, "sa":553, "md":1734, "sd":966, "br":673, "pr":465, "wt":["High Firepower", "Zeon"], "ex":{"type":"Part Traits", "name":"With Technique Attribute (self), EX Skill CD reduced 20%"}},
 			{"part":"backpack", "a":966, "ma":553, "sa":553, "md":1734, "sd":966, "pr":465, "br":673, "wt":["High Firepower", "Ace Excl."], "ex":{"type":"EX Skill", "name":"Funnel Combination"}},
-      {"part":"shield", "a":966, "ma":0, "sa":0, "md":2523, "sd":966, "br":0, "pr":1082, "wt":["High Firepower", "Ace Excl."], "ex":{"type":"Part Traits", "name":"Small Missiles"}, "name":"Shield"},
+			{"part":"melee", "a":553, "ma":4110, "sa":0, "md":0, "sd":0, "br":284, "pr":465, "wt":["High Firepower", "Close Combat"], "ex":{"type":"EX Skill", "name":"Piercing Axe"}, "name":"Beam Tomahawk", "type":"Beam"},
+			{"part":"melee", "a":553, "ma":4110, "sa":0, "md":0, "sd":0, "br":284, "pr":465, "wt":["High Firepower", "Zeon"], "ex":{"type":"EX Skill", "name":""With Technique Attribute (self), EX Skill Power boosted 30%""}, "name":"Beam Saber", "type":"Beam"},
+			{"part":"range", "a":1356, "ma":0, "sa":3312, "md":0, "sd":0, "br":465, "pr":673, "wt":["High Firepower", "Ace Excl."], "ex":{"type":"EX Skill", "name":""With Technique Attribute (self), Sp. Shot CRIT Rate boosted 30%""}, "name":"Beam Shot Rifle", "type":"Beam"},
+			{"part":"shield", "a":966, "ma":0, "sa":0, "md":2523, "sd":966, "br":0, "pr":1082, "wt":["High Firepower", "Ace Excl."], "ex":{"type":"Part Traits", "name":"Small Missiles"}, "name":"Shield"},
 		]
 	},
 ]
