@@ -1,0 +1,15 @@
+		{
+			"name":"Tryon 3",
+			"attribute":"Power",
+			"rarity":4,
+			"sokai": 0,
+			"parts":[
+				{"part":"head", "a":797, "ma":384, "sa":2785, "md":384, "sd":384, "br":213, "pr":418, "wt":["Transformer", "High Firepower"], "ex":{"type":"EX Skill", "name":"High Mega Cannon"}},
+				{"part":"torso", "a":1605, "ma":797, "sa":797, "md":797, "sd":797, "br":0, "pr":611, "wt":["Transformer", "High Firepower"], "ex":{"type":"EX Skill", "name":"Hyper Minovsky Chohouken Tryzan"}},
+				{"part":"arms", "a":797, "ma":2785, "sa":1181, "md":384, "sd":384, "br":0, "pr":0, "wt":["Transformer", "High Firepower"], "ex":{"type":"EX Skill", "name":"Armed Booster"}},
+				{"part":"legs", "a":797, "ma":797, "sa":384, "md":797, "sd":797, "br":611, "pr":418, "wt":["Transformer", "Heavy Armor"], "ex":{"type":"EX Skill", "name":"Raptor Breaker"}},
+				{"part":"backpack", "a":797, "ma":797, "sa":384, "md":797, "sd":797, "br":418, "pr":611, "wt":["Transformer", "Heavy Armor"], "ex":{"type":"EX Skill", "name":"Double Cannonade"}},
+				{"part":"melee", "a":384, "ma":3582, "sa":0, "md":0, "sd":0, "br":611, "pr":418, "wt":["Transformer", "Heavy Armor"], "ex":{"type":"Part Traits", "name":"While Transformer, Initial EX Skill Charge boosted 20%"}, "name":"Hyper Minovsky Chohouken", "type":"Beam"},
+				{"part":"melee", "a":384, "ma":3582, "sa":0, "md":0, "sd":0, "br":611, "pr":418, "wt":["Transformer", "High Firepower"], "ex":{"type":"Part Traits", "name":"With Power Attribute (self), Strong Melee CRIT Rate boosted 30%"}, "name":"Hyper Beam Saber", "type":"Beam"},
+			]
+		},
