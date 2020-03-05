@@ -1,0 +1,14 @@
+		{
+			"name":"Astray Red Frame Custom",
+			"attribute":"Technique",
+			"rarity": 4,
+			"sokai": 0,
+			"parts":[
+				{"part":"head", "a":1182, "ma":384, "sa":799, "md": 1182, "sd":384, "br":290, "pr":290, "wt":["Protag.", "Close Combat"], "ex":{"type":"Part Traits", "name":"With Technique Attribute (self), Enemy Shooting Power reduced 30%"}},
+				{"part":"torso", "a":1606, "ma":384, "sa":384, "md":1606, "sd":799, "br":290, "pr":290, "wt":["Protag.", "Close Combat"], "ex":{"type":"Part Traits", "name":"In-Fighter Job, Strong Melee Power boosted 30%"}},
+				{"part":"arms", "a":384, "ma":3181, "sa":384, "md":1606, "sd":384, "br":0, "pr":0, "wt":["Protag.", "Close Combat"], "ex":{"type":"Part Traits", "name":"When Armor < 80%, Melee CRIT Rate boosted 30%"}},
+				{"part":"legs", "a":799, "ma":384, "sa":384, "md":1606, "sd":799, "br":420, "pr":290, "wt":["Protag.", "High Mobility"], "ex":{"type":"EX Skill", "name":"Gerbera Straight/Tiger Pierce"}},
+				{"part":"backpack", "a":799, "ma":384, "sa":384, "md":1606, "sd":799, "br":290, "pr":420, "wt":["Protag.", "High Mobility"], "ex":{"type":"EX Skill", "name":"Tactical Arms II L"}},
+				{"part":"melee", "a":384, "ma":4004, "sa":0, "md":0, "sd":0, "br":420, "pr":420, "wt":["Protag.", "Close Combat"], "ex":{"type":"Part Traits", "name":"While Protag., Initial EX Skill Charge boosted 20%"}, "name":"Gerbera Straight/Tiger Pierce", "type":"Physical"},
+			]
+		},
