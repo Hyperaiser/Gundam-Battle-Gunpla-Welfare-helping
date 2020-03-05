@@ -1,0 +1,18 @@
+		{
+			"name":"Build Gundam Mk-II",
+			"attribute":"Speed",
+			"rarity": 3,
+			"sokai": 0,
+			"parts":[
+				{"part":"head", "a":889, "ma":291, "sa":1701, "md":291, "sd":291, "br":302, "pr":126, "wt":["Gundam Type", "For Computers"], "ex":{"type":"EX Skill", "name":"Barrier Stance (y)"}},
+				{"part":"torso", "a":1433, "ma":291, "sa":558, "md":558, "sd":558, "br":428, "pr":0, "wt":["Gundam Type", "For Computers"], "ex":{"type":"Part Traits", "name":"While Gundam Type, Debuff EX Skill Time up 16%"}},
+				{"part":"arms", "a":889, "ma":558, "sa":558, "md":889, "sd":889, "br":0, "pr":0, "wt":["Gundam Type", "For Urban Area"], "ex":{"type":"EX Skill", "name":"Offense Up (a)"}},
+				{"part":"legs", "a":889, "ma":291, "sa":291, "md":558, "sd":889, "br":428, "pr":302, "wt":["Gundam Type", "For Urban Area"], "ex":{"type":"Part Traits", "name":"With Speed Attribute (self), Mid Shot Attack raised 14%"}},
+				{"part":"backpack", "a":889, "ma":291, "sa":291, "md":558, "sd":889, "br":428, "pr":302, "wt":["Gundam Type", "For Urban Area"], "ex":{"type":"EX Skill", "name":"Cougar Rush"}},
+				{"part":"melee", "a":889, "ma":1701, "sa":0, "md":0, "sd":291, "br":302, "pr":126, "wt":["Gundam Type", "For Computers"], "ex":{"type":"Part Traits", "name":"While For Computers, Initial EX Skill Charge boosted 12%"}, "name":"Beam Saber", "type":"Beam"},
+				{"part":"range", "a":889, "ma":0, "sa":2300, "md":0, "sd":0, "br":428, "pr":126, "wt":["Gundam Type", "For Computers"], "ex":{"type":"Part Traits", "name":"With Speed Attribute (self), Job Gauge Increase boosted 13%"}, "name":"Beam Rifle", "type":"Beam"},
+				{"part":"range", "a":889, "ma":0, "sa":2300, "md":0, "sd":0, "br":428, "pr":126, "wt":["Gundam Type", "For Computers"], "ex":{"type":"Part Traits", "name":"Physical ranged weapon reload speed boosted 15%"}, "name":"Hyper Bazooka", "type":"Physical"},
+				{"part":"range", "a":889, "ma":0, "sa":2300, "md":0, "sd":0, "br":428, "pr":126, "wt":["Gundam Type", "For Urban Area"], "ex":{"type":"Part Traits", "name":"When Armor > 60%, Sp. Shot Power boosted 25%"}, "name":"Beam Rifle Mk-II", "type":"Beam"},
+				{"part":"shield", "a":889, "ma":0, "sa":0, "md":558, "sd":1142, "br":590, "pr":126, "wt":["Gundam Type", "For Urban Area"], "ex":{"type":"Part Traits", "name":"Middle-Shooter Job, Shooting DMG Taken reduced 20 (flat)"}, "name":"Moveable Shield"},
+			]
+		},
