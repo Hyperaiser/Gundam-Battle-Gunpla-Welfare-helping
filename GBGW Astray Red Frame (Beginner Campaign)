@@ -1,0 +1,13 @@
+		{
+			"name":"Astray Red Frame (Beginner Campaign)",
+			"attribute":"Power",
+			"rarity":4,
+			"sokai": 0,
+			"parts":[ 
+				{"part":"head", "a":1040, "ma":389, "sa":651, "md": 1040, "sd":651, "br":218, "pr":218, "wt":["Protag.", "Close Combat"], "ex":{"type":"EX Skill", "name":"Igelstellung"}},
+				{"part":"torso", "a":1848, "ma":651, "sa":389, "md":651, "sd":651, "br":218, "pr":218, "wt":["Protag.", "Close Combat"], "ex":{"type":"Part Traits", "name":"With Power Attribute (self), Enemy Strong Melee Power reduced 25%"}}, 
+				{"part":"arms", "a":651, "ma":2656, "sa":0, "md":1040, "sd":1040, "br":0, "pr":0, "wt":["Protag.", "Close Combat"], "ex":{"type":"EX Skill", "name":"Lightning Ball"}}, 
+				{"part":"legs", "a":1040, "ma":389, "sa":389, "md":1040, "sd":651, "br":430, "pr":430, "wt":["Protag.", "For Urban Area"], "ex":{"type":"Part Traits", "name":"With Saber Category equipped, Enemy EX Skill Penetration reduced 22%"}}, 
+				{"part":"backpack", "a":1040, "ma":389, "sa":389, "md":1040, "sd":651, "br":430, "pr":430, "wt":["Protag.", "For Urban Area"], "ex":{"type":"EX Skill", "name":"Double Saber Rush"}}, 
+			]
+		},
