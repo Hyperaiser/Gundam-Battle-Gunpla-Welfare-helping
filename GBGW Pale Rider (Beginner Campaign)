@@ -1,0 +1,13 @@
+		{
+			"name":"Pale Rider (Beginner Campaign)",
+			"attribute":"Power",
+			"rarity": 4,
+			"sokai": 0,
+			"parts":[
+				{"part":"head", "a":653, "ma":390, "sa":1855, "md":390, "sd":1043, "br":219, "pr":219, "wt":["For Urban Area", "Close Combat"], "ex":{"type":"EX Skill", "name":"HADES System"}},
+				{"part":"torso", "a":1043, "ma":653, "sa":390, "md":653, "sd":1464, "br":219, "pr":219, "wt":["For Urban Area", "Close Combat"], "ex":{"type":"Part Traits", "name":"Middle-Shooter Job, Enemy Strong Melee Power reduced 25%"}},
+				{"part":"arms", "a":653, "ma":2666, "sa":390, "md":653, "sd":1043, "br":0, "pr":0, "wt":["For Urban Area", "Close Combat"], "ex":{"type":"Part Traits", "name":"With Power Attribute (self), Shot Guidance boosted 14%"}},
+				{"part":"legs", "a":653, "ma":390, "sa":390, "md":390, "sd":1043, "br":433, "pr":433, "wt":["For Urban Area", "GM Type"], "ex":{"type":"EX Skill", "name":"Leg-Mounted Rocket Launcher"}},
+				{"part":"backpack", "a":653, "ma":390, "sa":390, "md":390, "sd":1043, "br":433, "pr":433, "wt":["For Urban Area", "GM Type"], "ex":{"type":"EX Skill", "name":"180mm Cannon"}},
+			]
+		},
