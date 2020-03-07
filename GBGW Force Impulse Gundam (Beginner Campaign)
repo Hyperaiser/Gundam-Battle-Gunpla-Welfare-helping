@@ -1,0 +1,13 @@
+		{
+			"name":"Force Impulse Gundam (Beginner Campaign)",
+			"attribute":"Technique",
+			"rarity": 4,
+			"sokai": 0,
+			"parts":[
+				{"part":"head", "a":648, "ma":388, "sa":2268, "md":648, "sd":648, "br":0, "pr":332, "wt":["Gundam Type", "Mid-Range"], "ex":{"type":"Part Traits", "name":"With Rifle Category equipped, Enemy Shooting Power reduced 25%"}},
+				{"part":"torso", "a":1454, "ma":388, "sa":388, "md":1036, "sd":1036, "br":0, "pr":514, "wt":["Gundam Type", "For Tundra"], "ex":{"type":"EX Skill", "name":"CIWS"}},
+				{"part":"arms", "a":648, "ma":2268, "sa":388, "md":1036, "sd":1036, "br":0, "pr":0, "wt":["Gundam Type", "Mid-Range"], "ex":{"type":"Part Traits", "name":"With Technique Attribute (self), Strong Melee CRIT Rate boosted 17%"}},
+				{"part":"legs", "a":648, "ma":388, "sa":388, "md":1036, "sd":1036, "br":332, "pr":514, "wt":["Gundam Type", "Mid-Range"], "ex":{"type":"EX Skill", "name":"Rapid Thrust"}},
+				{"part":"backpack", "a":648, "ma":388, "sa":388, "md":1036, "sd":1036, "br":332, "pr":514, "wt":["Gundam Type", "Protag."], "ex":{"type":"EX Skill", "name":"Double Saber Rush"}},
+			]
+		},
