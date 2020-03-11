@@ -1,0 +1,15 @@
+		{
+			"name":"Gundam Barbatos Lupus",
+			"attribute":"Technique",
+			"rarity": 4,
+			"sokai": 1,
+			"parts":[
+				{"part":"head", "a":1356, "ma":553, "sa":966, "md":1356, "sd":553, "br":465, "pr":284, "wt":["Close Combat", "Protag."], "ex":{"type":"EX Skill", "name":"Alaya-Vijnana Limit Breaker"}},
+				{"part":"torso", "a":1734, "ma":553, "sa":553, "md":1734, "sd":966, "br":673, "pr":0, "wt":["Close Combat", "Protag."], "ex":{"type":"Part Traits", "name":"While Protag., EX Skill CD reduced 20%"}},
+				{"part":"arms", "a":553, "ma":3312, "sa":553, "md":1734, "sd":553, "br":0, "pr":0, "wt":["Close Combat", "High Firepower"], "ex":{"type":"EX Skill", "name":200mm Arm Rifle}},
+				{"part":"legs", "a":966, "ma":553, "sa":553, "md":1734, "sd":966, "br":465, "pr":673, "wt":["Close Combat", "Gundam Type"], "ex":{"type":"Part Traits", "name":"With Technique attribute (self), Melee CRIT Rate boosted 30%"}},
+				{"part":"backpack", "a":966, "ma":553, "sa":553, "md":1734, "sd":966, "pr":465, "br":673, "wt":["Close Combat", "Gundam Type"], "ex":{"type":"EX Skill", "name":"Wolf's Howl"}},
+				{"part":"melee", "a":553, "ma":4110, "sa":0, "md":0, "sd":0, "br":465, "pr":284, "wt":["Close Combat", "Protag."], "ex":{"type":"EX Skill", "name":"Mace Rush"}, "name":"Sword Mace", "type":"Physical"},
+				{"part":"melee", "a":553, "ma":4110, "sa":0, "md":0, "sd":0, "br":465, "pr":284, "wt":["Close Combat", "High Firepower"], "ex":{"type":"Part Traits", "name":"15% chance of attacks penetrating super armor"}, "name":"Twin Maces", "type":"Physical"},
+			]
+		},
