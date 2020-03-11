@@ -77,5 +77,7 @@
 		{"name":"Lacus Clyne", "jl":"Support", "attribute":"Technique", "rarity":4, "a":795, "ma":795, "sa":795, "md":795, "sd":795, "br":211, "pr":609, "wt":["Commander", "For Space"], "ex":{"type":"Part Traits", "name":"With Technique Attribute (self), EX Skill Recovery boosted 140 (flat)"}},
 		{"name":"Heine Westenfluss", "jl":"Defender", "attribute":"Speed", "rarity": 3, "a":561, "ma":893, "sa":294, "md":561, "sd":893, "br":215, "pr":215, "wt":["Close Combat", "Commander"], "ex":{"type":"Part Traits", "name":"With Speed Attribute (self), Debuff EX Skill Effect up 15%"}},
 		{"name":"Soma Peries", "jl":"Middle-Shooter", "attribute":"Power", "rarity": 3, "a":558, "ma":291, "sa":291, "md":889, "sd":889, "br":428, "pr":126, "wt":["Mid-Range", "For Space"], "ex":{"type":"Part Traits", "name":"With Power Attribute (self), Enemy Shooting power reduced 25%"}},
+		{"name":"Milliardo Peacecraft", "jl":"Out-Fighter", "attribute":"Technique", "rarity":4, "a":796, "ma":1602, "sa":384, "md":796, "sd":796, "br":213, "pr":417, "wt":["Close Combat", "High Mobility"], "ex":{"type":"Part Traits", "name":"With Technique attribute (self), Vernier Consumption reduced 20%"}},
+		{"name":"Mashymre Cello", "jl":"Defender", "attribute":"Technique", "rarity": 3, "a":889, "ma":889, "sa":291, "md":558, "sd":558, "br":302, "pr":302, "wt":["Zeon", "For Space"], "ex":{"type":"Part Traits", "name":"With Power attribute (self), Debuff EX Skill time up 16%"}},
 
 ]
