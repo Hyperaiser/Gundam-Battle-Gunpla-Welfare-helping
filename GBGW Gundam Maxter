@@ -1,0 +1,13 @@
+		{
+			"name":"Gundam Maxter",
+			"attribute":"Power",
+			"rarity":3,
+			"sokai": 0,
+			"parts":[
+				{"part":"head", "a":889, "ma":291, "sa":558, "md":889, "sd":291, "br":126, "pr":302, "wt":["Mobile Fighter", "Close Combat"], "ex":{"type":"Part Traits", "name":"Out Fighter Job, EX Skill Piercing boosted 22%"}},
+				{"part":"torso", "a":1142, "ma":291, "sa":291, "md":1142, "sd":558, "br":0, "pr":428, "wt":["Mobile Fighter", "Close Combat"], "ex":{"type":"EX Skill", "name":"Hyper Mode"}},
+				{"part":"arms", "a":291, "ma":2300, "sa":291, "md":1142, "sd":291, "br":0, "pr":0, "wt":["Mobile Fighter", "Close Combat"], "ex":{"type":"EX Skill", "name":"Cyclone/Burning Machine Gun Punch"}},
+				{"part":"legs", "a":558, "ma":291, "sa":291, "md":1142, "sd":558, "br":302, "pr":428, "wt":["Mobile Fighter", "For Urban Arena"], "ex":{"type":"EX Skill", "name":"Gigantic Magnum"}},
+				{"part":"backpack", "a":558, "ma":291, "sa":291, "md":1142, "sd":558, "br":428, "pr":302, "wt":["Mobile Fighter", "For Urban Arena"], "ex":{"type":"Part Traits", "name":"With Power attribute (self), 13% chance to not recoil"}},
+			]
+		},
