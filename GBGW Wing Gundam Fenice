@@ -1,0 +1,15 @@
+			{ 
+			"name":"Wing Gundam Fenice", 
+			"attribute":"Technique", 
+			"rarity":4, 
+			"sokai": 0, 
+			"parts":[ 
+				{"part":"head", "a":799, "ma":384, "sa":2791, "md": 799, "sd":384, "br":213, "pr":0, "wt":["Gundam Type", "High Firepower"], "ex":{"type":"EX Skill", "name":""Head-Mounted Vulcan""}}, 
+				{"part":"torso", "a":1184, "ma":384, "sa":384, "md":1608, "sd":799, "br":614, "pr":0, "wt":["Gundam Type", "High Firepower"], "ex":{"type":"EX Skill", "name":"Machine Cannon"}}, 
+				{"part":"arms", "a":799, "ma":1982, "sa":384, "md":1184, "sd":799, "br":0, "pr":0, "wt":["Gundam Type", "High Firepower"], "ex":{"type":"EX Skill", "name":"Verde Fenice"}, "combo":"shield"}, 
+				{"part":"legs", "a":799, "ma":384, "sa":799, "md":1184, "sd":384, "br":614, "pr":420, "wt":["Gundam Type", "High Mobility"], "ex":{"type":"EX Skill", "name":"Meteor Hopper"}}, 
+				{"part":"backpack", "a":799, "ma":384, "sa":384, "md":1608, "sd":384, "br":614, "pr":420, "wt":["Gundam Type", "High Mobility"], "ex":{"type":"Part Traits", "name":"When attacking with Beam, EX Skill Piercing boosted 28%"}}, 
+				{"part":"melee", "a":799, "ma":1982, "sa":0, "md":799, "sd":0, "br":614, "pr":213, "wt":["Gundam Type", "For Desert"], "ex":{"type":"Part Traits", "name":"When Armor is 70% or less, Strong Melee CRIT Rate boosted 30%"}, "name":"Beam Rapier", "type":"Beam"}, 
+				{"part":"range", "a":384, "ma":0, "sa":3590, "md":799, "sd":0, "br":420, "pr":213, "wt":["Gundam Type", "High Firepower"], "ex":{"type":"Part Traits", "name":"With Technique Attribute (self), Sp. Shot CRIT Rate boosted 30%"}, "name":"Buster Rifle Cannon", "type":"Beam"}, 
+			] 
+		},
