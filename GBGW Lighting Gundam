@@ -1,0 +1,16 @@
+		{ 
+			"name":"Lighting Gundam", 
+			"attribute":"Speed", 
+			"rarity":4, 
+			"sokai": 0, 
+			"parts":[
+				{"part":"head", "a":384, "ma":384, "sa":3177, "md":384, "sd":1181, "br":0, "pr":0, "wt":["Long-Range", "For Computers"], "ex":{"type":"Part Traits", "name":"Long-Shooter Job, Long Shot Attack raised 20%"}}, 
+				{"part":"torso", "a":1602, "ma":384, "sa":384, "md":796, "sd":1602, "br":611, "pr":0, "wt":["Long-Range", "For Computers"], "ex":{"type":"Part Traits", "name":"With Speed Attribute (self), EX Skill Piercing boosted 28%"}}, 
+				{"part":"arms", "a":1181, "ma":796, "sa":384, "md":384, "sd":1602, "br":417, "pr":213, "wt":["Long-Range", "For Computers"], "ex":{"type":"EX Skill", "name":"Beam Vulcan"}}, 
+				{"part":"legs", "a":796, "ma":384, "sa":384, "md":796, "sd":1602, "br":417, "pr":611, "wt":["Long-Range", "High Firepower"], "ex":{"type":"EX Skill", "name":"Rapid Thrust"}}, 
+				{"part":"backpack", "a":796, "ma":384, "sa":384, "md":796, "sd":1602, "br":611, "pr":417, "wt":["Long-Range", "High Firepower"], "ex":{"type":"EX Skill", "name":"Missile Pod"}}, 
+				{"part":"range", "a":384, "ma":0, "sa":3997, "md":0, "sd":0, "br":417, "pr":213, "wt":["Long-Range", "For Computers"], "ex":{"type":"EX Skill", "name":"Lightning Snipe"}, "name":"Beam Rifle [Long Barrel]", "type":"Beam"}, 
+				{"part":"range", "a":384, "ma":0, "sa":3997, "md":0, "sd":0, "br":417, "pr":213, "wt":["Long-Range", "High Firepower"], "ex":{"type":"Part Traits", "name":"With Long-Range enemy, EX Skill Power boosted 30%"}, "name":"GN Sniper Rifle", "type":"Beam"}, 
+				{"part":"shield", "a":796, "ma":0, "sa":0, "md":796, "sd":2380, "br":1028, "pr":0, "wt":["Long-Range", "High Firepower"], "ex":{"type":"Part Traits", "name":"With Speed Attribute (self), Debuff EX Skill Effect up 22%"}, "name":"Shield"},
+			]
+		},
