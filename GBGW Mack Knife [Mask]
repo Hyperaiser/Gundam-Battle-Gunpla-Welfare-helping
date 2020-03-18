@@ -1,0 +1,13 @@
+		{
+			"name":"Mack Knife [Mask]",
+			"attribute":"Speed",
+			"rarity": 3,
+			"sokai": 0,
+			"parts":[
+				{"part":"head", "a":1144, "ma":292, "sa":891, "md":558, "sd":558, "br":0, "pr":302, "wt":["Transformer", "High Mobility"], "ex":{"type":"Part Traits", "name":"Middle-Shooter Job, Shot Spread reduced 15%"}},
+				{"part":"torso", "a":1702, "ma":292, "sa":292, "md":558, "sd":558, "br":0, "pr":430, "wt":["Transformer", "High Mobility"], "ex":{"type":"Part Traits", "name":"With Speed Attribute (self), 14% chance to survive a fatal blow"}},
+				{"part":"arms", "a":891, "ma":891, "sa":292, "md":891, "sd":891, "br":0, "pr":127, "wt":["Transformer", "High Mobility"], "ex":{"type":"EX Skill", "name":"Plasma Claw"}},
+				{"part":"legs", "a":891, "ma":292, "sa":292, "md":891, "sd":891, "br":430, "pr":127, "wt":["Transformer", "Commander"], "ex":{"type":"EX Skill", "name":"Photon Bomb"}},
+				{"part":"backpack", "a":891, "ma":292, "sa":292, "md":891, "sd":891, "br":127, "pr":430, "wt":["Transformer", "Commander"], "ex":{"type":"Part Traits", "name":"While Transformer, Shooting DMG Output boosted by 20%"}},
+			]
+		},
