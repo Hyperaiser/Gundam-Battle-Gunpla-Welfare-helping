@@ -1,0 +1,15 @@
+	{
+		"name":"Yami Syougun",
+		"attribute":"Speed",
+		"rarity":4,
+		"sokai":1,
+		"parts":[
+			{"part":"head", "a":972, "ma":556, "sa":556, "md":1365, "sd":1365, "br":0, "pr":682, "wt":["Zaku Type", "Close Combat"], "ex":{"type":"Part Traits", "name":"Out-Fighter Job, Close Shot Attack raised 20%"}},
+			{"part":"torso", "a":1747, "ma":556, "sa":556, "md":1365, "sd":1365, "br":0, "pr":682, "wt":["Zaku Type", "Close Combat"], "ex":{"type":"EX Skill", "name":"SD Tackle"}},
+			{"part":"arms", "a":972, "ma":2541, "sa":556, "md":1365, "sd":1365, "br":0, "pr":76, "wt":["Zaku Type", "Close Combat"], "ex":{"type":"Part Traits", "name":"Beam ranged weapon reload speed boosted 20%"}},
+			{"part":"legs", "a":972, "ma":556, "sa":556, "md":1365, "sd":1365, "br":471, "pr":682, "wt":["Zaku Type", "For Computers"], "ex":{"type":"Part Traits", "name":"With Speed Attribute (self), EX Skill DMG Taken reduced 35 (flat)"}},
+			{"part":"backpack", "a":972, "ma":556, "sa":556, "md":1365, "sd":1365, "br":471, "pr":682, "wt":["Zaku Type", "For Computers"], "ex":{"type":"EX Skill", "name":"Darkness Sword"}},
+			{"part":"melee", "a":972, "ma":3334, "sa":0, "md":0, "sd":0, "br":287, "pr":682, "wt":["Zaku Type", "For Computers"], "ex":{"type":"Part Traits", "name":"With Speed Attribute (self), Melee DMG Output boosted 35 (flat)"}, "name":"Darkness Sword", "type":"Physical"},
+			{"part":"range", "a":972, "ma":0, "sa":3334, "md":0, "sd":0, "br":287, "pr":682, "wt":["Zaku Type", "Close Combat"], "ex":{"type":"Part Traits", "name":"With Speed Attribute (self), Job Gauge Increase boosted 17%"}, "name":"Darkness Cannon", "type":"Beam"},
+		]
+	},
