@@ -1,0 +1,14 @@
+	{
+		"name":"Gundam Virtue",
+		"attribute":"Power",
+		"rarity":3,
+		"sokai": 0,
+		"parts":[
+			{"part":"head", "a":292, "ma":292, "sa":2304, "md":292, "sd":891, "br":0, "pr":0, "wt":["Heavy Armor", "For Space"], "ex":{"type":"Part Traits", "name":"Long-Shooter Job, Shooting DMG Taken reduced 20 (flat)"}},
+			{"part":"torso", "a":1144, "ma":292, "sa":292, "md":599, "sd":1144, "br":213, "pr":213, "wt":["Heavy Armor", "For Space"], "ex":{"type":"Part Traits", "name":"With Power Attribute (self), Buff EX Skill Time up 15%"}},
+			{"part":"arms", "a":891, "ma":559, "sa":292, "md":292, "sd":1144, "br":213, "pr":213, "wt":["Heavy Armor", "For Space"], "ex":{"type":"Part Traits", "name":"With Bazooka Category equipped, Sp. Shot Power boosted 25%"}},
+			{"part":"legs", "a":559, "ma":292, "sa":292, "md":559, "sd":1144, "br":303, "pr":303, "wt":["Heavy Armor", "High Firepower"], "ex":{"type":"EX Skill", "name":"Saber Boomerang"}},
+			{"part":"backpack", "a":559, "ma":292, "sa":292, "md":559, "sd":1144, "br":303, "pr":303, "wt":["Heavy Armor", "High Firepower"], "ex":{"type":"EX Skill", "name":"GN Cannon & GN Field"}},
+			{"part":"range", "a":292, "ma":0, "sa":2871, "md":0, "sd":0, "br":213, "pr":213, "wt":["Heavy Armor", "High Firepower"], "ex":{"type":"EX Skill", "name":"GN Bazooka (w/ Particles Unlocked)"}, "name":"GN Bazooka", "type":"Beam"},
+		]
+	},
