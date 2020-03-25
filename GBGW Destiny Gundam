@@ -1,0 +1,16 @@
+		{
+			"name":"Destiny Gundam",
+			"attribute":"Power",
+			"rarity": 4,
+			"sokai": 1,
+			"parts":[
+				{"part":"head", "a":965, "ma":553, "sa":2922, "md":553, "sd":553, "br":284, "pr":464, "wt":["Gundam Type", "Close Combat"], "ex":{"type":"Part Traits", "name":"Out-Fighter Job, Close Shot Attack raised 20%"}},
+				{"part":"torso", "a":1734, "ma":965, "sa":965, "md":965, "sd":965, "br":284, "pr":284, "wt":["Gundam Type", "Close Combat"], "ex":{"type":"Part Traits", "name":"With Blade Category equipped, Melee Power boosted 30%"}},
+				{"part":"arms", "a":965, "ma":2922, "sa":1356, "md":553, "sd":553, "br":0, "pr":0, "wt":["Gundam Type", "Close Combat"], "ex":{"type":"EX Skill", "name":"Palma Fiocina"}},
+				{"part":"legs", "a":965, "ma":965, "sa":553, "md":965, "sd":965, "br":555, "pr":555, "wt":["Gundam Type", "High Firepower"], "ex":{"type":"Part Traits", "name":"With Power Attribute (self), EX Skill CD reduced 20%"}},
+				{"part":"backpack", "a":965, "ma":965, "sa":553, "md":965, "sd":965, "br":555, "pr":555, "wt":["Gundam Type", "High Firepower"], "ex":{"type":"EX Skill", "name":"Arondight"}},
+				{"part":"melee", "a":553, "ma":3690, "sa":0, "md":0, "sd":0, "br":464, "pr":464, "wt":["Gundam Type", "Close Combat"], "ex":{"type":"Part Traits", "name":"When Armor < 80%, Melee DMG Output boosted 35 (flat)"}, "name":"Arondight", "type":"Beam"},
+				{"part":"range", "a":553, "ma":154, "sa":3690, "md":0, "sd":0, "br":464, "pr":464, "wt":["Gundam Type", "High Firepower"], "ex":{"type":"Part Traits", "name":"With Power Attribute (self), Job Gauge Increase boosted 17%"}, "name":"High-Energy Beam Rifle", "type":"Beam"},
+				{"part":"shield", "a":965, "ma":965, "sa":553, "md":965, "sd":965, "br":555, "pr":555, "wt":["Gundam Type", "Close Combat"], "ex":{"type":"Part Traits", "name":"With Power Attribute (self), Buff EX Skill Effect up 22%%"}, "name":"Anti-Beam Shield"},
+			]
+		},
