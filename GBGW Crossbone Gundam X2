@@ -1,0 +1,18 @@
+		{ 
+			"name":"Crossbone Gundam X2", 
+			"attribute":"Power", 
+			"rarity":4, 
+			"sokai": 0, 
+			"parts":[
+				{"part":"head", "a":384, "ma":384, "sa":3177, "md":384, "sd":1181, "br":0, "pr":0, "wt":["High Firepower", "For Space"], "ex":{"type":"Part Traits", "name":"Long-Shooter Job, Long Shot Attack raised 20%"}}, 
+				{"part":"torso", "a":1602, "ma":384, "sa":384, "md":796, "sd":1602, "br":611, "pr":0, "wt":["High Firepower", "For Space"], "ex":{"type":"EX Skill", "name":"Beam Gun"}}, 
+				{"part":"arms", "a":1181, "ma":796, "sa":384, "md":384, "sd":1602, "br":417, "pr":213, "wt":["High Firepower", "For Space"], "ex":{"type":"Part Traits", "name":"Beam ranged weapon, reload speed boosted 20%"}}, 
+				{"part":"legs", "a":796, "ma":384, "sa":384, "md":796, "sd":1602, "br":417, "pr":611, "wt":["High Firepower", "Ace Excl."], "ex":{"type":"EX Skill", "name":"Heat Dagger"}}, 
+				{"part":"backpack", "a":796, "ma":384, "sa":384, "md":796, "sd":1602, "br":611, "pr":417, "wt":["High Firepower", "Ace Excl."], "ex":{"type":"Part Traits", "name":"With Power Attribute (self), EX Skill Piercing boosted 28%"}}, 
+				{"part":"melee", "a":1181, "ma":2380, "sa":0, "md":0, "sd":0, "br":611, "pr":417, "wt":["High Firepower", "Gundam Type"], "ex":{"type":"EX Skill", "name":"Jovian Stinger"}, "name":"Shot Lancer [X2]", "type":"Physical"}, 
+				{"part":"melee", "a":1181, "ma":2380, "sa":0, "md":0, "sd":0, "br":611, "pr":417, "wt":["High Firepower", "For Space"], "ex":{"type":"EX Skill", "name":"While High Firepower, Initial EX Skill Charge boosted 20%"}, "name":"Beam Zanba [X2]", "type":"Beam"}, 
+				{"part":"range", "a":384, "ma":0, "sa":3997, "md":0, "sd":0, "br":417, "pr":213, "wt":["High Firepower", "Ace Excl."], "ex":{"type":"EX Skill", "name":"With Power Attribute (self), Sp. Shot CRIT Rate boosted 30%"}, "name":"Zanbuster [X2]", "type":"Beam"}, 
+				{"part":"range", "a":384, "ma":0, "sa":3997, "md":0, "sd":0, "br":417, "pr":213, "wt":["High Firepower", "Gundam Type"], "ex":{"type":"Part Traits", "name":"Long-Shooter Job, EX Skill DMG Taken reduced by 35 (flat)"}, "name":"Buster Gun [X2]", "type":"Beam"}, 
+				{"part":"shield", "a":796, "ma":0, "sa":0, "md":796, "sd":2380, "br":1028, "pr":0, "wt":["High Firepower", "Gundam Type"], "ex":{"type":"Part Traits", "name":"With Power Attribute (self), Enemy Shooting Power reduced 30%"}, "name":"Shield"},
+			]
+		},
