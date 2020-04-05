@@ -1,0 +1,14 @@
+		{
+			"name":"Gundam Bael",
+			"attribute":"Technique",
+			"rarity":4,
+			"sokai": 0,
+			"parts":[
+				{"part":"head", "a":1181, "ma":384, "sa":796, "md": 1181, "sd":384, "br":417, "pr":213, "wt":["Close Combat", "For Space"], "ex":{"type":"EX Skill", "name":"Alaya-Vijnana System"}}, 
+				{"part":"torso", "a":1602, "ma":384, "sa":384, "md":1602, "sd":796, "br":611, "pr":0, "wt":["Close Combat", "For Space"], "ex":{"type":"Part Traits", "name":"With Technique Attribute (self), Buff EX Skill effect up 22%"}}, 
+				{"part":"arms", "a":384, "ma":3177, "sa":384, "md":1602, "sd":384, "br":0, "pr":0, "wt":["Close Combat", "For Space"], "ex":{"type":"Part Traits", "name":"With Dual Sabers Category equipped, Melee Power boosted 30%"}}, 
+				{"part":"legs", "a":796, "ma":384, "sa":384, "md":1602, "sd":796, "br":417, "pr":611, "wt":["Close Combat", "Gundam Type"], "ex":{"type":"EX Skill", "name":"Spirit of Agnika"}}, 
+				{"part":"backpack", "a":796, "ma":384, "sa":384, "md":1602, "sd":796, "br":611, "pr":417, "wt":["Close Combat", "Gundam Type"], "ex":{"type":"EX Skill", "name":"Electromagnetic Cannon"}}, 
+				{"part":"melee", "a":1181, "ma":2380, "sa":0, "md":0, "sd":384, "br":417, "pr":213, "wt":["Close Combat", "Gundam Type"], "ex":{"type":"Part Traits", "name":"With Technique Attribute (self), EX Skill Power boosted 30%"}, "name":"Bael Sword", "type":"Physical"}, 
+			]
+		},
